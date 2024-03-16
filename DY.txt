@@ -360,7 +360,7 @@ KBS韩国广播电视,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8?key=tv
 东北警察故事2HD中字,https://vip.lz-cdn3.com/20230708/20121_83308085/2000k/hls/mixed.m3u8
 特种突袭之觉醒HD中字,https://v.cdnlz12.com/20240304/12358_5b4b6470/2000k/hls/mixed.m3u8
 猎冰1,https://v.cdnlz12.com/20240221/11707_3f678833/2000k/hls/mixed.m3u8
-猎冰2https://v.cdnlz12.com/20240221/11706_97e2e5b7/2000k/hls/mixed.m3u8
+猎冰2,https://v.cdnlz12.com/20240221/11706_97e2e5b7/2000k/hls/mixed.m3u8
 猎冰3,https://v.cdnlz12.com/20240221/11705_8fd33cd1/2000k/hls/mixed.m3u8
 猎冰4,https://v.cdnlz12.com/20240222/11745_1e66046c/2000k/hls/mixed.m3u8
 猎冰5,https://v.cdnlz12.com/20240222/11744_c063e038/2000k/hls/mixed.m3u8
