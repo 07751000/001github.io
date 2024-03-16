@@ -290,118 +290,8 @@ KBS韩国广播电视,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8?key=tv
 泰国新闻,http://news1.live14.com/stream/news1_hi.m3u8 
 摔跤格斗,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8 
 美国极限运动台,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8 
-金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8 
-菜园惊险✔原,http://tvbox6.com/tv/douyu.php?id=1735337 
-星星影院✔原,http://tvbox6.com/tv/douyu.php?id=315131 
-爱情公寓,http://tvbox6.com/tv/douyu.php?id=6863367 
-新三国1,http://tvbox6.com/tv/douyu.php?id=5908256 
-邵氏影院,http://tvbox6.com/tv/douyu.php?id=4246519 
-华语房,http://tvbox6.com/tv/douyu.php?id=85894 
-功夫港片,http://tvbox6.com/tv/douyu.php?id=3637765 
-桃花影院,http://tvbox6.com/tv/douyu.php?id=7305938 
-贝贝影院,http://tvbox6.com/tv/douyu.php?id=431460 
-幸运影院,http://tvbox6.com/tv/douyu.php?id=7270927 
-野外生存,http://tvbox6.com/tv/douyu.php?id=1339207 
-经典港剧,http://tvbox6.com/tv/douyu.php?id=4549169 
-表妹影院,http://tvbox6.com/tv/douyu.php?id=5423 
-科幻动作灾难,http://tvbox6.com/tv/douyu.php?id=248753 
-港式恐怖,http://tvbox6.com/tv/douyu.php?id=3637726 
-喜剧经典,http://tvbox6.com/tv/douyu.php?id=9650887 
-华语动作电影,http://tvbox6.com/tv/douyu.php?id=1504768 
-带你看大片,http://tvbox6.com/tv/douyu.php?id=2758565 
-海绵与大星,http://tvbox6.com/tv/douyu.php?id=2250349 
-看经典,http://tvbox6.com/tv/douyu.php?id=7314294 
-热血动漫,http://tvbox6.com/tv/douyu.php?id=206858 
-周星驰电影,http://tvbox6.com/tv/douyu.php?id=3990812 
-刘德华电影2,http://tvbox6.com/tv/douyu.php?id=8985415 
-女神金电影,http://tvbox6.com/tv/douyu.php?id=747764 
-林林影院,http://tvbox6.com/tv/douyu.php?id=9652323 
-漫威电影,http://tvbox6.com/tv/douyu.php?id=4282654 
-怀旧90,http://tvbox6.com/tv/douyu.php?id=9275635 
-高帧影片,http://tvbox6.com/tv/douyu.php?id=6763930 
-米娅电影,http://tvbox6.com/tv/douyu.php?id=6537888 
-小九电影,http://tvbox6.com/tv/douyu.php?id=7136517 
-【RM-点播】点播!模式-24H欢乐不断,http://tvbox6.com/tv/douyu.php?id=131977 
-【RM-轮播】轮播!模式-24H欢乐不断,http://tvbox6.com/tv/douyu.php?id=7298973 
-【回首往事】仨房间画面同步显示,http://tvbox6.com/tv/douyu.php?id=1569773 
-大星与海绵方块,http://tvbox6.com/tv/douyu.php?id=3949681 
-美味!蟹黄堡,http://tvbox6.com/tv/douyu.php?id=8762358 
-【猫和老鼠】汤姆和杰瑞童年回忆,http://tvbox6.com/tv/douyu.php?id=7888428 
-【柯南】外表看似小孩智慧却过于常人,http://tvbox6.com/tv/douyu.php?id=6484910 
-江户川柯南是一个蒸蛋。,http://tvbox6.com/tv/douyu.php?id=5377297 
-万年如一柯播南各位给点电费吧,http://tvbox6.com/tv/douyu.php?id=1783144 
-【三笠】根本不存在解不开的迷!,http://tvbox6.com/tv/douyu.php?id=7050342 
-【超级赛亚人】悟吉塔,http://tvbox6.com/tv/douyu.php?id=7190773
-草帽丶海贼团的直播间,http://tvbox6.com/tv/douyu.php?id=997925 
-【Hunter】动漫热血老贼冒险,http://tvbox6.com/tv/douyu.php?id=6610883 
-【童年往事】仨房间画面同步显示点播,http://tvbox6.com/tv/douyu.php?id=7256376 
-妖精的直播间,http://tvbox6.com/tv/douyu.php?id=5960746 
-【动漫】超燃怀旧经典,http://tvbox6.com/tv/douyu.php?id=1174353 
-【动画电影】童年回忆,http://tvbox6.com/tv/douyu.php?id=10395973 
-【星星动画】童年热血搞笑爱情,http://tvbox6.com/tv/douyu.php?id=4369939 
-【追忆】国语超清动画电影,http://tvbox6.com/tv/douyu.php?id=6449849 
-【动漫】24小时不间断动漫专场,http://tvbox6.com/tv/douyu.php?id=7493575 
-【动漫】记录你的王者峡谷生活~,http://tvbox6.com/tv/douyu.php?id=9360149 
-【小叮当】童年经典动画片,http://tvbox6.com/tv/douyu.php?id=9445279 
-中二日记搞笑日常更新,http://tvbox6.com/tv/douyu.php?id=9505575 
-动漫推荐官方直播间,http://tvbox6.com/tv/douyu.php?id=5187099 
-【经典动漫】9455567,http://tvbox6.com/tv/douyu.php?id=9455567 
-笑出腹肌动漫0,http://tvbox6.com/tv/douyu.php?id=8380708 
-【神剧】经典神剧,http://tvbox6.com/tv/douyu.php?id=3700024 
-【西游】由爱故生怨怨恨交缠那又何苦,http://tvbox6.com/tv/douyu.php?id=9518204 
-电影11,http://tvbox6.com/tv/douyu.php?id=7459925 
-电影23,http://tvbox6.com/tv/douyu.php?id=7494871 
-电影128,http://tvbox6.com/tv/douyu.php?id=675072 
-新三国,http://tvbox6.com/tv/douyu.php?id=2838296 
-电影136,http://tvbox6.com/tv/douyu.php?id=5689514 
-电影166,http://tvbox6.com/tv/douyu.php?id=5581257 
-电影90,http://tvbox6.com/tv/douyu.php?id=6785471 
-电影115,http://tvbox6.com/tv/douyu.php?id=223521 
-电影118,http://tvbox6.com/tv/douyu.php?id=4631599 
-电影122,http://tvbox6.com/tv/douyu.php?id=3485629 
-电影149,http://tvbox6.com/tv/douyu.php?id=6582435 
-电影150,http://tvbox6.com/tv/douyu.php?id=3980787 
-直播,http://tvbox6.com/tv/douyu.php?id=11342386 
-代娱说美剧,http://tvbox6.com/tv/douyu.php?id=9123570 
-炊事班的故事,http://tvbox6.com/tv/douyu.php?id=9639508 
-倍速播放,http://tvbox6.com/tv/douyu.php?id=4105989 
-午夜一部片,http://tvbox6.com/tv/douyu.php?id=1557481 
-地下交通站,http://tvbox6.com/tv/douyu.php?id=7253343 
-龙门镖局,http://tvbox6.com/tv/douyu.php?id=9650860 
-科学放映室,http://tvbox6.com/tv/douyu.php?id=9439712 
-胥渡吧,http://tvbox6.com/tv/douyu.php?id=2040822 
-徐大骚,http://tvbox6.com/tv/douyu.php?id=961386 
-经典小品,http://tvbox6.com/tv/douyu.php?id=9067836 
-舌尖上的火锅,http://tvbox6.com/tv/douyu.php?id=9650849 
-茶啊二中,http://tvbox6.com/tv/douyu.php?id=2925610 
-直播-老爹:還有一件事,http://tvbox6.com/tv/douyu.php?id=7134757 
-影評-火龍果說電影,http://tvbox6.com/tv/douyu.php?id=9559158 
-影評-史君說劇,http://tvbox6.com/tv/douyu.php?id=297689 
-影評-史君說劇1,http://tvbox6.com/tv/douyu.php?id=9419771 
-影評02,http://tvbox6.com/tv/douyu.php?id=9562616 
-影評03,http://tvbox6.com/tv/douyu.php?id=9527700 
-影評04,http://tvbox6.com/tv/douyu.php?id=9573592
-影評05,http://tvbox6.com/tv/douyu.php?id=8656759 
-影評06,http://tvbox6.com/tv/douyu.php?id=8986636 
-影評07,http://tvbox6.com/tv/douyu.php?id=9837291 
-影評-宇宙無敵韓三金,http://tvbox6.com/tv/douyu.php?id=3194372 
-電影-Firend黎伽嘛,http://tvbox6.com/tv/douyu.php?id=8603174 
-電影-Liz陪看,http://tvbox6.com/tv/douyu.php?id=7254536 
-電影-林正英 2,http://tvbox6.com/tv/douyu.php?id=218859 
-電影-恐怖電影,http://tvbox6.com/tv/douyu.php?id=310926 
-電影-鬼吹燈系列,http://tvbox6.com/tv/douyu.php?id=9292503 
-電影-救救小鸭吧,http://tvbox6.com/tv/douyu.php?id=7925840 
-電影-淩兒影院,http://tvbox6.com/tv/douyu.php?id=1377142 
-電影-粤语電影,http://tvbox6.com/tv/douyu.php?id=1226741 
-電影-菜園小餅,http://tvbox6.com/tv/douyu.php?id=7701735 
-電影-愛看電影,http://tvbox6.com/tv/douyu.php?id=432071 
-電影-粵語電影 1,http://tvbox6.com/tv/douyu.php?id=2466104 
-電影-粵語綜藝,http://tvbox6.com/tv/douyu.php?id=7919720
-电影频道👉全网
-九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4 
-逃学威龙2,https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4 
-2020年春晚,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4 
-建国大业,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTA1MzlfNDAzMDAxOTlfNjM2Njc0MDAzNDRfMF8z_bF_Bea22e5faf449da965d3fdc48e21b4137.mp4 
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8 
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8 
 回家的路,https://alimov2.a.kwimgs.com/upic/2022/06/06/05/BMjAyMjA2MDYwNTUyMDlfOTU2MzA3MDg4Xzc2MTQ1NTMxMTQ5XzJfMw==_b_Bd33b3e7c1136989b6380b87a54191e73.mp4?clientCacheKey=3x5xs4z8fww4ba6_b.mp4&tt=b&di=24712421&bp=10000
 舞女泪,https://txmov2.a.kwimgs.com/upic/2022/06/06/05/BMjAyMjA2MDYwNTQ3MDBfOTU2MzA3MDg4Xzc2MTQ1NDUzNTc4XzJfMw==_b_B6fa400e5f2eead32835b3385b527690f.mp4?clientCacheKey=3x3w4viegzrtpqc_b.mp4&tt=b&di=24712421&bp=10000 
 韩国美女,https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4 
@@ -417,12 +307,10 @@ KBS韩国广播电视,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8?key=tv
 长安道,https://txmov2.a.kwimgs.com/upic/2022/01/12/17/BMjAyMjAxMTIxNzI3NDhfNDAzMDAxOTlfNjQ3MzAwNTA2ODJfMF8z_b_Bd60c5c15b0cd9116107864139a79d03e.mp4 
 芙蓉镇,https://txmov2.a.kwimgs.com/upic/2023/02/13/13/BMjAyMzAyMTMxMzU5MzJfNzM5MzQzNzIyXzk2MTI0ODY3NjAwXzBfMw==_b_B436ff38d447ce72f50c0cb4bad24f375.mp4 
 武林外传,https://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4 
-建党伟业,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTAzMzBfNDAzMDAxOTlfNjM2NjcyOTk4MTBfMF8z_b_B07c28e094dc566e52c8e35f1acaa30af.mp4 
 全城通缉,https://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDUzMTlfNDAzMDAxOTlfNjM2Nzg2NjEwNDRfMF8z_b_Bf1c40824eac16988fd87f2df97b48e75.mp4 
 无耻神混,https://txmov2.a.kwimgs.com/bs3/video-hls/5209538933209942732_hlsb.m3u8?pkey=AAXDLFLfdH5F0v7MtrB0eKM5KOxjcQuhTzz2wo3cH0BpiLtCd6SftpO8Qmi62Z7aCbh4z2WvJlsUXW_oCNQIYA6cGsVbJRY8YLQG84OCtw8a5YbJLX0mcwkcm0Lac4UAMKk 
 甜蜜杀机,https://txmov2.a.kwimgs.com/upic/2022/01/05/20/BMjAyMjAxMDUyMDAxMzBfNDAzMDAxOTlfNjQyODYzNTg0MzdfMF8z_b_B8f7810d3b3d3e85455dcd3ae71a0873e.mp4 
-金珍妮011,https://alimov2.a.kwimgs.com/upic/2022/04/20/09/BMjAyMjA0MjAwOTAxMzFfMjU4NDU3NjQ3OV83MjQ3OTQ5ODc3Ml8wXzM=_b_Ba4e4df4060edfe148d9227b4fb7aa618.mp4? 
-轮回路上,https://txmov2.a.kwimgs.com/upic/2022/02/20/15/BMjAyMjAyMjAxNTQwMjhfNDgxMDc1MjAyXzY4MDE4MzQ2NDExXzJfMw==_b_B279dfe2c5111f831812e59bd75d192b3.mp4 
+金珍妮011,https://alimov2.a.kwimgs.com/upic/2022/04/20/09/BMjAyMjA0MjAwOTAxMzFfMjU4NDU3NjQ3OV83MjQ3OTQ5ODc3Ml8wXzM=_b_Ba4e4df4060edfe148d9227b4fb7aa618.mp4?  
 高清舞曲,https://txmov2.a.kwimgs.com/upic/2022/03/25/20/BMjAyMjAzMjUyMDUyNTZfMjM0NDc1MTE5N183MDQ0NzkzMTQxOV8wXzM=_b_B383b34c7a7c97f97b5350f622d8da0a6.mp4?tag=1-1648554367-std-1-puqq96jiry-1167f7fd60758f88&clientCacheKey=3x3qtumzyu5rh6w_b.mp4&tt=b&di=79c43beb&bp=12681 
 战狼,https://txmov2.a.kwimgs.com/upic/2020/12/11/12/BMjAyMDEyMTExMjM1NDRfNDAzMDAxOTlfNDA1MjQ4ODkyMDBfMF8z_b_B464feff0fc15f6544ad0783222e5409f.mp4 
 叶问,https://txmov2.a.kwimgs.com/upic/2020/12/14/17/BMjAyMDEyMTQxNzM1MzRfNDAzMDAxOTlfNDA3MDI0NzczMDJfMF8z_b_Bc617b3a6837c6897fc9155b08d0425a5.mp4 
@@ -456,7 +344,6 @@ KBS韩国广播电视,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8?key=tv
 镖行天下之牡丹阁,https://txmov2.a.kwimgs.com/upic/2021/10/09/08/BMjAyMTEwMDkwODQ5NDNfMTI0MzE0NjMyOF81ODczMzA0Nzc5NF8yXzM=_b_B6cdb22f97b91445496f73514fc915bdd.mp4 
 赌神,https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM 
 赌侠2之上海滩赌圣,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
-顿巴斯前线,https://cdnv.rt.com/download/doc-files/filmy/chvk-vagner-kontrakt-s-rodinoi/chvk-vagner-kontrakt-s-rodinoi_3.mp4 
 红牡丹,https://txmov2.a.kwimgs.com/upic/2022/03/26/15/BMjAyMjAzMjYxNTMwMjBfMTk3MTQ3Njk5N183MDUwMzQwMTcyNV8yXzM=_b_Bdb4cb0ccf894792a00415f74b9075b9f.mp4 
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4 
 狼牙山五壮士,https://txmov2.a.kwimgs.com/upic/2021/09/13/23/BMjAyMTA5MTMyMzI0NDZfMTI0MzE0NjMyOF81NzEyNzc1ODUxM18yXzM=_b_Bd5a097c0724b5144fa14f9763ddd07b6.mp4 
