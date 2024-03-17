@@ -348,7 +348,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 2024年,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20240210/1d7c7f27f96f4155b2037e8c4db41c7e_H264_3000K_MP4/20240210040209928.m3u8
-央广,#genre#
+央广电台,#genre#
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
@@ -383,7 +383,7 @@ Love Radio FM103.7,http://live.xmcdn.com/live/55/64.m3u8
 Love Radio FM103.7,http://ls.qingting.fm/live/273.m3u8
 MY FM 西安 FM105.5,http://live.xmcdn.com/live/870/64.m3u8
 清晨音乐台,http://lhttp.qingting.fm/live/4915/64k.mp3
-世界,#genre#
+世界电台,#genre#
 YES 933 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
 Gold 905 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
 Class 95 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
@@ -430,7 +430,7 @@ Mandarin Radio,http://streaming.radionomy.com/JamendoLounge
 CCN赛普勒斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
 纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH
 UFM 100.3 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
-音乐,#genre#
+音乐电台,#genre#
 北京好音乐广播,https://lhttp.qingting.fm/live/5021381/64k.mp3
 上海东广新闻台,http://lhttp.qingting.fm/live/275/64k.mp3
 上海经典947音乐广播,http://lhttp.qingting.fm/live/267/64k.mp3
@@ -476,7 +476,7 @@ AsiaFM亚洲音乐台,https://lhttp.qingting.fm/live/4581/64k.mp3
 新疆音乐广播 MyFM FM103.9,http://ls.qingting.fm/live/4029.m3u8
 长沙新闻广播 FM105.0,http://ls.qingting.fm/live/4877.m3u8
 郑州私家车 FM91.8,http://ls.qingting.fm/live/1222.m3u8
-YueChan,#genre#
+YueChan电台,#genre#
 北京新闻广播,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京文艺广播,http://ls.qingting.fm/live/333.m3u8
 北京交通广播,http://ls.qingting.fm/live/336.m3u8
@@ -547,7 +547,7 @@ BBC Radio 4,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourf
 BBC Radio 4 Extra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
 BBC Radio 5 Live,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
 BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
-地方,#genre#
+地方电台,#genre#
 安阳交通广播 FM89,http://ls.qingting.fm/live/2138.m3u8
 安阳汽车音乐台 FM100.8,http://ls.qingting.fm/live/2123.m3u8
 安阳新闻综合广播 FM94.2,http://ls.qingting.fm/live/4689560.m3u8
@@ -1032,7 +1032,7 @@ BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6musi
 西藏汉语广播 FM93.3,http://media.vtibet.com/masvod/HLSLive/13/hanyuRadio.m3u8
 西藏康巴话广播 FM103.0,http://media.vtibet.com/masvod/HLSLive/15/kangbaRadio.m3u8
 西藏科教广播 FM106.3,http://media.vtibet.com/masvod/HLSLive/49/kejiaoRadio.m3u8
-中国广播,#genre#
+中国广播电台,#genre#
 民歌悠扬,https://lhttp.qingting.fm/live/15318585/64k.mp3
 上海新闻广播,http://lhttp.qingting.fm/live/270/64k.mp3
 上海故事广播,http://lhttp.qingting.fm/live/268/64k.mp3
