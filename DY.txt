@@ -1,3 +1,4 @@
+🎈卫视直播,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
 安徽卫视,http://live.ahsx.ahtv.cn/live/ahtv.m3u8?txSecret=a069b18fac6cd605568d3733d24e5613&txTime=6955487F 
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8 
@@ -15,7 +16,7 @@
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8 
-秒开频道
+🎈港台直播,#genre#
 凤凰中文,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv 
 TVB翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv 
@@ -78,6 +79,7 @@ HBO 家庭台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxc
 爱尔达体育Ⅱ台,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv 
 爱尔达体育Ⅲ台,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv 
 ELEVEN1台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv 
+🎈美国酒店源码,#genre#
 CCTV-1,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
 CCTV-2,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0002_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
 CCTV-4,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0004_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
@@ -131,6 +133,7 @@ CECTV4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 中国国际教育2,http://tvbox6.com/tv/cectv2.m3u8 
 中国国际教育3,http://tvbox6.com/tv/cectv3.m3u8 
 中国国际教育4,http://tvbox6.com/tv/cectv4.m3u8 
+🎈国际频道,#genre#
 LOVE NATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8 
 REDBULL SPORTS,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8 
 FASHION,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8 
@@ -187,6 +190,7 @@ KBS韩国广播电视,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8?key=tv
 泰国新闻,http://news1.live14.com/stream/news1_hi.m3u8 
 摔跤格斗,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8 
 美国极限运动台,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8  
+🎈其他,#genre#
 回家的路,https://alimov2.a.kwimgs.com/upic/2022/06/06/05/BMjAyMjA2MDYwNTUyMDlfOTU2MzA3MDg4Xzc2MTQ1NTMxMTQ5XzJfMw==_b_Bd33b3e7c1136989b6380b87a54191e73.mp4?clientCacheKey=3x5xs4z8fww4ba6_b.mp4&tt=b&di=24712421&bp=10000
 舞女泪,https://txmov2.a.kwimgs.com/upic/2022/06/06/05/BMjAyMjA2MDYwNTQ3MDBfOTU2MzA3MDg4Xzc2MTQ1NDUzNTc4XzJfMw==_b_B6fa400e5f2eead32835b3385b527690f.mp4?clientCacheKey=3x3w4viegzrtpqc_b.mp4&tt=b&di=24712421&bp=10000 
 韩国美女,https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4 
