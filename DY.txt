@@ -16,16 +16,7 @@
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8 
-港台体验台,#genre#
-TVB翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv 
-TVB明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv 
-TVBJ2台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv 
-无线新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv 
-无线财经台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv 
-无线财经台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthfgfbvcfghjyfjsjbcvxjvbxjsfjfjsehbvbjtvbd5.flv 
-天映频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv 
-台视新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivencjjtjjudtjljcvbcvntjjjsfwetjfvcbcxvdjbjfflvcjtsxw.flv
-港台_123321,#genre#
+港台测试,#genre#
 凤凰中文,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv 
 TVB翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv 
@@ -87,7 +78,7 @@ HBO 家庭台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxc
 爱尔达体育Ⅱ台,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv 
 爱尔达体育Ⅲ台,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv 
 ELEVEN1台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv 
-🎈美国酒店源码,#genre#
+央视,#genre#
 CCTV-1,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
 CCTV-2,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0002_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
 CCTV-4,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0004_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
@@ -102,6 +93,7 @@ CCTV-12,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0012_1.m3u8?key
 CCTV-13,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0013_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
 CCTV-14,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0014_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
 CCTV-15,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0015_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
+卫视,#genre#
 东南卫视,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0137_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
 福建综合,http://202311291600.iptv.hongruida.work:8800/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
 厦门卫视,http://202311291600.iptv.hongruida.work:8800/tsfile/live/0129_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
@@ -781,8 +773,4 @@ SING女团】《风陵渡口》歌词版PV[640*360],https://vdse.bdstatic.com//a
 鬼吹灯之湘西密藏,https://vip.lz-cdn1.com/20220509/4937_83bebcbf/1200k/hls/mixed.m3u8
 鬼吹灯之巫峡棺山,https://vip.ffzy-play7.com/20230307/17503_e36b6287/2000k/hls/mixed.m3u8
 🎎_123321,#genre#
-淫新年,https://cdn77-vid.xvideos-cdn.com/C4AtlhPL00CAcNkVc99e-Q==,1710660934/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-360p-753fd.m3u8
-在老公面前被侵犯,https://cdn77-vid.xvideos-cdn.com/sQ3EZy7dedFYwrTB2m5J_g==,1710660969/videos/hls/d8/4d/c5/d84dc599600540232f79babe553c3eed/hls-360p-2a20d.m3u8
-借种生子,https://cdn77-vid.xvideos-cdn.com/XQzpvhio1ZdgTUhNIhe2PQ==,1710661017/videos/hls/3a/42/e2/3a42e237faea600850b0de4a3b5e6a1b/hls-360p-78cfe.m3u8
-领导非得操我老婆,https://cdn77-vid.xvideos-cdn.com/6xKiCFgxdNpWeKe_xbFpng==,1710661071/videos/hls/6f/22/00/6f220055cc6c373e9ef5b7a84afad0e5/hls-360p-d491b.m3u8
-迷奸,https://cdn77-vid.xvideos-cdn.com/Yoo1g87V65vWyF33mT8edQ==,1710661097/videos/hls/c6/0f/a5/c60fa5b18cac54708c2e97a9f8c6bcfb/hls-360p-8c459.m3u8
+
