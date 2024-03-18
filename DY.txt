@@ -1,5 +1,5 @@
-欢迎观看（世界第一等）,#genre#
-https://v.cdnlz13.com/20240311/25446_12ca6b5d/index.m3u8
+欢迎观看,#genre#
+世界第一等,https://v.cdnlz13.com/20240311/25446_12ca6b5d/index.m3u8
 https://v.cdnlz13.com/20240311/25446_12ca6b5d/2000k/hls/mixed.m3u8
 https://v.cdnlz13.com/20240318/25748_1bd96702/2000k/hls/mixed.m3u8
 https://v.cdnlz13.com/20240318/25748_1bd96702/index.m3u8
