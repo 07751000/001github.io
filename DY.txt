@@ -1,4 +1,8 @@
 欢迎观看（世界第一等）,#genre#
+https://v.cdnlz13.com/20240311/25446_12ca6b5d/index.m3u8
+https://v.cdnlz13.com/20240311/25446_12ca6b5d/2000k/hls/mixed.m3u8
+https://v.cdnlz13.com/20240318/25748_1bd96702/2000k/hls/mixed.m3u8
+https://v.cdnlz13.com/20240318/25748_1bd96702/index.m3u8
 卫视直播,#genre#
 湖南卫视,http://222.185.245.194:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://123.160.235.166:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
