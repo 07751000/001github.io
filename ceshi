@@ -1,24 +1,49 @@
 地方体验,#genre#
-南宁公共频道,http://117.141.149.101:9901/tsfile/live/1000_1.m3u8?key=txiptv
-南宁都市生活,http://117.141.149.101:9901/tsfile/live/1001_1.m3u8?key=txiptv
-南宁影视娱乐,http://117.141.149.101:9901/tsfile/live/1002_1.m3u8?key=txiptv
-南宁新闻综合,http://117.141.149.101:9901/tsfile/live/1003_1.m3u8?key=txiptv
-濮阳法制频道,http://120.194.237.190:808/hls/27/index.m3u8
-濮阳公共频道,http://120.194.237.190:808/hls/31/index.m3u8
-濮阳新农村频道,http://120.194.237.190:808/hls/32/index.m3u8
-濮阳晴彩中原,http://120.194.237.190:808/hls/34/index.m3u8
-濮阳移动戏曲,http://120.194.237.190:808/hls/35/index.m3u8
-濮阳文物宝库,http://120.194.237.190:808/hls/36/index.m3u8
-濮阳梨园频道,http://120.194.237.190:808/hls/37/index.m3u8
-长沙女性,http://222.240.82.92:9901/tsfile/live/1007_1.m3u8?key=txiptv
-河北经济,http://121.27.126.65:809/hls/22/index.m3u8
-贵港新闻综合,http://110.72.86.230:808/hls/7/index.m3u8
-平南综合频道,http://110.72.86.230:808/hls/6/index.m3u8
-测试-TVB剧集/体彩,http://110.72.86.230:808/hls/57/index.m3u8
-测试-TVBJ,http://110.72.86.230:808/hls/58/index.m3u8
-南方卫视,http://110.72.86.230:808/hls/81/index.m3u8
-贵港综合,http://110.72.43.168:808/hls/18/index.m3u8
-广东影视,http://110.72.77.121:808/hls/59/index.m3u8
+广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8
+广东民生,https://php.17186.eu.org/gdtv/web/gdgg.m3u8
+广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
+大湾区卫视,https://php.17186.eu.org/gdtv/web/nfws.m3u8
+广东经济科教,https://php.17186.eu.org/gdtv/web/jjkj.m3u8
+广东影视,https://php.17186.eu.org/gdtv/web/gdys.m3u8
+广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+广东4K超高清,https://php.17186.eu.org/gdtv/web/gdzy.m3u8
+广东国际,https://php.17186.eu.org/gdtv/web/gdgj.m3u8
+广东少儿,https://php.17186.eu.org/gdtv/web/gdse.m3u8
+嘉佳卡通,https://php.17186.eu.org/gdtv/web/jjkt.m3u8
+南方购物,https://php.17186.eu.org/gdtv/web/nfgw.m3u8
+岭南戏曲,https://php.17186.eu.org/gdtv/web/lnxq.m3u8
+现代教育,https://php.17186.eu.org/gdtv/web/xdjy.m3u8
+广东移动,https://php.17186.eu.org/gdtv/web/ydpd.m3u8
+GRTN健康频道,https://php.17186.eu.org/gdtv/web/health.m3u8
+GRTN文化频道,https://php.17186.eu.org/gdtv/web/wenhua.m3u8
+GRTN生活频道,https://php.17186.eu.org/gdtv/web/life.m3u8
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+廣東體育（廣電 IPv6）,http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
+廣東新聞（廣電 IPv6）,http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330
+廣東民生（廣電 IPv6）,http://iptv.hiper25.com:42487/guangdongmingsheng/video.m3u8?token=1710447330
+廣東經濟科教（廣電 IPv6）,http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330
+大灣區衛視（廣電 IPv6）,http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
+廣東影視（廣電 IPv6）,http://iptv.hiper25.com:42487/gdyingshi/video.m3u8?token=1710447330
+廣州綜合（廣電 IPv6）,http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330
+廣州新聞（廣電 IPv6）,http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330
+广东体育高清,http://tv.yoesun.com/ystv/zbip.php?ip=1&pd=239.77.0.112:5146
+广东珠江高清,http://tv.yoesun.com/ystv/zbip.php?ip=1&pd=239.77.0.114:5146
+广东新闻高清,http://tv.yoesun.com/ystv/zbip.php?ip=1&pd=239.77.0.173:5146
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+东莞新闻综合频道,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+东莞生活资讯频道,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+广东河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+广东河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
+潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+梅州综合,http://pili-live-hls.xianchangliving.gdmztv.com:80/meizhou-xianchangliving/mztv1.m3u8
+梅州生活,http://pili-live-hls.xianchangliving.gdmztv.com:80/meizhou-xianchangliving/mztv2.m3u8
+深圳都市频道,https://livepull-tcyzb.sztv.com.cn/dushi01.m3u8
 
 
 
