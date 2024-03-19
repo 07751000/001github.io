@@ -318,7 +318,7 @@ CCTV-5+,http://111.225.95.214:8800/hls/101/index.m3u8
 沧州-1,http://111.225.95.214:8800/hls/102/index.m3u8
 沧州-2,http://111.225.95.214:8800/hls/103/index.m3u8
 沧州-3,http://111.225.95.214:8800/hls/104/index.m3u8
-地方体验,#genre#
+地方,#genre#
 南宁公共频道,http://117.141.149.101:9901/tsfile/live/1000_1.m3u8?key=txiptv
 南宁都市生活,http://117.141.149.101:9901/tsfile/live/1001_1.m3u8?key=txiptv
 南宁影视娱乐,http://117.141.149.101:9901/tsfile/live/1002_1.m3u8?key=txiptv
