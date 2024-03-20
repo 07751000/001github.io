@@ -1,13 +1,52 @@
-湖北 武汉 电信,#genre#
-湖北 武汉 电信, http://27.16.217.38:5051/status
-河南 郑州 联通,#genre#
-河南 郑州 联通,http://125.46.142.94:2000/udp/225.1.4.209:1262
-河南 郑州 联通,http://125.46.142.94:2000/udp/225.1.4.208:1261
-河南 郑州 联通,http://125.46.142.94:2000/udp/225.1.4.76:1105
-河南 郑州 联通,http://125.46.142.94:2000/udp/225.1.5.32:1343
-河南 郑州 联通,http://125.46.142.94:2000/udp/225.1.4.17:1046
-河南 郑州 联通,http://125.46.142.94:2000/udp/225.1.4.209:1262
-河南 郑州 联通,http://125.46.142.94:2000/udp/225.1.4.91:1120
-河南 郑州 联通,http://125.46.142.94:2000/udp/225.1.4.76:1105
+TV++,#genre#
+RU TV,https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+RU TV,https://edge02.odtv.az/o7/rutv/playlist.m3u8
+24 TV,https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+Di TV,https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
 
+LS TV,https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+
+NG TV,https://live.streams.ovh/NGradio/NGradio/HasBahCa.m3u8
+
+POP TV,https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8
+
+NAT TV,https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+
+NBA TV,http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
+
+WOW TV,http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist&checkedby:iptvcat.com
+
+Jin TV,https://live.jintv.org/medialive/jintv.m3u8
+
+Tea TV,https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+BLK TV,https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+
+BLK TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+
+Zee TV,https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+AKC TV,https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+
+Sol TV,http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8&checkedby:iptvcat.com
+
+RFH TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/RFH_high/playlist.m3u8
+
+RTG TV,http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/841/index.m3u8
+
+Neo TV,https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+Net TV,http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8&checkedby:iptvcat.com
+
+Hit TV,http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3&checkedby:iptvcat.com
+
+IBN TV,http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+
+NEA TV,https://live.neatv.gr:8888/hls/neatv_low/index.m3u8
+
+Ede TV,http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_b1894400_slNLD.m3u8
+
+EDE TV,https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist.m3u8
+
+30A TV,https://30a-tv.com/my999.m3u8
 
