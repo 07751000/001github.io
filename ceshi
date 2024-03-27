@@ -1,65 +1,31 @@
-电影0327,#genre#
-电影,http://pull.kktv8.com/livekktv/99350550.flv
-电影_9,http://epg.112114.xyz/douyu/9826611
-电影_56,http://epg.112114.xyz/douyu/4246519
-电影_76,http://epg.112114.xyz/douyu/7655471
-电影_73,http://epg.112114.xyz/douyu/4549169
-电影_11,http://epg.112114.xyz/douyu/9651304
-淘电影HD,http://123.122.160.253:19999/rtp/239.3.1.250:8001
-淘电影HD,http://114.245.186.235:10000/rtp/239.3.1.250:8001
-淘电影HD,http://123.112.246.1:5555/rtp/239.3.1.250:8001
-淘电影HD,http://114.252.239.220:9876/rtp/239.3.1.250:8001
-星卫电影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-龍祥電影,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
-宇哥电影,http://epg.112114.xyz/douyu/413573
-东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-黑莓电影,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=3
-动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
-CCTV6-电影,http://211.142.218.74:9901/iptv/movie/cctv6.mp4?key=txiptv
-湖南电影,http://116.128.243.121:9901/tsfile/live/1003_1.m3u8
-经典电影,http://220.173.26.219:5678/udp/239.81.0.84:4056
-经典电影,http://123.10.79.201:808/hls/79/index.m3u8
-龍祥電影,http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-纬来电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
-黑莓电影,https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8
-湖南电影,http://111.8.242.84:9901/tsfile/live/1005_1.m3u8
-新昌电影,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-经典电影,http://121.24.99.177:8090/hls/103/index.m3u8
-动作电影,http://119.54.12.11:9999/hls/90/index.m3u8
-经典电影,http://27.10.211.38:8008/udp/225.0.4.48:7980
-龙华电影,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-东森电影,http://jyjxy.7766.org:8811/hls/58/index.m3u8
+0327,#genre#
 
-纬来电影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 
-龍祥电影,http://198.16.100.90:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
-東森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
-漫威电影,http://epg.112114.xyz/douyu/6140589
+TVBS新闻HD,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 
-東森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-粤语电影2,http://epg.112114.xyz/douyu/6566671
-
-粤语电影3,http://epg.112114.xyz/douyu/1226741
-
-东森电影2,https://epg.pw/stream/4a62ed9593b78b102478dfb9ee5c49007c9082b303b3056a8c99ea50647847de.m3u8
-
-电影_武侠,http://8.210.232.168/php/huya.php?id=11342427
-
-CCTV-6 电影,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv68m/8000000/mnf.m3u8
-
-CINEMAX电影,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
-
-斗鱼电影2,http://diyp.112114.xyz/douyu/4105989
-
-斗鱼电影1,http://epg.112114.xyz/douyu/3637778
-
-虎牙电影3,http://epg.112114.xyz/huya/11342412
-
-中国电影2,http://110.72.76.61:808/hls/65/index.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8?$1920x1080
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+VBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+香港RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港明珠,http://yuju666888.x3322.net:808/hls/106/index.m3u8
+香港 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+凤凰香港台,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+香港开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+凤凰香港台,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+香港有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+香港有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+香港有线新闻,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
+香港電台RTHK 34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
