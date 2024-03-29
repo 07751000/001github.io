@@ -22,7 +22,6 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 
 东森超视,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8 
 湖南DX0328,#genre#
-CCTV1HD,http://175.9.162.245:9999/udp/239.76.245.51:1234
 CCTV1HD,http://175.9.162.245:9999/udp/239.76.246.151:1234
 CCTV2HD,http://175.9.162.245:9999/udp/239.76.246.152:1234
 CCTV3HD,http://175.9.162.245:9999/udp/239.76.246.153:1234
