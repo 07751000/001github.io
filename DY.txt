@@ -1,7 +1,29 @@
 谢谢收看,#genre#
 关注我不迷路,https://youtu.be/0XkmIk6XDZAcode=1F11qzr8hHcx18820240313193651s6945517w7S2H41W&contentID=1F11qzr8hHcx18820240313193651s69&dom=D973&oprChannel=10000000&filename=YTBkODllZjJiNzIwZWI5NjdiMDdkYTFkMTY1NWZiNGUubTN1OA==&rate=0
 ATT,#genre#
-
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+CBN新闻,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
+香港有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u  
+香港有線新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8  
+香港有線新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+香港有線新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8  
+东森新闻,https://epg.pw/stream/7872a236f1393aa913844a130912aa8891f4bbf96841157ed4605778bc0bc62f.m3u8
+中视新闻,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8  
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8  
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8  
+华视新闻,http://223.71.206.22:30080/TW/hsxw/hls.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+娱乐新闻,http://223.71.206.22:30080/HK/ylxw/hls.m3u8
+东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8  
+日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8  
+新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8  
 香港卫视,http://mywlkj.ddns.net:754/tv/hkstv.m3u8 
 香港文旅,http://mywlkj.ddns.net:754/tv/hkstv1.m3u8 
 凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw.m3u8 
@@ -20,7 +42,6 @@ TVB星河,http://mywlkj.ddns.net:754/tv/hk.php?id=30
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8 
 
 
-东森超视,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8 
 湖南DX0328,#genre#
 CCTV1HD,http://175.9.162.245:9999/udp/239.76.246.151:1234
 CCTV2HD,http://175.9.162.245:9999/udp/239.76.246.152:1234
