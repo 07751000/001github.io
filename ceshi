@@ -1,22 +1,105 @@
 GT,#genre#
-WAU TV Live,https://live.cdn.joj.sk/live/andromeda/wau-404.m3u8
-Red Bull TV Live,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-SIC Live,https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-Tel Aviv,https://edge01.balticlivecam.com/blc/Israel1/index.m3u8?token=82249533d5173b85095855dac37112ba:1711947039452
-Tel Aviv,https://edge01.balticlivecam.com/blc/Israel1/tracks-v1/mono.m3u8?token=82249533d5173b85095855dac37112ba%3A1711947039452
-Hope Channel Live,https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t2_r999999999.m3u8
-TV5 Monde Live,https://ott.tv5monde.com/Content/HLS/Live/channel(info)/02.m3u8
-Bloomberg TV Live,https://ov.ottera.tv/channels/cnm_ctm_ro/master.m3u8
-Noovo Live,https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/640000/manifest.m3u8
-Retro Plus TV Live,https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1165212693.m3u8
-	
-Cine Tv Hits Live,https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1133768299.m3u8
-Cine Tv Hits Live,https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w319598003.m3u8
-	
-Runtime Acción Live,https://stream.ads.ottera.tv/cl/240401co53vqm934nheov5dq8g/854x480_1355200_2_f.m3u8?i=475_3058
-X PLUS TV Live,https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1752339806.m3u8
-Canela Cinema Live,https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
-Flou Cine Live,https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/cb543d1e7f6c678684c83e65cef340a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7451db80148b61299bce8c37683f03409a5e5afba358b1ebe45d41dc3ea1b71b55c07910e29f43c88149a6898558965e8327a4109a93a1ded117d4d5f333937f8ab5a2c54007fbb54ad1a468b8d38e6c3ddc423c470a50f5d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe50c00bf84fcf6929d12e7e24e601b986e422f91423205b9ec39579d247f6a7fbd4707dd6d51c7144c86ad718e659faf2e61b9eca199ab76cd0fa395d70f7984b9f92a590af9eb90acd758497afd80a4b40355059c645f4ce249b08cd68a4cb24245e664db9d50097d1970d662207ada86af93f57f9d78288da4e1ccf631055a120fa531763c131232db77eb7ca723cc7764ab6343bfa4a3ccf17afef62a6f1a9906c5182d7c946f078fcf55b82846587597c0852fda2561c2f2a5adfe161013503b366ecc1c5ec72494dacc0c4f0c45c2f147b70760998e9f37f8b84a3784a40d932346d5cd23062aa44be0e1792eb90dd3b/176/1280x720_2657019/index.m3u8
-Runtime - France Live,https://stream.ads.ottera.tv/cl/240401co54111bkeotvv3v6e20/854x480_1355200_2_f.m3u8?i=728_2160
-CBS News Live,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-The Weather Channel en Español Live,https://stream.ads.ottera.tv/cl/240401co542aoorssgt8lknkbg/854x480_756281_3_f.m3u8?i=475_2690
+CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+Live Now FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+NBC News Now,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+ABC7 Bay Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+CBS News Bay Area,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
+Euronews Live,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
+AXS TV Now ,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+Bloomberg Asia,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+TBS,http://143.244.60.30/TBS/index.m3u8
+FXX,http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
+A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
+AMC,http://170.254.18.106/AMC/index.m3u8
+Star,http://170.254.18.106/STAR/index.m3u8
+BET,http://170.254.18.106/BET/index.m3u8
+TNT,http://170.254.18.106/TNT/index.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+ION ,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
+Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
+Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+Star Movies,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
+BBC America,https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+Cinemax East,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
+HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
+HBO Plus,http://170.254.18.106/HBO_PLUS/index.m3u8
+HBO West,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
+HBO 2,http://170.254.18.106/HBO2/index.m3u8
+HBO Family,http://170.254.18.106/HBO_FAMILY/index.m3u
+HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
+&Flix HD,http://89.187.177.137:8081/&FLIX/index.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Wild Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+Comedy Central,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8
+History,http://170.254.18.106/HISTORY/index.m3u8
+Paramount Network,http://170.254.18.106/PARAMOUNT/index.m3u8 
+HBO Xtreme,http://170.254.18.106/HBO_XTREME/index.m3u8
+Cinemax,http://170.254.18.106/CINEMAX/index.m3u8
+Rakuten Comedy,https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Family,https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Action,https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Sky Sport,https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 group-title="国际",Stadium
+https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+#EXTINF:-1 group-title="国际",FIFA+
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+#EXTINF:-1 group-title="国际",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="国际",BBC Earth
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+#EXTINF:-1 group-title="国际",BBC Food
+https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+#EXTINF:-1 group-title="国际",BBC Home
+https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
+#EXTINF:-1 group-title="国际",NBA TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+#EXTINF:-1 group-title="国际",Universal Kids
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
+#EXTINF:-1 group-title="国际",Nat Geo
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+#EXTINF:-1 group-title="国际",NASA
+https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
+#EXTINF:-1 group-title="国际",Start TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467
+#EXTINF:-1 group-title="国际",The Weather Channel
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
+#EXTINF:-1 group-title="国际",Pop
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+#EXTINF:-1 group-title="国际",WE TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
+#EXTINF:-1 group-title="国际",Me TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
+#EXTINF:-1 group-title="国际",SNY
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+#EXTINF:-1 group-title="国际",Documentary+
+https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
+#EXTINF:-1 group-title="国际",Tastemade
+https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+#EXTINF:-1 group-title="国际",MovieSphere
+https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+#EXTINF:-1 group-title="国际",Travelxp
+https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
