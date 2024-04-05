@@ -1,4 +1,28 @@
 测试频道,#genre#
+TVB翡翠台HD,http://mywlkj.ddns.net:754/tv/fct.m3u8 
+凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw.m3u8 
+凤凰资讯,http://mywlkj.ddns.net:754/tv/fhzx.m3u8 
+凤凰香港,http://mywlkj.ddns.net:754/tv/fhhk.m3u8 
+星光视界,http://mywlkj.ddns.net:754/tv/yximgs.php?id=69 
+中天新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=66 
+TVB功夫,http://mywlkj.ddns.net:754/tv/yximgs.php?id=68
+探索频道,http://mywlkj.ddns.net:754/tv/tw.php?id=51 
+TVBS NEWS,http://mywlkj.ddns.net:754/tv/tw.php?id=52 
+八大戏剧,http://mywlkj.ddns.net:754/tv/tw.php?id=53 
+三立戏剧,http://mywlkj.ddns.net:754/tv/tw.php?id=54 
+中华小当家,http://mywlkj.ddns.net:754/tv/tw.php?id=55 
+AMC电影台,http://mywlkj.ddns.net:754/tv/tw.php?id=56 
+凤凰资讯,http://mywlkj.ddns.net:754/tv/tw.php?id=57 
+纬来精彩,http://mywlkj.ddns.net:754/tv/tw.php?id=58 
+探索亚洲,http://mywlkj.ddns.net:754/tv/tw.php?id=60 
+NHK WORLD,http://mywlkj.ddns.net:754/tv/tw.php?id=61 
+八大第一,http://mywlkj.ddns.net:754/tv/tw.php?id=62 
+八大综合,http://mywlkj.ddns.net:754/tv/tw.php?id=63 
+动物星球,http://mywlkj.ddns.net:754/tv/tw.php?id=64 
+music,http://mywlkj.ddns.net:754/tv/tw.php?id=65 
+凤凰中文台,http://mywlkj.ddns.net:754/tv/tw.php?id=67 
+凤凰资讯台,http://mywlkj.ddns.net:754/tv/tw.php?id=68 
+凤凰香港台,http://mywlkj.ddns.net:754/tv/tw.php?id=69 
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港凤凰频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
@@ -11,6 +35,22 @@
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8?$1M1280x720
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8?$1280x720
 FTV Taiwan,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+TRTWORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=1 
+WORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=2 
+TVBS NEWS,http://mywlkj.ddns.net:754/tv/tw3.php?id=3 
+GTV 八大戏剧HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=4 
+三立戏剧台,http://mywlkj.ddns.net:754/tv/tw3.php?id=6 
+AMC电影台,http://mywlkj.ddns.net:754/tv/tw3.php?id=7 
+凤凰资讯台,http://mywlkj.ddns.net:754/tv/tw3.php?id=8 
+纬来精彩HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=9 
+亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11 
+NHK WORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=12 
+GTV八大第1台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=13 
+GTV八大综合台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=14 
+动物星球,http://mywlkj.ddns.net:754/tv/tw3.php?id=15 
+音乐欣赏,http://mywlkj.ddns.net:754/tv/tw3.php?id=16 
+TVB翡翠台,http://mywlkj.ddns.net:754/tv/hiper25.php?id=1 
+TVB 明珠台,http://mywlkj.ddns.net:754/tv/hiper25.php?id=2 
 央视频道,#genre# 
 CCTV1,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV2,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
