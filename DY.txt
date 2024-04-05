@@ -1,5 +1,5 @@
 测试频道,#genre#
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港凤凰频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 香港凤凰高清,http://113.64.145.61:8081/hls/38/index.m3u8
@@ -11,9 +11,7 @@
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8?$1M1280x720
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8?$1280x720
 FTV Taiwan,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-
-
-央卫综合,#genre# 
+央视 频道,#genre# 
 CCTV1,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV2,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV3,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
@@ -239,9 +237,7 @@ CCTV17,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/8888888
 CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-
-
-
+卫视 频道,#genre#
 河北卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?
 山西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1574076400_-2066173512/ott.mobaibox.com/PLTV/3/224/3221227559/index.m3u8
 宁夏卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?
@@ -656,12 +652,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 厦门卫视,http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 农林卫视,http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-
-
-
-
-
-地方频道,#genre#
+地方 频道,#genre#
 咪咕篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕足球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 上海第一财经,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
@@ -1247,21 +1238,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MV  现场,#genre#
+M V  现场,#genre#
 夏奇拉2011巴黎演唱会,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7P_14gUosKjqpAc.mp4
 草蜢-难得有情人(演唱会),http://em.21dtv.com/songs/60076846.mkv
 蔡琴-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035193.mkv
@@ -1321,21 +1298,7 @@ TWINS-恋爱大过天(演唱会),http://em.21dtv.com/songs/60026998.mkv
 林子祥-每一个晚上(演唱会),http://em.21dtv.com/songs/60029088.mkv
 谭锡禧-每一个晚上(演唱会),http://em.21dtv.com/songs/60083372.mkv
 张学友-你是爱我的(演唱会),http://em.21dtv.com/songs/60031991.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-历届春晚,#genre#
+历届 春晚,#genre#
 1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 1984年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 1985年,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
