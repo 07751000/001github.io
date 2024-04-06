@@ -1,4 +1,5 @@
 测试频道,#genre#
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw.m3u8 
 凤凰资讯,http://mywlkj.ddns.net:754/tv/fhzx.m3u8 
 凤凰香港,http://mywlkj.ddns.net:754/tv/fhhk.m3u8 
