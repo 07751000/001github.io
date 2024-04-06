@@ -4,6 +4,9 @@ TVB翡翠台HD,http://mywlkj.ddns.net:754/tv/fct.m3u8
 凤凰资讯,http://mywlkj.ddns.net:754/tv/fhzx.m3u8 
 凤凰香港,http://mywlkj.ddns.net:754/tv/fhhk.m3u8 
 星光视界,http://mywlkj.ddns.net:754/tv/yximgs.php?id=69 
+TVB星河,http://mywlkj.ddns.net:754/tv/xinghe.m3u8
+功夫,http://mywlkj.ddns.net:754/tv/action.m3u8
+娱乐新闻台,http://mywlkj.ddns.net:754/tv/enews.m3u8
 中天新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=66 
 TVB功夫,http://mywlkj.ddns.net:754/tv/yximgs.php?id=68
 探索频道,http://mywlkj.ddns.net:754/tv/tw.php?id=51 
