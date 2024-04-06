@@ -1,2 +1,48 @@
 GT,#genre#
-Mytvsuper,https://www.mytvsuper.com/tc/live/1/
+HBO,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+香港电台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+GOOD卡通,http://live.streamingfast.net/osmflivech40.m3u8
+韩国KBS1,http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+EBS1,http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国EBSeHD,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国Arirang (Opt-1),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+美国Free IPTV,http://stream.srg-ssr.ch/m/rsj/mp3_128
+美国July.12.2018,http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+美国CGTN (Opt-1),http://live.cgtn.com/500/prog_index.m3u8
+美国CGTN (Opt-2),http://live.cgtn.com/1000/prog_index.m3u8
+美国Newsmax TV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+美国Red Bull TV SD,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+加拿大The Shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+德国Baden TV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+意大利Canale 7,http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+意大利Radio Iglesias,http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+意大利Sky TG24,http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+意大利SuperTV,http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+西班牙Navarra TV (Opt-2),http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+西班牙TV Galicia Europa,http://europa-crtvg.flumotion.com/playlist.m3u8
+俄罗斯Astrakhan 24 (Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+俄罗斯RBC (Opt-1),http://92.50.128.180/utv/1358/index.m3u8
+俄罗斯RBC (Opt-2),http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+俄罗斯RBC (Opt-3),http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+俄罗斯Shanson TV (Opt-1),http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+俄罗斯Shanson TV (Opt-2),http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+俄罗斯Tivikom Ulan-Udje,http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+俄罗斯TRO Soyuz,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+波兰TV Kujawy (Opt-1),http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+波兰TV Torun,http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+新西兰Three,http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+哥斯达黎加 Extrema TV,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+摩尔多瓦NTV,http://93.115.137.166/hls/ntvm.m3u8
+乌克兰100% News,http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+斯洛伐克TVNZ,http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+拉脱维亚RETV,http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+拉脱维亚TV Net,http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+希腊Fox TV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+希腊Ionian Channel,http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+土耳其Cay TV,http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+伊拉克 Al Sharqiya,http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+伊拉克 Sharqiya News,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+加纳TV Africa (Ghana),http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
