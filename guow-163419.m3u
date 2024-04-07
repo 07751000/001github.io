@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 ,「中国」CGTN英语
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,「中国」CGTN法语
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 ,「中国」CGTN西语
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 ,「中国」CGTN阿语
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 ,「中国」CGTN俄语
+https://liveru.cgtn.com/500r/prog_index.m3u8
+#EXTINF:-1 ,「中国」CGTN纪录
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 ,「中国」CECTV1
+http://mywlkj.ddns.net:754/tv/cectv1.m3u8
+#EXTINF:-1 ,「中国」CECTV2
+http://mywlkj.ddns.net:754/tv/cectv2.m3u8
+#EXTINF:-1 ,「中国」CECTV3
+http://mywlkj.ddns.net:754/tv/cectv3.m3u8
+#EXTINF:-1 ,「中国」CECTV4
+http://mywlkj.ddns.net:754/tv/cectv4.m3u8
+#EXTINF:-1 ,中国国际教育1
+http://mywlkj.ddns.net:754/tv/cectv1.m3u8
+#EXTINF:-1 ,中国国际教育2
+http://mywlkj.ddns.net:754/tv/cectv2.m3u8
+#EXTINF:-1 ,中国国际教育3
+http://mywlkj.ddns.net:754/tv/cectv3.m3u8
+#EXTINF:-1 ,中国国际教育4
+http://mywlkj.ddns.net:754/tv/cectv4.m3u8
+#EXTINF:-1 ,「国际」LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,「国际」REDBULL SPORTS
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 ,「法国」FASHION
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 ,「美国」CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 ,「英国」BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 ,「欧洲」EZYV1
+http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+#EXTINF:-1 ,「欧洲」EZYV2
+http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+#EXTINF:-1 ,「欧洲」EZYV6
+http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+#EXTINF:-1 ,「欧洲」EZYV6
+http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+#EXTINF:-1 ,「日本」NEWS 24H
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 ,「日本」NKK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 ,日本QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 ,「日本」购物频道
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 ,「日本」购物频道
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 ,「日本」购物频道
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+#EXTINF:-1 ,「日本」购物频道
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+#EXTINF:-1 ,「韩国」CBJ
+http://mywlkj.ddns.net:754/tv/cbjtv.m3u8
+#EXTINF:-1 ,「韩国」EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,「韩国」EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,「韩国」EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,「韩国」EBS1
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,「韩国」EBS2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 ,「韩国」EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,「韩国」EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 ,「韩国」EBS+1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 ,「韩国」EBS+2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 ,「韩国」EBSe
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1 ,「韩国」BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 ,「韩国」KBC
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 ,「韩国」NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 ,「韩国」TJB
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 ,「韩国」KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+#EXTINF:-1 ,「韩国」KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 ,「韩国」KBS World
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 ,「韩国」KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 ,「韩国」KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 ,「韩国」CTS
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 ,「韩国」Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,「韩国」Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 ,「韩国」MTNW
+http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+#EXTINF:-1 ,「韩国」Job plus TV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 ,「韩国」NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 ,「韩国」DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,「亚洲」CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,「亚洲」CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ,「亚洲」环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 ,====== 「越南」ANTV http://mywlkj.ddns.net:754/tv/antv.m3u8 ======
+http://0/0.m3u8
+#EXTINF:-1 ,「卡塔尔」半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 ,「俄罗斯」RT-NEWS
+https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 ,「俄罗斯」RT-DOC
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 ,「俄罗斯」BRICS
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 ,「乌克兰」KPBIM HD
+https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 ,「西班牙」GTP HD
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 ,「土耳其」TRTWorld
+http://mywlkj.ddns.net:754/tv/trtworld.m3u8
+#EXTINF:-1 ,NHK日本广播协会
+http://180.167.104.105:9901/tsfile/live/1025_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 ,KBS韩国广播电视
+http://180.167.104.105:9901/tsfile/live/1026_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 ,CAN亚洲新闻台
+http://180.167.104.105:9901/tsfile/live/1030_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 ,CNB亚太财经
+http://180.167.104.105:9901/tsfile/live/1031_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 ,泰国新闻
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 ,摔跤格斗
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 ,美国极限运动台
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 ,金砖中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,金砖英文
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Jednotka
+http://213.81.133.133:8080/jednotka/index.m3u8
+#EXTINF:-1 ,Dvojka
+http://213.81.133.133:8080/dvojka/index.m3u8 DajTo,http://213.81.133.133:8080/dajto/index.m3u8
