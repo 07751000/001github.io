@@ -4,6 +4,11 @@
 凤凰资讯,http://mywlkj.ddns.net:754/tv/fhzx.m3u8 
 凤凰香港,http://mywlkj.ddns.net:754/tv/fhhk.m3u8 
 星光视界,http://mywlkj.ddns.net:754/tv/yximgs.php?id=69 
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+TVBS asia 台湾,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
+纬来日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 TVB星河,http://mywlkj.ddns.net:754/tv/xinghe.m3u8
 TVB功夫,http://mywlkj.ddns.net:754/tv/action.m3u8
 TVB功夫,http://mywlkj.ddns.net:754/tv/yximgs.php?id=68
@@ -337,6 +342,9 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226463/index.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
+广东珠江「IPV6」,http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3&IASHttpSessionId=RR503820240109152105406385
+大湾区视「IPV6」,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226341/index.m3u8
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226377/index.m3u8
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226474/index.m3u8
