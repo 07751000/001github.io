@@ -916,3 +916,113 @@ TWINS-恋爱大过天(演唱会),http://em.21dtv.com/songs/60026998.mkv
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 2024年,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20240210/1d7c7f27f96f4155b2037e8c4db41c7e_H264_3000K_MP4/20240210040209928.m3u8
+miJP_1,#genre#
+ABC (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+Animax (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+ANN JapaNews24 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+Aomori TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
+Asahi Shimbun Digital (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+AT-X (720p),https://neetball.net/live/neet3.m3u8
+BBC News Asia Pacific (720p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+Bloomberg TV Asia (720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
+Bloomberg TV Asia Live Event (720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+BS Asahi (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+BS Fuji TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+BS Nippon TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+BS TBS (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+BS TV Tokyo (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+BSN (Youtube) (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCoAQNKxgfE32ai4mOXNXvug.m3u8
+Cartoon Network Japan (400p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+CGNTV Japan (1080p),https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
+Channel Ginga (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+Chukyo TV News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
+CNNj (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+Disney Channel Japan (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+Disney Junior (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+Eisei Gekijo (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+EWTN Asia-Pacific (720p) [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+Family Gekijo (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+Fishing Vision (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+Fuji TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+Fuji TV NEXT (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+Gaki no Tsukai (English Subs) (720p),https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+Gaora Sports (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+Golf Network (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+Green Channel (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
+HBC Hokkaido News 24 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+Hokkaido News UHB (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+Home Drama Channel (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+HOME Hiroshima News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
+HTB Hokkaido News 24 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+IBC 6 Box (Youtube) (720p) [Not 24/7],https://ythls.armelin.one/channel/UCMbq0m2vILQTbc0VhOcVWaQ.m3u8
+Iwate Menkoi Television (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCw14eNQAUDqCg-fX3Uvd07w.m3u8
+J Sports 1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+J Sports 2 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+J Sports 3 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+J Sports 4 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+Jidaigeki Senmon (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+Kansai TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+Kayo Pops (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+KBC News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8
+Kids Station (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+LaLa TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+MBS (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+MBS News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
+Mētele News Live 24 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
+Mondo TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+Movie Plus (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+MTV Japan (720p),http://jp.vthanhnetwork.com/MTV/index.m3u8
+Music Japan TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+New Japan Pro Wrestling World (540p),https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+NHK BS (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+NHK BSP4K (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+NHK E (Tokyo) (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+NHK G (Osaka) (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+NHK G (Tokyo) (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+NHK Kishou Saigai (360p) [Not 24/7],https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
+NHK World News (French Subs) (720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
+NHK World News (Portuguese Subs) (720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
+NHK World News (Spanish Subs) (720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+Nihon Eiga Senmon (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+Niigata News NST (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+Nippon TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+Nittele G Plus (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+NTV News24 (480p),https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+Pokémon Kids TV English (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
+Pokémon Kids TV Japanese (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+QVC Japan (720p),https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+RKB NEWS 24 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
+SATV News 24H (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+Shop Channel (1080p) [Not 24/7],https://stream3.shopch.jp/HLS/master.m3u8
+Sky A (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+Space Shower TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+Star 1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+Star 2 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+Star 3 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+STV News Hokkaido (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+Sun TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+Tabi Channel (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+TAKARAZUKA SKY STAGE (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+TBS (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+TBS News (720p) [Not 24/7],https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+Toei Channel (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+Tokyo MX1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+Tokyo MX1 (720p),https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
+Tokyo MX2 (720p),https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
+TOS News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+Tulip TV (Youtube) (720p) [Not 24/7],https://ythls.armelin.one/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
+TV5Monde Pacifique (1080p) [Geo-blocked],https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+TV Asahi (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+TV Osaka (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+TV Shizuoka (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
+TV Tokyo (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+TV-U Yamagata (Youtube) (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCTWatTAOnFVB0vwIetZCTHw.m3u8
+Weathernews (1080p),https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+WOWOW Cinema (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+WOWOW Live (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+WOWOW Prime (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+YTV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+Zarok TV Sorani (720p),https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+РТР Планета Азия,https://player.smotrim.ru/iframe/stream/live_id/63254
