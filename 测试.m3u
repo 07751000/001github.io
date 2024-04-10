@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?key=tvbox6_com
+#EXTINF:-1 ,CCTV2
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?key=tvbox6_com
+#EXTINF:-1 ,CCTV3
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000088/index.m3u8?key=tvbox6_com
+#EXTINF:-1 ,南山有线
+http://113.64.145.224:8081/hls/18/index.m3u8
+#EXTINF:-1 ,揭西台
+http://113.64.145.224:8081/hls/19/index.m3u8
+#EXTINF:-1 ,本港台
+http://113.64.145.224:8081/hls/135/index.m3u8
+#EXTINF:-1 ,凤凰资讯高清
+http://113.64.145.224:8081/hls/36/index.m3u8
+#EXTINF:-1 ,凤凰卫视高清
+http://113.64.145.224:8081/hls/37/index.m3u8
+#EXTINF:-1 ,凤凰香港高清
+http://113.64.145.224:8081/hls/38/index.m3u8
+#EXTINF:-1 ,揭西高清
+http://113.64.145.224:8081/hls/39/index.m3u8
+#EXTINF:-1 ,经典电影
+http://113.64.145.224:8081/hls/61/index.m3u8
+#EXTINF:-1 ,DOX电影
+http://113.64.145.224:8081/hls/62/index.m3u8
+#EXTINF:-1 ,热播剧场
+http://113.64.145.224:8081/hls/63/index.m3u8
+#EXTINF:-1 ,南方经济高清
+http://113.64.145.224:8081/hls/66/index.m3u8
