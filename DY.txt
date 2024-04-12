@@ -1013,6 +1013,8 @@ MAX极速汽车,http://222.65.170.16:8686/udp/239.45.3.49:5140
 
 
 电视直播IPV4,#genre#
+澳亞衛視,https://epg.pw/stream/272b491cb7edf448a56c75a2677cdfa0f9427bc87d01f02765f5aff658dadeba.m3u8
+澳亞衛視,https://epg.pw/stream/b5ac72030e4e36f613511a0bf0cd016621664c7cdd14d6aa1923ed1ce9078484.m3u8
 南山有线,http://113.64.145.224:8081/hls/18/index.m3u8
 揭西台,http://113.64.145.224:8081/hls/19/index.m3u8
 本港台,http://113.64.145.224:8081/hls/135/index.m3u8
