@@ -1,79 +1,43 @@
-重庆卫视, http://125.80.154.252:8001/rtp/235.254.196.249:1268
-CQTV影视, http://125.80.154.252:8001/rtp/235.254.198.180:7980
-CQTV都市, http://125.80.154.252:8001/rtp/235.254.198.181:7980
-CQTV时尚, http://125.80.154.252:8001/rtp/235.254.198.182:7980
-CQTV娱乐, http://125.80.154.252:8001/rtp/235.254.198.187:7980
-CQTV公共农村, http://125.80.154.252:8001/rtp/235.254.198.186:7980
-CQTV少儿, http://125.80.154.252:8001/rtp/235.254.196.214:1128
-CQTV科教, http://125.80.154.252:8001/rtp/235.254.196.215:1132
-CQTV生活, http://125.80.154.252:8001/rtp/235.254.196.216:1136
-CQTV汽摩, http://125.80.154.252:8001/rtp/235.254.196.221:1156
-睛彩重庆, http://125.80.154.252:8001/rtp/235.254.196.218:1146
-纪实高清, http://125.80.154.252:8001/rtp/235.254.198.121:1760
-IPTV3, http://125.80.154.252:8001/rtp/235.254.198.13:1328
-IPTV5, http://125.80.154.252:8001/rtp/235.254.198.14:1332
-IPTV6, http://125.80.154.252:8001/rtp/235.254.198.15:1336
-IPTV8, http://125.80.154.252:8001/rtp/235.254.198.16:1340
-CGTN, http://125.80.154.252:8001/rtp/235.254.198.127:1784
-熊猫频道, http://125.80.154.252:8001/rtp/235.254.198.133:1808
-收视指南, http://125.80.154.252:8001/rtp/235.254.198.112:1724
-财富天下, http://125.80.154.252:8001/rtp/235.254.198.108:1708
-IPTV谍战剧场, http://125.80.154.252:8001/rtp/235.254.198.117:1744
-IPTV相声小品, http://125.80.154.252:8001/rtp/235.254.198.118:1748
-IPTV野外, http://125.80.154.252:8001/rtp/235.254.198.119:1752
-IPTV法治, http://125.80.154.252:8001/rtp/235.254.198.120:1756
-热播剧场, http://125.80.154.252:8001/rtp/235.254.198.113:1728
-经典电影, http://125.80.154.252:8001/rtp/235.254.198.114:1732
-城市剧场, http://125.80.154.252:8001/rtp/235.254.198.74:1572
-军旅剧场, http://125.80.154.252:8001/rtp/235.254.198.75:1576
-古装剧场, http://125.80.154.252:8001/rtp/235.254.198.76:1580
-音乐现场, http://125.80.154.252:8001/rtp/235.254.198.77:1584
-地理, http://125.80.154.252:8001/rtp/235.254.198.78:1588
-美妆, http://125.80.154.252:8001/rtp/235.254.198.79:1592
-美人, http://125.80.154.252:8001/rtp/235.254.198.80:1596
-精选, http://125.80.154.252:8001/rtp/235.254.198.81:1600
-解密, http://125.80.154.252:8001/rtp/235.254.198.82:1604
-军事, http://125.80.154.252:8001/rtp/235.254.198.83:1608
-国学, http://125.80.154.252:8001/rtp/235.254.198.84:1612
-戏曲, http://125.80.154.252:8001/rtp/235.254.198.85:1616
-早教, http://125.80.154.252:8001/rtp/235.254.198.86:1620
-动画, http://125.80.154.252:8001/rtp/235.254.198.87:1624
-精彩导视, http://125.80.154.252:8001/rtp/235.254.196.101:1162
-好学生, http://125.80.154.252:8001/rtp/235.254.198.88:1628
-鉴赏, http://125.80.154.252:8001/rtp/235.254.198.89:1632
-墨宝, http://125.80.154.252:8001/rtp/235.254.198.90:1636
-光影, http://125.80.154.252:8001/rtp/235.254.198.91:1640
-台球, http://125.80.154.252:8001/rtp/235.254.198.92:1644
-爱生活, http://125.80.154.252:8001/rtp/235.254.198.93:1648
-武术, http://125.80.154.252:8001/rtp/235.254.198.94:1652
-高网, http://125.80.154.252:8001/rtp/235.254.198.95:1656
-足球, http://125.80.154.252:8001/rtp/235.254.198.96:1660
-武侠剧场, http://125.80.154.252:8001/rtp/235.254.198.97:1664
-喜剧影院, http://125.80.154.252:8001/rtp/235.254.198.98:1668
-动作影院, http://125.80.154.252:8001/rtp/235.254.198.99:1672
-家庭影院, http://125.80.154.252:8001/rtp/235.254.198.100:1676
-星影, http://125.80.154.252:8001/rtp/235.254.198.101:1680
-CQTV新闻: http://125.80.154.252:8001/rtp/235.254.196.208:1104
-CQTV影视: http://125.80.154.252:8001/rtp/235.254.196.209:1108
-CQTV都市: http://125.80.154.252:8001/rtp/235.254.196.210:1112
-CQTV时尚: http://125.80.154.252:8001/rtp/235.254.196.211:1116
-CQTV娱乐: http://125.80.154.252:8001/rtp/235.254.196.212:1120
-CQTV公共农村: http://125.80.154.252:8001/rtp/235.254.196.213:1124
-开县本地电视1: http://125.80.154.252:8001/rtp/235.254.198.145:1870
-开县本地电视2: http://125.80.154.252:8001/rtp/235.254.198.148:1874
-芒果TV: http://125.80.154.252:8001/rtp/235.254.196.206:7980
-长寿本地1: http://125.80.154.252:8001/rtp/235.254.196.225:1278
-长寿本地2: http://125.80.154.252:8001/rtp/235.254.196.223:1282
-长寿本地3: http://125.80.154.252:8001/rtp/235.254.196.224:1286
-音乐之声: http://125.80.154.252:8001/rtp/235.254.196.128:1306
-江苏晚会4K: http://125.80.154.252:8001/rtp/235.254.198.147:1866
-
-
-
-
-
-
-
-
-
-
+MyCamTV Teen Girls,http://live.mycamtv.com/teen.m3u8
+MyCamTV MILF,http://live.mycamtv.com/milf.m3u8
+MyCamTV Young Girls,http://live.mycamtv.com/young.m3u8
+MyCamTV Mature,http://live.mycamtv.com/bigtits.m3u8
+MyCamTV Arab Girls,http://live.mycamtv.com/arab.m3u8
+MyCamTV Ebony Girls,http://live.mycamtv.com/ebony.m3u8
+MyCamTV Asian Girls,http://live.mycamtv.com/asian.m3u8
+MyCamTV Brunette Girls,http://live.mycamtv.com/brunette.m3u8
+MyCamTV Latina Girls,http://live.mycamtv.com/latina.m3u8
+MyCamTV White Girls,http://live.mycamtv.com/white.m3u8
+MyCamTV Blonde Girls,http://live.mycamtv.com/blonde.m3u8
+MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
+MyCamTV Big Ass Girls,http://live.mycamtv.com/bigass.m3u8
+MyCamTV Girls Squirt,http://live.mycamtv.com/squirt.m3u8
+MyCamTV Big Tits Girls,http://live.mycamtv.com/bigtits.m3u8
+MyCamTV Skinny Girls,http://live.mycamtv.com/skinny.m3u8
+MyCamTV Medium Girls,http://live.mycamtv.com/medium.m3u8
+MyCamTV Blowjob,http://live.mycamtv.com/blowjob.m3u8
+AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
+AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
+AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8
+AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8
+AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
+AdultIPTV.net Latina,http://cdn.adultiptv.net/latina.m3u8
+AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8
+AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+AdultIPTV.net Teen,http://cdn.adultiptv.net/teen.m3u8
+AdultIPTV.net Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+AdultIPTV.net Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
+AdultIPTV.net Threesome,http://cdn.adultiptv.net/threesome.m3u8
+AdultIPTV.net Russian,http://cdn.adultiptv.net/russian.m3u8
+AdultIPTV.net Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8
+AdultIPTV.net Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
+AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8
+AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
+AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
+AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
+AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
