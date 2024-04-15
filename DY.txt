@@ -166,6 +166,8 @@ CGTN西班牙语,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+
+
 卫视IPV6,#genre#
 安徽卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540416BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXv1bCET6%2FGP6LFvnNC2DgGVSARKsxkWGZw7vFUuOj2Qc9XJS6ezvAUx%2FdaE2fSJr3cdTmmqJgNdIzUOCi9%2BOyg
 北京卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
@@ -354,6 +356,8 @@ CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 广西卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+
+
 地方IPV6,#genre#
 金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -419,6 +423,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+
+
 咪咕IPV6,#genre#
 咪咕直播-1「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 咪咕直播-3「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
@@ -463,8 +469,11 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 咪咕直播-43「IPV6」,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
 咪咕直播-45「IPV6」,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
 咪咕直播-46「IPV6」,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+
 五星体育,#genre#
 五星体育,http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+
+
 广东联通IPV4,#genre#
 广东珠江,http://113.68.179.104:4022/udp/239.77.1.94:5146
 广东珠江,http://113.68.179.104:4022/udp/239.77.0.3:5146
@@ -960,6 +969,9 @@ GTV游戏竞技,http://117.9.171.247:4567/udp/225.1.1.222:5002
 游戏风云,http://117.9.171.247:4567/udp/225.1.1.135:5002
 悦美生活,http://117.9.171.247:4567/udp/225.1.2.55:5002
 中国天气,http://117.9.171.247:4567/udp/225.1.2.119:5002
+
+
+
 福建地区IPV4,#genre#
 福建综合,http://117.30.215.40:4022/rtp/239.61.3.4:9542
 东南卫视,http://117.30.215.40:4022/rtp/239.61.2.132:8708
@@ -1075,6 +1087,9 @@ CGTN俄语,http://117.30.215.40:4022/rtp/239.61.3.45:9788
 CGTN德语,http://117.30.215.40:4022/rtp/239.61.3.43:9776
 CCTV1,http://117.30.215.40:4022/rtp/239.61.3.60:9878
 福建综合,http://117.30.215.40:4022/rtp/239.61.2.1:8000
+
+
+
 浙江地区IPV4,#genre#
 CCTV1-综合,http://60.12.183.46:9901/tsfile/live/0001_1.m3u8
 CCTV2-财经,http://60.12.183.46:9901/tsfile/live/0002_1.m3u8
@@ -1127,6 +1142,9 @@ CCTV15-音乐,http://60.12.183.46:9901/tsfile/live/0015_1.m3u8
 科教影视,http://60.12.183.46:9901/tsfile/live/0115_1.m3u8
 浙江新闻,http://60.12.183.46:9901/tsfile/live/1000_1.m3u8
 浙江少儿,http://60.12.183.46:9901/tsfile/live/1007_1.m3u8
+
+
+
 上海地区IPV4,#genre#
 新闻综合,http://222.65.170.16:8686/udp/239.45.3.209:5140
 东方卫视,http://222.65.170.16:8686/udp/239.45.3.146:5140
@@ -1200,6 +1218,9 @@ MAX极速汽车,http://222.65.170.16:8686/udp/239.45.3.49:5140
 康巴卫视,http://222.65.170.16:8686/udp/239.45.1.251:5140
 金鹰卡通,http://222.65.170.16:8686/udp/239.45.3.118:5140
 嘉佳卡通,http://222.65.170.16:8686/udp/239.45.1.48:5140
+
+
+
 X地方IPV4,#genre#
 三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
 三明新闻综合,https://epg.pw/stream/916bb31a6db0c2584f446ee2fe463ef3a4bf76c3275729b118953b4404cf65a5.m3u8
@@ -1362,6 +1383,9 @@ X地方IPV4,#genre#
 點掌財經,https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8
 點掌財經,https://epg.pw/stream/3324872dba2778cd4a7e1f147a00ec4bfd1ce5aa9408586bf8358c383c00439f.m3u8
 點掌財經,https://epg.pw/stream/9ef1593a03a96aa3ba03cabcf54955c1f6e77afc6e8c6a9430c6ce9dc480f3d6.m3u8
+
+
+
 外视测试IPV4,#genre#
 澳亞衛視,https://epg.pw/stream/272b491cb7edf448a56c75a2677cdfa0f9427bc87d01f02765f5aff658dadeba.m3u8
 澳亞衛視,https://epg.pw/stream/b5ac72030e4e36f613511a0bf0cd016621664c7cdd14d6aa1923ed1ce9078484.m3u8
@@ -1433,6 +1457,30 @@ animax (japan),https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd0
 經典電影,https://epg.pw/stream/98b5e5e277185eb959abcae72d13987779650fbb0afc1369c19a91f0e8cc5bc4.ctv
 纬来体育,https://epg.pw/stream/5753687756dad72b53714341c6696534a35cb33206338128e402000d88162079.m3u8
 华视新闻,https://epg.pw/stream/b20d2989c1b4d83ae0b5972a00648b724ae245f21c9542eca7bb8c32a0043a24.ctv
+
+华丽台,https://epg.pw/stream/ddedf632ce91681c3f61f742fed863509e419bd1942dc1aec59dbe04f859d87d.ctv
+华丽台,https://epg.pw/stream/d286d72ac8a3cd6fb43998fa5fdd35d77e3b11d40636df821fa5c2f9945c3445.ctv
+tvri world,https://epg.pw/stream/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
+hk33,https://epg.pw/stream/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8
+hk33,https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
+thk34,https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
+tvbs亚洲,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
+tvbs亞洲,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
+tvbs亚洲,https://epg.pw/stream/df891b505a8433ebc8b75612066a1cc25b14149d1d52136d6c5e3b19e86aa6cf.m3u8
+tvb娱乐新闻,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
+tvb星河,https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
+tvb星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
+axs tv now,https://epg.pw/stream/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
+star,https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8
+tvb娛樂新聞,https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8
+tvb粤语,https://epg.pw/stream/abec66013d19ae7c4651a4897a79205c985bf2bfbe256aebf326857e3759c4f8.m3u8
+天映经典,https://epg.pw/stream/b14f188cf1a82fc7cf93a65ddde6971b6a502577029f3fc887e13e045033bc7b.m3u8
+tvb明珠台,https://epg.pw/stream/00a74ca4020cd952c9e1ff1f90b8f7b9be9c1da4f0a915e1e0aa7c9dfa356197.m3u8
+無綫新聞台,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
+耀才财经,https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
+耀才财经,https://epg.pw/stream/72e6d938d023bbb1ad2c783c86273475d217a32541d77fb5c4113cfe7ae02b2b.m3u8
+
+
 
 RTHK31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
