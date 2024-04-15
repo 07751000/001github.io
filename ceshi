@@ -1,60 +1,15 @@
-[BD].red hd,https://epg.pw/stream/868976b75996b6ff6851adfcd8553283049d486c7b1350ad7045ef209dc406e3.m3u8
-[BD].sci-fi hd,https://epg.pw/stream/8a060ef7646dcd061983e13efa08107d51e4b0c5bccb9fcafcc161787e9e21f5.m3u8
+
 [BD][阿塞拜疆]startvsd,https://epg.pw/stream/659649aed17fbf183a724c76d181ccff78a20ccd016d38a7916030e5a6d03bd2.m3u8
 [BD][埃及]mekameleentv(720p),https://epg.pw/stream/7a54de2efe67b60e33c54ffac780a11865c591152d8e9cd1bef2fac9f026fdc9.m3u8
-[BD][埃及]mekameleentv(720p)@@1,https://epg.pw/stream/5834ff84d51688f1044b1ccfadf40ea2b243e93747092939d57f327dfa53d406.m3u8
-[BD][埃及]mekameleentv(720p)@@2,https://epg.pw/stream/e9dd4cbb3de42db9d7664b91df7d2fd23fdca17ebc48dd9094c14ff9ba8d0624.m3u8
-[BD][德国]okmagdeburg(1080p),https://epg.pw/stream/9f52cb22f0ed9f6222f498cfdeba53d41e73898bf5a9bd604609278d4aa72afc.m3u8
 [BD][德国]okstendal(1080p),https://epg.pw/stream/89d65e49f057b2f8c1c71292b88451c080da1a3c497d4c6306eb3111940482a4.m3u8
-[BD][德国]okstendal(1080p)@@1,https://epg.pw/stream/42c029cfad4299bc0fcf52c2a1d72d5cc9fdd3e54cff74f1cc11dd6564527c80.m3u8
-[BD][德国]rfhtv(1080p),https://epg.pw/stream/3a139fe2c583ef803d5ea108d58aaa33c1ed2229e8de7c7791fc4dae6926a32d.m3u8
-[BD][美国]atd tv (american tv of dardania),https://epg.pw/stream/bc50c48b8ec951e7d708d89ed38f13df91e9ba2d7007b7af1925e09c4c694f2a.m3u8
-[BD][美国]christian youth channel (cyc) (720p),https://epg.pw/stream/ace50287cd5f171b9bb8c5432891985dcc2b21c3baba25ca40d63ee4bd1ec32f.m3u8
 [BD][摩尔多瓦共和国]noroctv,https://epg.pw/stream/64a07fd678996f548c80d4b5ea0a01b725495796e8e2f53fedfe358cbe28aa4c.m3u8
-[BD][沙特阿拉伯]panoramafm(1080p),https://epg.pw/stream/229dc0f09a225b04e326c6f99d2cd004420901935ac74d3b1591c3eb78f6708c.m3u8
-[BD][伊拉克]rudawtv(1080p),https://epg.pw/stream/fac6baa69d25028580438a5acc4261aeaebc0f3155b66097e44c6c98da22fd25.m3u8
-[BD]「江苏」苏州4k,https://epg.pw/stream/7b505d86cb34de26c09f3abcc3faddc08584598ca18e2f7da16f0ce933c7fc71.m3u8
-[BD]1+1,https://epg.pw/stream/5115ee014226bbb6e6fa0758e6d3c083aeba22a3b465e528f8091701a267f42b.m3u8
-[BD]1+1 hd,https://epg.pw/stream/9497ae8fbe51c66b44c3d98429c3ca4aa607f383ed82f9c4e17c2bc568f6736e.m3u8
-[BD]1+1 international,https://epg.pw/stream/5521c681f17fc7acb12a2c7810986b53d6e2d84fb7d29e59f713ef34e4edb923.m3u8
-[BD]10 tv,https://epg.pw/stream/4db07b4a94685f1c22b9a3336cf495cd527ed76e2f67503c2087b171fc66af2a.m3u8
-[BD]1tv,https://epg.pw/stream/222b663897d30ca01a825f33abb8ab421b7839503579d010c66e4b41cbcce6c8.m3u8
-[BD]1綜合@@6,https://epg.pw/stream/03dfdc26b8d150f54584a781861132cb6e66ce5e841e2693bb6054cd724fbd81.m3u8
 [BD]2+2,https://epg.pw/stream/50d82c0c2265c62bf067cd9b5bf84c8e8742710441a685edfcdc6b0ccabf79dc.m3u8
-[BD]2+2 sd,https://epg.pw/stream/ad814351b5f7b7928edd18312a5a1433f24e640e6a8b5cf9dc780fe55007d5e1.m3u8
-[BD]360° новости,https://epg.pw/stream/4205fad871205a43e201e63b949bd2a978da8d4cca2ef8251dd6afe5b24bb697.m3u8
 [BD]4+ hd,https://epg.pw/stream/9274ffa436be90687ba5f0fd230cb3c746b3fb46aa8b168208138e405004d777.m3u8
-[BD]43 канал,https://epg.pw/stream/869a0fcf39221b0bfb8cbfc055c998337b2a11cb81c592f6adecb9232719c7d2.m3u8
-[BD]5 Star Max,https://epg.pw/stream/eea003148abd70f61532a96783cb114dea603090cbddee589f53a9a1a15c8377.ctv
-[BD]5+體育賽事@@2,https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
-[BD]7 info,https://epg.pw/stream/94c279b5e8010f358d0e86498ac3d70a9b8500a4b5b349d4fec9ba63f0646df9.m3u8
-[BD]aaj news,https://epg.pw/stream/727899c8556f026f75b1fe1ff4768fd7df4fbb2a98274c3e3ce44d54118f3249.m3u8
-[BD]abc news live 10,https://epg.pw/stream/ab7149bc298375e403fa0fe8efa847d2f0892e846974b6589f1eb82b14ef584a.m3u8
-[BD]abc news live 3,https://epg.pw/stream/145735e298737853bca185977b10f8998ca09b346294ed999fb70e9b68267f90.m3u8
-[BD]abc news live 5,https://epg.pw/stream/387b40eb2555605cf6d91759c721f6c3f1c0d812a2f7918b36b2d7be285110cf.m3u8
-[BD]abc news live 6,https://epg.pw/stream/ec124c9ae0986d6708ba869f204b9dc79284d27fa6eb5dfd31bf12fbb418406d.m3u8
-[BD]abc news live 7,https://epg.pw/stream/4e042033b5c9a0476250af67a1bb130f013e0f8ecd011374f36f1e94b8ca6d72.m3u8
-[BD]abc news live 9,https://epg.pw/stream/2fbd30af14397459fc239b4fe779d8289677769d5437ccc18bb8d5f6951ed093.m3u8
-[BD]abcnews-720p,https://epg.pw/stream/3fa5b2a9ff7117c33fa171733f89656b54b0c182a88c538229eeaf6f3054b1c6.m3u8
 [BD]abcnews-720p（美国）,https://epg.pw/stream/66385c37c8c680de7662b1e939cba33ce6b60fe6cdcb6a5c5be48cee734dceb6.m3u8
-[BD]action hollywood movies@@1,https://epg.pw/stream/3d8e97b90a231099e00222179e4a1a223e9ecc502ca455a425a3028e26469dbf.m3u8
 [BD]ACTIONMAX,https://epg.pw/stream/460a1a43ac6bf2737319181d8e0405f3681e8d595d2103e328ecb0262076ea85.ctv
 [BD]ACTIONMAX,https://epg.pw/stream/9412f9246ec8ab5d3d96761cbdf6e1e7781ac6a8c4b35b0163de6a506ca38c37.ctv
 [BD]adb tv,https://epg.pw/stream/f138e1050996f74c61b8e2dfca8584c9015adf636e033936687d4e632b8cdacf.m3u8
-[BD]adom tv,https://epg.pw/stream/cd2c10260fa6dd201a0d43aae3e2104938247ce7a5fe038663ee295825ec20c9.m3u8
 [BD]africa tv 2,https://epg.pw/stream/e88cd8989af6ed46581c92ab3363e7075a5775ca2a0e4ed22adf9aff06aac6ba.m3u8
-[BD]africa tv3,https://epg.pw/stream/be1d2a0bd41f7cd625d1e65ad7eb4102c774189157b2216d04999d660a403f9c.m3u8
-[BD]agro tv@@2,https://epg.pw/stream/bd87c8f7100cb9ce820814ac7ca143890ded13a8d35b605851df2f1492a5caf3.m3u8
-[BD]ajman hd,https://epg.pw/stream/f32c5ef69d058d5f6fa450f46424535d91792d3a41e9bc39910cc7c83e67a325.ctv
-[BD]aktv,https://epg.pw/stream/cc52b909ff4b7cd54f506ae233e2ed17644c0f44e566e59ac539558ca720e93d.m3u8
-[BD]al iraqia,https://epg.pw/stream/89cdec890f8c3e02dcc527eaab2715e30f667f1b718054b45a368354f1bbc874.m3u8
-[BD]al iraqia news,https://epg.pw/stream/c997e9dcc68f170eb3ea885d9d96b42dc79f1d00dc7f98324f2d1cdf5accb85a.m3u8
-[BD]al jazeera arabic,https://epg.pw/stream/1c47d081a8f71c76b77a4d0b2dc5051911cdb6ebde1d103e92fd55f18088ed42.m3u8
-[BD]al jazeera balkans (1080p),https://epg.pw/stream/2aab4d01d613e813ea039adf31affdf4417e9135cddfc421348fee23dce26bac.m3u8
-[BD]al jazeera english,https://epg.pw/stream/2dd9ec504511c8a56f29d9208b2fa6d6adec65c640e952948e85bc9937a51aa6.m3u8
-[BD]al jazeera english@@1,https://epg.pw/stream/9173698cbb340650cc533626308df74044bea08508916f357780d24a9a6969f5.m3u8
-[BD]al jazeera english@@4,https://epg.pw/stream/37315a6a4e0fce5105b4a4aa1cec2f755081f5ab0e446b9d5cbc6dac4c8cc27f.m3u8
-[BD]al jazeera mubasher (1080p),https://epg.pw/stream/a2632b8be0e6ecc5735a19a93bee30bc97ca66d44c1c98f44236d9baf6a7698b.m3u8
 [BD]al rabiaa tv,https://epg.pw/stream/b65309a53a4760da60d8b174c07b03e0d8d9bd53c34cf280736766854b76000d.m3u8
 [BD]al rabiaa tv@@1,https://epg.pw/stream/16429567f742407a469a12d8d94c7d765a09bb2ae19e664bf70a33f770dd07c2.m3u8
 [BD]al rabiaa tv@@2,https://epg.pw/stream/4f91c7fdcf029af800574ee6634e9a3a13910894f6b6c2be98ab85ecc2196f82.ctv
