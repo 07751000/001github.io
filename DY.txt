@@ -1536,6 +1536,20 @@ Star 1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid
 Star 2 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
 Star 3 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 Sun TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+[VGA]fashion tv,https://epg.pw/stream/6ed007c1b3eb9ce9244ec1f0bb5460f43150e506cc4ebe7ad5d19d5df08f64a3.m3u8
+[VGA]fashion tv,https://epg.pw/stream/8352afc8c658818733b75985c4f691e617bb076ea915b07761dac0c44876d066.m3u8
+[VGA]fashion tv,https://epg.pw/stream/016e9d73d68c84070ece9dfc1c7278c279fb6653e6a29a20d39b1e83255b51b1.m3u8
+[HD]tv5,https://epg.pw/stream/2cb7488a4ccc680ea5d60730c4e7a836a5c21d70db16093df764ede57072fdf7.m3u8
+[BD]tv5,https://epg.pw/stream/d4c0506a471b9f7483b5ac1dee066f7097fd978b5712e6d96e132d2e7b3163bd.m3u8
+[HD]the pet collective international,https://epg.pw/stream/116a94633fb3c110f82abf84e274c959b303df24d1907eae5674bb21ef88eba1.m3u8
+[BD]tastemade international,https://epg.pw/stream/455bb535bfa33ee716915a6850967bf48f97c17894b00a30b94a8e7b8c48d201.m3u8
+[BD]tastemade international,https://epg.pw/stream/5a1ac5d31055310de37d961184d4cf8c29eca150b1d8d3d5415e05438beef5c9.m3u8
+[BD]art,https://epg.pw/stream/d7d0ad4874aee62da5532c76b814fb5be5fa608ed908fe3ee27025dde854812e.ctv
+[HD]fox business,https://epg.pw/stream/a77512cbcdced306a0beb2dd603c8bba50499e67b6407839946b8521621a7a53.m3u8
+[VGA]canal savoir,https://epg.pw/stream/e442714b66fdb976381509d2800b3c5d5aa378dfecfc0f6d82f9533af27a6e78.m3u8
+[HD]chada tv,https://epg.pw/stream/5f62488f573082a1e53bdbec2dfde46b20b5b1cd8d7332bd7d2033d4587e1e65.m3u8
+[SD]euronews france,https://epg.pw/stream/fb8b4b2d0b63b3691d8ecaf70303f43f44bdb3474f4d672c6d43d81898978120.ctv
+[HD]eurosport2,https://epg.pw/stream/43e1c165134ff33612b0621d779a205f48bb79938d88818f2b21afd3f38cadff.m3u8
 Tabi Channel (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 TAKARAZUKA SKY STAGE (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 TBS (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
