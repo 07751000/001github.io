@@ -1,53 +1,53 @@
-CCTV-1，http://2.2.2.2/hls/1/index.m3u8
-CCTV-2，http://2.2.2.2/hls/2/index.m3u8
-CCTV-3，http://2.2.2.2/ hls/3/index.m3u8
-CCTV-4,http://2.2.2.2/hls/4/index.m3u8
-CCTV-5,http://2.2.2.2/hls/5/index.m3u8
-CCTV-6,http ://2.2.2.2/hls/6/index.m3u8
-CCTV-7,http://2.2.2.2/hls/7/index.m3u8
-CCTV-8,http://2.2.2.2/hls/8/index .m3u8
-CCTV-9，http://2.2.2.2/hls/9/index.m3u8
-CCTV-10，http://2.2.2.2/hls/10/index.m3u8
-CCTV-11，http://2.2。 2.2/hls/11/index.m3u8
-CCTV-12,http://2.2.2.2/hls/12/index.m3u8
-CCTV13,http://2.2.2.2/hls/13/index.m3u8
-CCTV14,http:// /2.2.2.2/hls/14/index.m3u8
-CCTV15,http://2.2.2.2/hls/15/index.m3u8
-河南卫视,http://2.2.2.2/hls/16/index.m3u8
-相声小品, http://2.2.2.2/hls/17/index.m3u8
-都市频道,http://2.2.2.2/hls/18/index.m3u8
-民生频道,http://2.2.2.2/hls/19/index. m3u8
-基础频道,http://2.2.2.2/hls/20/index.m3u8
-电视剧频道,http://2.2.2.2/hls/21/index.m3u8
-新闻,http://2.2.2.2/hls/ 22/index.m3u8
-公共频道,http://2.2.2.2/hls/23/index.m3u8
-新农村频道,http://2.2.2.2/hls/24/index.m3u8
-河南国际,http://2.2 .2.2/hls/25/index.m3u8
-梨园频道,http://2.2.2.2/hls/26/index.m3u8
-江苏卫视,http://2.2.2.2/hls/30/index.m3u8
-浙江卫视,http ://2.2.2.2/hls/31/index.m3u8
-安徽卫视,http://2.2.2.2/hls/32/index.m3u8
-北京卫视,http://2.2.2.2/hls/33/index.m3u8
-湖北卫视,http://2.2.2.2/hls/47/index.m3u8
-江西卫视,http://2.2.2.2/hls/49/index.m3u8
-山西卫视,http://2.2.2.2/hls/50 /index.m3u8
-陕西卫视,http://2.2.2.2/hls/51/index.m3u8
-四川卫视,http://2.2.2.2/hls/52/index.m3u8
-宁夏卫视,http://2.2.2.2 /hls/55/index.m3u8
-青海卫视,http://2.2.2.2/hls/56/index.m3u8
-内蒙古,http://2.2.2.2/hls/57/index.m3u8
-西藏卫视,http:// 2.2.2.2/hls/58/index.m3u8
-新疆卫视,http://2.2.2.2/hls/59/index.m3u8
-北京少儿,http://2.2.2.2/hls/60/index.m3u8
-金鹰卡通, http://2.2.2.2/hls/61/index.m3u8
-收视指南,http://2.2.2.2/hls/62/index.m3u8
-嘉佳卡通,http://2.2.2.2/hls/63/index .m3u8
-厦门卫视,http://2.2.2.2/hls/64/index.m3u8
-美国大片,http://2.2.2.2/hls/66/index.m3u8
-军事,http://2.2.2.2/hls/ 68/index.m3u8
-经典电影,http://2.2.2.2/hls/69/index.m3u8
-热播电视剧,http://2.2.2.2/hls/70/index.m3u8
-热播电视剧,http:// 2.2.2.2/hls/71/index.m3u8
-新电影频道,http://2.2.2.2/hls/73/index.m3u8
-电视剧频道,http://2.2.2.2/hls/74/index.m3u8
-IPTV5+, http://2.2.2.2/hls/75/index.m3u8
+品牌宣传，http://113.12.72.152:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1，http://113.12.72.152:9901/tsfile/live/1000_1.m3u8? key=txiptv&playlive=1&authid=0
+CCTV-2,http://113.12.72.152:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://113.12.72.152:9901/ tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://113.12.72.152:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http: //113.12.72.152:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://113.12.72.152:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive= 1&authid=0
+CCTV-6,http://113.12.72.152:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://113.12.72.152:9901/tsfile/live/ 1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://113.12.72.152:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://113.12. 72.152:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0 CCTV-10,http://113.12.72.152:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0 CCTV-
+10
+11、http://113.12.72.152:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12、http://113.12.72.152:9901/tsfile/live/1012_1.m3u8?key =txiptv&playlive=1&authid=0
+CCTV-13,http://113.12.72.152:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://113.12.72.152:9901/tsfile /live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://113.12.72.152:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+中国教育,http:// 113.12.72.152:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://113.12.72.152:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://113.12.72.152:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://113.12.72.152:9901/tsfile/live/1019_1.m3u8?key= txiptv&playlive=1&authid=0
+江苏卫视,http://113.12.72.152:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://113.12.72.152:9901/tsfile/live/ 1021_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://113.12.72.152:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://113.12.72.152: 9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://113.12.72.152:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http: //113.12.72.152:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://113.12.72.152:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid= 0
+贵州卫视，http://113.12.72。152:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://113.12.72.152:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://113.12.72.152:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://113.12.72.152:9901/tsfile/live/1030_1.m3u8?key =txiptv&playlive=1&authid=0
+河南卫视,http://113.12.72.152:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://113.12.72.152:9901/tsfile/live /1032_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://113.12.72.152:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+肃甘卫视,http://113.12.72.152 :9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http ://113.12.72.152:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://113.12.72.152:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid =0
+宁夏卫视,http://113.12.72.152:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://113.12.72.152:9901/tsfile/live/1039_1.m3u8 ?key=txiptv&playlive=1&authid=0
+南宁新闻综合,http://113.12.72.152:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁都市生活,http://113.12.72.152:9901 /tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁影视娱乐,http://113.12.72.152:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http: //113.12.72.152:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://113.12.72.152:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid= 0
+南宁公共,http://113.12.72.152:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://113.12.72.152:9901/tsfile/live/1046_1.m3u8? key=txiptv&playlive=1&authid=0
+广西综艺,http://113.12.72.152:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://113.12.72.152:9901/tsfile/ live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://113.12.72.152:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://113.12 .72.152:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://113.12.72.152:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
