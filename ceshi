@@ -1,19 +1,8 @@
 央视频道,#genre#
-CCTV-1综合,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/19/index.m3u8
-CCTV-2财经,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/20/index.m3u8
-CCTV-3高清测试,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/91/index.m3u8
-CCTV-4中文国际,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/22/index.m3u8
-CCTV-5高清测试,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/93/index.m3u8
-CCTV-6高清测试,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/94/index.m3u8
-CCTV-7国防军事,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/25/index.m3u8
-CCTV-8,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/96/index.m3u8
-CCTV-9纪录,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/27/index.m3u8
-CCTV-10科教,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/28/index.m3u8
-CCTV-11戏曲,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/29/index.m3u8
-CCTV-12社会与法,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/30/index.m3u8
-CCTV-13新闻,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/31/index.m3u8
-CCTV-14少儿,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/32/index.m3u8
-CCTV-15高清,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/102/index.m3u8
-CCTV-16奥林匹克,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/169/index.m3u8
-CCTV-17农业,http://[0000:0000:0000:0000:0000:ffff:7176:0dc4]:808/hls/35/index.m3u8
+Rustavi 2 (Rustavi2 - HQ Stream (Timeshift)),https://hls.t.stream-dns.net/hls/rustavi2/_b8e234464d581b54d3fb1ec373569b4f_6629bc9cx000d/rustavi2.m3u8
+Imedi (Imedi - HQ Stream (Timeshift)),https://hls.t.stream-dns.net/hls/imedi_1/_e871427d8c121d6e993ec85ed110110c_6629bd08x000c/index.m3u8
+Mtavari Arxi (Mtavari Arxi - HQ Stream),https://hls.t.stream-dns.net/hls/mtavari_1/_5932b09d456c339a81d4e4355e8eb671_6629bd2bx000e/index.m3u8
+Formula (Formula - HQ Stream),https://hls.t.stream-dns.net/hls/formula_1/_f9a02a7975a3ddbd96786bd35cbea2e0_6629bd68x000e/index.m3u8
+Maestro (Maestro - HQ Stream),https://hls.t.stream-dns.net/hls/maestro_1/_560109c78b71bbc129aed59bf4d5070b_6629bd7fx000e/index.m3u8
+TV Pirveli (TV Pirveli - HQ Stream),https://hls.t.stream-dns.net/hls/tvpirveli_1/_b34b0c511a3aa42ff1f94dad96fd121e_6629be1ax0010/index.m3u8
 
