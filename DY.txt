@@ -1780,6 +1780,13 @@ X地方IPV4,#genre#
 
 
 外视测试IPV4,#genre#
+
+Rustavi 2 (Rustavi2 - HQ Stream (Timeshift)),https://hls.t.stream-dns.net/hls/rustavi2/_b8e234464d581b54d3fb1ec373569b4f_6629bc9cx000d/rustavi2.m3u8
+Imedi (Imedi - HQ Stream (Timeshift)),https://hls.t.stream-dns.net/hls/imedi_1/_e871427d8c121d6e993ec85ed110110c_6629bd08x000c/index.m3u8
+Mtavari Arxi (Mtavari Arxi - HQ Stream),https://hls.t.stream-dns.net/hls/mtavari_1/_5932b09d456c339a81d4e4355e8eb671_6629bd2bx000e/index.m3u8
+Formula (Formula - HQ Stream),https://hls.t.stream-dns.net/hls/formula_1/_f9a02a7975a3ddbd96786bd35cbea2e0_6629bd68x000e/index.m3u8
+Maestro (Maestro - HQ Stream),https://hls.t.stream-dns.net/hls/maestro_1/_560109c78b71bbc129aed59bf4d5070b_6629bd7fx000e/index.m3u8
+TV Pirveli (TV Pirveli - HQ Stream),https://hls.t.stream-dns.net/hls/tvpirveli_1/_b34b0c511a3aa42ff1f94dad96fd121e_6629be1ax0010/index.m3u8
 澳亞衛視,https://epg.pw/stream/272b491cb7edf448a56c75a2677cdfa0f9427bc87d01f02765f5aff658dadeba.m3u8
 澳亞衛視,https://epg.pw/stream/b5ac72030e4e36f613511a0bf0cd016621664c7cdd14d6aa1923ed1ce9078484.m3u8
 澳门澳视,https://iptv.hiper25.com/TDM/video.m3u8
