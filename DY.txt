@@ -1241,7 +1241,6 @@ MAX极速汽车,http://58.37.189.39:8088/udp/239.45.3.49:5140
 青海经视频道,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=0ca7de7f1707366913
 青海都市频道,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=efeefead1707378479
 遵义都市频道,http://pluslive.zunyifb.com/dspd/playlist.m3u8?_upt=b5395dba1707377823
-安顺一套新闻综合频道,http://hplayer1.juyun.tv/camera/133635181.m3u8
 安顺二套公共频道,http://hplayer1.juyun.tv/camera/116587130.m3u8
 鄂托克旗电视台,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 海口一套综合频道,http://124.225.35.97:16080/live/tv2401.m3u8
