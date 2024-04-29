@@ -552,9 +552,6 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 广西卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000045BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QPdo%2FUL80msfbhDYvoWpNl3Ui3SDbjEyrngRN3z0PFPHWA%2BXaedl3%2F3flCrB%2Fqh7fg
 贵州卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252663BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdU0MzAxFlzyxwiiSP3V3o4YgTd85YleALR8HHnPHszLOK1g6ts8oU5k12ayN74FbOAmnKUze1Wh5%2FkX5b2rvxw
 海南卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252684BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaBeOsoiQC4O7YVlhWLaUupjXkJIrEMFMF2spHJh%2FN1RLi84Ue88x97wZoubXLeSwCFBwRVp81CkC12%2Foosdnmw
-更多资源请加入,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-QQ群309736400,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-免费更多信息,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 河北卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN100000002BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaxEcGF7BsTm3tBZ5QM10A3THYCGyx0KiW2nghgGHiPYyNBht0ohR2xRP7wFZyAPWYATALvCqK4y6nrLdX80fn4
 河南卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000044BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QOuXozn3alq9%2BUx7ZLG1w9aOfw%2Ftj8uByLI%2F9b3T9xKHSKRmZDiwMOFotvfGaGd4Uw
 黑龙江都市,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226427/index.m3u8
@@ -761,7 +758,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 数字频道IPV6,#genre#
-QQ群309736400,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 乐游频道,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 欢笑剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -883,7 +879,6 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 咪咕1 IPV6,#genre#
-QQ群309736400,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 咪咕直播-1「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 咪咕直播_2*「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播-3「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
@@ -1684,7 +1679,6 @@ IPTV体育,http://gzly.hkychina.com:6003/udp/239.252.220.211:5140
 
 
 地方卫视IPV4,#genre#
-QQ群309736400,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
@@ -2094,7 +2088,6 @@ QQ群309736400,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 
 
 外视测试IPV4,#genre#
-QQ群309736400,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 澳亞衛視,https://epg.pw/stream/272b491cb7edf448a56c75a2677cdfa0f9427bc87d01f02765f5aff658dadeba.m3u8
 澳亞衛視,https://epg.pw/stream/b5ac72030e4e36f613511a0bf0cd016621664c7cdd14d6aa1923ed1ce9078484.m3u8
 揭西台,http://113.64.145.224:8081/hls/19/index.m3u8
@@ -2242,7 +2235,6 @@ petclub hd,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed
 
 
 女团MV,#genre#
-QQ群309736400,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 歌团★021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
 歌团★022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
 歌团★023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
@@ -2761,9 +2753,6 @@ VV8 TV (720p),https://video01.kshost.com.br/seap8272/seap8272/playlist
 
 
 后台管理,#genre#
-更多资源请加入,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 QQ群309736400,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-免费更多信息,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 频道看不了的,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 进群找维护人员,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-免费下载更多,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
