@@ -1,4 +1,4 @@
-电视直播IPV6,#genre#
+📺电视直播IPV6,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
@@ -344,7 +344,7 @@ NewTv精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 
 
 
-央视IPV6,#genre#
+📺央视IPV6,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
@@ -516,7 +516,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 
-体育IPV6,#genre#
+⚽️体育IPV6,#genre#
 CCTV5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
@@ -533,7 +533,7 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-卫视IPV6,#genre#
+📺卫视IPV6,#genre#
 本港台,http://113.64.145.224:8081/hls/135/index.m3u8
 凤凰资讯高清,http://113.64.145.224:8081/hls/36/index.m3u8
 凤凰卫视高清,http://113.64.145.224:8081/hls/37/index.m3u8
@@ -757,7 +757,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 
-数字频道IPV6,#genre#
+🔢数字频道IPV6,#genre#
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 乐游频道,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 欢笑剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -804,7 +804,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 
-上海IPV6,#genre#
+📺上海IPV6,#genre#
 第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
@@ -823,7 +823,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 
-地方IPV6,#genre#
+📺地方IPV6,#genre#
 金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 咪咕篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -882,7 +882,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 
-咪咕1 IPV6,#genre#
+📺咪咕1 IPV6,#genre#
 咪咕直播-1「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 咪咕直播_2*「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播-3「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
@@ -932,7 +932,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 
-咪咕 2IPV6,#genre#
+📺咪咕 2IPV6,#genre#
 咪咕直播_1*「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕直播_2*「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播_3*「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
@@ -984,7 +984,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 
-体育IPV4,#genre#
+🏀体育IPV4,#genre#
 风云足球,https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8
 风云足球,https://epg.pw/stream/2d6613a4624da0846ee8414ea2bc90f845a5cce72d08600abf3926cb2978a54f.m3u8
 五星体育*,https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
@@ -1009,7 +1009,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 
-河南信阳广电,#genre#
+🌍河南信阳广电,#genre#
 CCTV-1综合,http://171.14.94.67:808/hls/1/index.m3u8
 CCTV-2财经,http://171.14.94.67:808/hls/2/index.m3u8
 CCTV-3综艺,http://171.14.94.67:808/hls/3/index.m3u8
@@ -1082,7 +1082,7 @@ CCTV5+体育赛事,http://171.14.94.67:808/hls/18/index.m3u8
 
 
 
-河北 保定 电信IPV4,#genre#
+🌍河北 保定 电信IPV4,#genre#
 中央1高清,http://111.225.114.165:808/home/storager/6bbc84c2-18fb-444e-a900-d7ed884a2731/live/0001_1.m3u8?key=txiptv
 中央2高清,http://111.225.114.165:808/tsfile/live/0002_1.m3u8?key=txiptv
 中央3标清,http://111.225.114.165:808/tsfile/live/0003_1.m3u8?key=txiptv
@@ -1157,7 +1157,7 @@ CETV4,http://111.225.114.165:808/tsfile/live/1038_1.m3u8?key=txiptv
 
 
 
-广西联通IPV4,#genre#
+🌍广西联通IPV4,#genre#
 CCTV1-综合 高清,http://110.72.79.189:8181/tsfile/live/1031_1.m3u8?key=txiptv
 CCTV2-财经 高清,http://110.72.79.189:8181/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3-综艺 高清,http://110.72.79.189:8181/tsfile/live/0003_1.m3u8?key=txiptv
@@ -1269,7 +1269,7 @@ CCTV5-体育 高清卡,http://110.72.79.189:8181/tsfile/live/0005_1.m3u8?key=txi
 
 
 
-辽宁地区IPV4,#genre#
+🌍辽宁地区IPV4,#genre#
 辽宁卫视,http://175.168.46.94:8888/rtp/232.0.0.126:1234
 辽宁都市,http://175.168.46.94:8888/rtp/232.0.0.154:1234
 辽宁影视剧,http://175.168.46.94:8888/rtp/232.0.0.25:1234
@@ -1412,7 +1412,7 @@ IPTV5(轮播),http://175.168.46.94:8888/rtp/232.0.0.119:1234
 
 
 
-河南联通IPV4,#genre#
+🌍河南联通IPV4,#genre#
 CCTV-1,http://222.137.229.88:808/hls/1/index.m3u8
 CCTV-2,http://222.137.229.88:808/hls/2/index.m3u8
 CCTV-3,http://222.137.229.88:808/hls/3/index.m3u8
@@ -1459,7 +1459,7 @@ IPTV5+,http://222.137.229.88:808/hls/75/index.m3u8
 
 
 
-陕西电信IPV4,#genre#
+🌍陕西电信IPV4,#genre#
 CCTV1,http://1.82.183.199:9999/rtp/239.112.205.59:5140
 CCTV2,http://1.82.183.199:9999/rtp/239.112.205.78:5140
 CCTV3,http://1.82.183.199:9999/rtp/239.112.205.221:5140
@@ -1592,7 +1592,7 @@ CETV4,http://1.82.183.199:9999/rtp/239.111.205.169:5140
 
 
 
-福建电信IPV4,#genre#
+🌍福建电信IPV4,#genre#
 福建综合,http://222.79.163.153:4022/rtp/239.61.3.4:9542
 东南卫视,http://222.79.163.153:4022/rtp/239.61.2.132:8708
 福建公共频道,http://222.79.163.153:4022/rtp/239.61.2.3:8012
@@ -1731,7 +1731,7 @@ CCTV1,http://222.79.163.153:4022/rtp/239.61.3.60:9878
 
 
 
-江西电信IPV4,#genre#
+🌍江西电信IPV4,#genre#
 CCTV1,http://gzly.hkychina.com:6003/udp/239.252.219.200:5140
 CCTV2,http://gzly.hkychina.com:6003/udp/239.252.220.183:5140
 CCTV3,http://gzly.hkychina.com:6003/udp/239.252.219.252:5140
@@ -1850,7 +1850,7 @@ IPTV体育,http://gzly.hkychina.com:6003/udp/239.252.220.211:5140
 
 
 
-地方卫视IPV4,#genre#
+🌍地方卫视IPV4,#genre#
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
@@ -2201,7 +2201,7 @@ IPTV体育,http://gzly.hkychina.com:6003/udp/239.252.220.211:5140
 
 
 
-斗鱼电影,#genre#
+🎦斗鱼电影,#genre#
 斗鱼电影13,http://epg.112114.xyz/douyu/5067952
 斗鱼电影HD9,http://diyp.112114.xyz/douyu/8770422
 斗鱼电影HD14,http://diyp.112114.xyz/douyu/413573
@@ -2256,7 +2256,7 @@ IPTV体育,http://gzly.hkychina.com:6003/udp/239.252.220.211:5140
 
 
 
-外视测试IPV4,#genre#
+🇭🇰🇹🇼外视测试IPV4,#genre#
 澳亞衛視,https://epg.pw/stream/272b491cb7edf448a56c75a2677cdfa0f9427bc87d01f02765f5aff658dadeba.m3u8
 澳亞衛視,https://epg.pw/stream/b5ac72030e4e36f613511a0bf0cd016621664c7cdd14d6aa1923ed1ce9078484.m3u8
 揭西台,http://113.64.145.224:8081/hls/19/index.m3u8
@@ -2403,7 +2403,7 @@ petclub hd,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed
 
 
 
-女团MV,#genre#
+💿女团MV,#genre#
 歌团★021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
 歌团★022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
 歌团★023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
@@ -2529,7 +2529,7 @@ petclub hd,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed
 
 
 
-外视看看,#genre#
+🇺🇳外视看看,#genre#
 BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
 Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
@@ -2891,7 +2891,7 @@ VV8 TV (720p),https://video01.kshost.com.br/seap8272/seap8272/playlist
 
 
 
-后台管理,#genre#
+☎后台管理,#genre#
 QQ群309736400,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 频道看不了的,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 进群找维护人员,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
