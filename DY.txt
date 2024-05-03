@@ -1074,9 +1074,7 @@ CCTV5-体育 高清卡,http://110.72.69.80:8181/tsfile/live/0005_1.m3u8?key=txip
 晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 晋中综合,http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
 襄垣电视,http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8
-荆门科教文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
 乐至综合,http://rmlive.lzxrmtzx.com/live1/live1.m3u8
 潞城新闻综合,http://59.48.42.6:62204/lucheng.m3u8
@@ -1125,6 +1123,7 @@ CCTV5-体育 高清卡,http://110.72.69.80:8181/tsfile/live/0005_1.m3u8?key=txip
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
 
 
 
