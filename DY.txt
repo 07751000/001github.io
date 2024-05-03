@@ -1144,14 +1144,12 @@ CCTV5-体育 高清卡,http://110.72.69.80:8181/tsfile/live/0005_1.m3u8?key=txip
 邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 河北昌黎,http://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.flv
 邯郸科技教育_187,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
-河北|鹿泉套装,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
 河北鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
 定州国学影视,https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
 承德新闻综合,https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
 望都综合频道,https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
 定州新闻综合,https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
 承德公共生活,https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
-定州生活频道,https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
 涞水新闻频道,https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
 昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
 万州综合频道 (576p),http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
