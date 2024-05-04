@@ -970,6 +970,66 @@ CHC动作电影，http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 
 
 
+
+
+
+🌍河南大象融媒,#genre#
+河南睛彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
+河南移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
+武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+巩义新闻,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
+新郑综合,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
+滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
+内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
+淅川综合,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+栾川新闻,http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
+孟津新闻,http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
+新安新闻,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
+宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+武陟新闻,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
+禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
+兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+杞县新闻,http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
+扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+太康综合,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
+永城新闻,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+卢氏综合,http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
+渑池新闻,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+义马新闻,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+舞阳新闻,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+济源,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
+淇县,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+确山综合,http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
+新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+封丘新闻,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
+获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
+卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+原阳新闻,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
+宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+叶县,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+
+
+
+
+
+
+
+
+
+
+
 🌍河南联通,#genre#
 河南卫视高清,http://219.156.53.36:4000/rtp/225.1.4.98:1127
 河南都市频道高清,http://219.156.53.36:4000/rtp/225.1.4.52:1081
