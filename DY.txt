@@ -2318,6 +2318,34 @@ CGTN,http://183.30.202.43:8000/udp/239.77.1.27:5146
 點掌財經,https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8
 點掌財經,https://epg.pw/stream/3324872dba2778cd4a7e1f147a00ec4bfd1ce5aa9408586bf8358c383c00439f.m3u8
 點掌財經,https://epg.pw/stream/9ef1593a03a96aa3ba03cabcf54955c1f6e77afc6e8c6a9430c6ce9dc480f3d6.m3u8
+翼城,http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
+定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
+高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8
+吉县新闻,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+晋城公共,http://live.jinnews.com.cn/ggpd/sd/live.m3u8
+晋城新闻,http://live.jinnews.com.cn/xwzh/sd/live.m3u8
+晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+晋中新闻,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+灵丘,https://stream.icelook.cn/1a7c625fde427dc3/6735154231323395076_1611041008.m3u8?auth_key=1893456000-0-0-fe9d45877d8cdddb4afccd9c1a12f3f8
+灵石新闻,https://live-stream.lsxrmtzx.com/live/video.m3u8
+柳林影视,http://pili-live-hls.212.i2863.com/i2863-212/live_212_316579.m3u8
+柳林综合,http://pili-live-rtmp.212.i2863.com/i2863-212/live_212_336940.m3u8
+潞城新闻,http://59.48.42.6:62204/lucheng.m3u8
+平鲁综合,https://stream.icelook.cn/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
+五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+运城公共,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
+运城科技教育,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+运城新闻,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
+长子综合,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
