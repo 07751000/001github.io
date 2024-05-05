@@ -1429,7 +1429,6 @@ CHC动作电影，http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 叶县,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-汤阴电视台,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
 林州电视台,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
 新野综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
 栾川新闻,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
@@ -1454,13 +1453,11 @@ CHC动作电影，http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 焦作睛彩频道,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
 沁阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
 焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
-孟州新闻综合频道,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 武陟新闻综合频道,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
 灵宝新闻综合频道,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 渑池新闻综合频道,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
 义马新闻综合频道,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
 开封公共频道,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-通许新闻综合频道,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
 尉氏新闻综合频道,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
 永城新闻综合频道,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 襄城新闻综合频道,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
