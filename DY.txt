@@ -1388,9 +1388,6 @@ CHC动作电影，http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 
 
 🌍河南大象融媒,#genre#
-河南睛彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
-河南移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
-武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 巩义新闻,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
@@ -1398,7 +1395,6 @@ CHC动作电影，http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
 林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
 淅川综合,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
 栾川新闻,http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
 孟津新闻,http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
@@ -1433,6 +1429,53 @@ CHC动作电影，http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 叶县,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+汤阴电视台,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
+林州电视台,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+新野综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
+栾川新闻,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
+襄城电视台,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
+襄城电视台,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
+罗山电视台,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+鲁山,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+舞钢,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+淇县,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
+原阳新闻综合,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+沉丘新闻综合,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+河南开封新闻,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
+洛阳一套综合频道,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
+洛阳二套科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
+洛阳三套文旅频道,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
+汝阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+辉县新闻综合频道,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
+新乡县新闻综合频道,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
+原阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+焦作新闻综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+焦作睛彩频道,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
+沁阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
+焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
+孟州新闻综合频道,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+武陟新闻综合频道,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
+灵宝新闻综合频道,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
+渑池新闻综合频道,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
+义马新闻综合频道,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
+开封公共频道,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+通许新闻综合频道,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
+尉氏新闻综合频道,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+永城新闻综合频道,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
+襄城新闻综合频道,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
+鄢陵新闻综合频道,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
+禹州新闻综合频道,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+宝丰新闻综合频道,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
+郏县新闻综合频道,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+鲁山新闻综合频道,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+叶县电视台一套,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
+鹿邑综合频道,http://live.dxhmt.cn:9081/tv/11628-1.m3u8
+项城综合频道,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
+西华综合频道,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
+沈丘新闻综合频道,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+郸城新闻综合频道,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
+舞阳新闻综合频道,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
 
 
 
@@ -2301,7 +2344,7 @@ CCTV5-体育 高清卡,http://110.72.69.80:8181/tsfile/live/0005_1.m3u8?key=txip
 河南|新安电视台,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
 河南|获嘉综合体,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
 河南|襄城电视台,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-河南|泌阳综合,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
+河南|襄城电视台,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 河南|罗山电视台,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 河南|新蔡,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 河南|宝丰,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
