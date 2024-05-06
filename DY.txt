@@ -1174,9 +1174,6 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 🔢数字频道,#genre#
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPROfcD8hTNS8q WMEGeUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPROfcD8hTNRxu2S qX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPROfcD8hTNSXQZMU EnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ %2FVqQ
 乐游频道,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 欢笑剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 法治天地,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -2586,19 +2583,7 @@ IPTV足球,http://110.72.32.92:8888/rtp/239.81.0.97:4056
 
 
 🎦🎦电影,#genre#
-斗鱼电影13,http://epg.112114.xyz/douyu/5067952
 斗鱼电影HD9,http://diyp.112114.xyz/douyu/8770422
-斗鱼电影HD14,http://diyp.112114.xyz/douyu/413573
-斗鱼电影1,http://diyp.112114.xyz/douyu/6027991
-斗鱼电影2,http://diyp.112114.xyz/douyu/4105989
-斗鱼电影3,http://diyp.112114.xyz/douyu/6369954
-斗鱼电影4,http://diyp.112114.xyz/douyu/2793084
-斗鱼搞笑3,http://diyp.112114.xyz/douyu/2132902
-斗鱼电影5,http://diyp.112114.xyz/douyu/434971
-斗鱼电影HD7,http://diyp.112114.xyz/douyu/6140589
-斗鱼电影HD3,http://diyp.112114.xyz/douyu/85894
-斗鱼电影HD6,http://diyp.112114.xyz/douyu/323876
-斗鱼电影HD4,http://diyp.112114.xyz/douyu/747764
 斗鱼电影HD2,http://diyp.112114.xyz/douyu/122402
 斗鱼电影HD5,http://diyp.112114.xyz/douyu/20415
 斗鱼电影HD11,http://diyp.112114.xyz/douyu/2436390
