@@ -2729,6 +2729,40 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 
 
+🎬经典电影,#genre#
+九龙城寨之围城,https://104.195.49.189:14890/vods/hls/dhz/15/14968/24050318/704143/1920/index.m3u8?appId=kkdy&sign=4b3e7447757e82a5b81072649d6019c2&timestamp=1715180583
+哥斯拉大战金刚2帝国崛起,https://172.80.104.86:11300/vods/hls/dhz/15/14679/24042919/690049/640/index.m3u8?appId=kkdy&sign=7698a09fa3224f82ce48d70aa1687e49&timestamp=1715181066
+银河护卫队2,https://104.224.248.253:11300/vods/hls/dhz/14/13191/2404217/630754/1920/index.m3u8?appId=kkdy&sign=96d484f870c18e3b8c3e6c9bc60a005a&timestamp=1715181184
+信条,https://104.224.248.253:11300/vods/hls/dhz/14/13480/2404183/537483/1920/index.m3u8?appId=kkdy&sign=cdc7c35b4a4e68e37f778719f562b775&timestamp=1715181253
+极地反击,https://leshiyuncdn.36s.top/20240111/VeaF5is5/2429kb/hls/index.m3u8
+哨兵行动,https://leshiyuncdn.36s.top/20230905/hYwougvV/hls/index.m3u8
+鬼吹灯之精绝古城,https://leshiyuncdn.36s.top/20230810/2ejGl6bH/hls/index.m3u8
+鬼吹灯之湘西密藏,https://leshiyuncdn.36s.top/20230802/kZxA84Oa/hls/index.m3u8
+鬼吹灯之龙岭迷窟,https://vip.kuaikan-play1.com/20230308/YIHUHM9s/1760kb/hls/index.m3u8
+鬼吹灯之寻龙诀,https://s1.bfzycdn.com/video/guichuidengzhixunlongjue/HD%E5%9B%BD%E8%AF%AD/index.m3u8
+鬼吹灯之昆仑神宫,https://leshiyuncdn.36s.top/20230717/ajqP4T8P/hls/index.m3u8
+撼龙天棺,https://leshiyuncdn.36s.top/20230718/338z1mab/hls/index.m3u8
+周处除三害,https://leshiyuncdn.36s.top/20240301/hnVs2QC7/2000kb/hls/index.m3u8
+九龙城寨之围城,https://vip.kuaikan-cdn4.com/20240506/Jl95ROZG/3200kb/hls/index.m3u8
+反贪风暴1,https://hn.bfvvs.com/play/1aKo4naQ/index.m3u8
+反贪风暴2,https://leshiyuncdn.36s.top/20230717/4P5k9LkG/hls/index.m3u8
+反贪风暴3,https://leshiyuncdn.36s.top/20230718/o0McLem2/hls/index.m3u8
+反贪风暴4,https://leshiyuncdn.36s.top/20230718/D5Ol7zcF/hls/index.m3u8
+反贪风暴5,https://leshiyuncdn.36s.top/20231224/0I1Anjqu/hls/index.m3u8
+空军一号坠落,https://m3u.haiwaikan.com/xm3u8/7d52cd8da3b13441be575fd2e9261147440eef867e13f4bf3cb8ac88c3dbf2489921f11e97d0da21.m3u8
+火线狙击,https://m3u.haiwaikan.com/xm3u8/19693de455e4c8218c0e6268d0b5abe39f5a07e3b6af3428daa3bab0ba592e039921f11e97d0da21.m3u8
+搬山道人之落天荒,https://m3u.haiwaikan.com/xm3u8/a8c755d16870a294f8534e33aec03979026f375550ac73418b2e6405b57f50c59921f11e97d0da21.m3u8
+猎毒风云,https://v.cdnlz2.com/20240428/30676_4e3fad55/2000k/hls/mixed.m3u8
+破毒行动,https://v10.dious.cc/20240410/0MiZquLW/2000kb/hls/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
