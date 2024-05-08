@@ -3563,15 +3563,13 @@ MUFC贝影,http://43.138.170.29:35455/yy/1355659580
 
 
 港澳频道,#genre#
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://117.28.177.45:8605/rtp/239.61.2.183:9086
-凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
-凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
-凤凰资讯,https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
-凤凰资讯,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnpyc1Bwd0NJS0QwN29UR2FQbjdlUzV6bFRGTnpSa0pxUktiZlZpalE0QVIxTTZwMW1BVkhrcHE3dVh3VlNCVWhlcFBXM3EybEhnY0FoY25QWkxQNXNTdXpPTmRKb3krejg9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2
-凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://php.jdshipin.com:8880/jydx.php?id=36
+本港台,http://113.64.145.224:8081/hls/135/index.m3u8
+凤凰资讯高清,http://113.64.145.224:8081/hls/36/index.m3u8
+凤凰卫视高清,http://113.64.145.224:8081/hls/37/index.m3u8
+凤凰香港高清,http://113.64.145.224:8081/hls/38/index.m3u8
+点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+本港台,http://113.64.145.229:8081/hls/135/index.m3u8
 天映频道,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 TVB翡翠台,http://58.176.4.57:8800/play/a00g
