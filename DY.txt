@@ -3669,7 +3669,7 @@ LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14
 
 
 
-💿歌舞欣赏,#genre#
+歌舞欣赏,#genre#
 歌团★021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
 歌团★022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
 歌团★023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
@@ -3800,7 +3800,7 @@ LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14
 
 
 
-💿舞曲DJ,#genre#
+动感舞曲,#genre#
 模特DJ,http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
 21年DJ爆红网络洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
 劲爆DJ串烧,https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
