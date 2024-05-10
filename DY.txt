@@ -1958,8 +1958,74 @@ CGTN,http://1.196.154.46:2000/rtp/239.16.10.175:2000
 
 
 
-
-
+🌍广西玉林,#genre#
+珠江台标清,http://116.11.156.226:1188/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+珠江台,http://116.11.156.226:1188/tsfile/live/1138_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻高清,http://116.11.156.226:1188/tsfile/live/1018_1.m3u8?key=txiptv&playlive= 1&authid=0
+广西卫视高清,http://116.11.156.226:1188/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视高清,http://116.11.156.226:1188/tsfile/live/ 1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合高清,http://116.11.156.226:1188/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺高清,http://116.11.156.226:1188/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid= 0
+CCTV4-国际高清,http://116.11.156.226:1188/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育高清,http://116.11.156.226:1188/tsfile/live/ 0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影高清,http://116.11.156.226:1188/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-高清电视剧,http://116.11.156.226:1188/tsfile/live/faacts/0008_1.m3u8?key =txiptv&playlive=1&authid=0
+CCTV9-纪录高清,http://116.11.156.226:1188/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲高清,http://116.11.156.226:1188/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法 高清,http://116.11.156.226:1188/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿高清,http://116.11.156.226:1188/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+17高清,http://116.11.156.226:1188/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+爱上4K电影,http://116.11.156.226:1188/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+家庭影院高清,http://116.11.156.226:1188/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+高清电影,http://116.11.156.226:1188/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视高清,http://116.11.156.226:1188/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视高清,http://116.11.156.226:1188/tsfile/live/1027_1.m3u8?key=txiptv&playlive =1&authid=0
+江苏卫视高清,http://116.11.156.226:1188/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视高清,http://116.11.156.226:1188/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视高清,http://116.11.156.226:1188/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视河北卫视高清,http://116.11.156.226:1188/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视高清,http://116.11.156.226:1188/tsfile/live/1045_1.m3u8? key=txiptv&playlive=1&authid=0
+天津卫视高清,http://116.11.156.226:1188/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视高清,http://116.11.156.226:1188/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视高清,http://116.11.156.226:1188/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid =0
+辽宁卫视高清,http://116.11.156.226:1188/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视高清,http://116.11.156.226:1188/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视高清,http://116.11.156.226:1188/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港高清,http://116.11.156.226:1188/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+中国音乐,http://116.11.156.226:1188/tsfile/live/1007_1.m3u8?key =txiptv&playlive=1&authid=0
+经典电影,http://116.11.156.226:1188/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0热播剧
+中国电影,http://116.11.156.226:1188/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://116.11.156.226:1188/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://116.11.156.226:1188/tsfile/live/1073_1.m3u8?key=txiptv&playlive= 1&authid=0
+广东体育,http://116.11.156.226:1188/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫动漫,http://116.11.156.226:1188/tsfile/live/1120_1.m3u8?key=txiptv&playlive=1&authid=0
+中国气象,http://116.11.156.226:1188/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+野外,http://116.11.156.226:1188/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://116.11.156.226:1188/tsfile/live/1081_1.m3u8?key= txiptv&playlive=1&authid=0
+新疆少儿,http://116.11.156.226:1188/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0新疆少儿,http:
+延边卫视,http://116.11.156.226:1188/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://116.11.156.226:1188/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://116.11.156.226:1188/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid= 0
+嘉佳卡通,http://116.11.156.226:1188/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+炫动卡通,http://116.11.156.226:1188/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://116.11.156.226:1188/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://116.11.156.226:1188/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://116.11.156.226:1188/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://116.11.156.226:1188/tsfile/live/0142_1.m3u8?key =txiptv&playlive=1&authid=0
+山东教育,http://116.11.156.226:1188/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://116.11.156.226:1188/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视高清,http://116.11.156.226:1188/tsfile/live/1024_1.m3u8?key=txiptv&playlive =1&authid=0
+广西卫视编码,http://116.11.156.226:1188/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西移动,http://116.11.156.226:1188/tsfile/live/ 1008_1.m3u8?key=txiptv&playlive=1&authid=0
+家庭影院,http://116.11.156.226:1188/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+少儿动画,http://116.11.156.226:1188/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁公共高清,http://116.11.156.226:1188/tsfile/live/1125_1.m3u8?key=txiptv&playlive=1&authid =0
+南宁影视高清,http://116.11.156.226:1188/tsfile/live/1126_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻回放,http://116.11.156.226:1188/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+广东科教,http://116.11.156.226:1188/tsfile/live/1135_1.m3u8?key=txiptv&playlive=1&authid=0
+岭南戏曲,http://116.11.156.226:1188/tsfile/live/1137_1.m3u8?key=txiptv&playlive=1&authid =0
+玉林公共高清,http://116.11.156.226:1188/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+容县台高清,http://116.11.156.226:1188/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
