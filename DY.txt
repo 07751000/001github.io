@@ -4004,7 +4004,17 @@ MUFC贝影,http://43.138.170.29:35455/yy/1355659580
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 本港台,http://113.64.145.229:8081/hls/135/index.m3u8
-TVB翡翠台,http://58.176.4.57:8800/play/a00g
+TVB J2台,http://nz189l149.bb27109.ctm.net:8892/bysid/82
+TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
+TVB翡翠台,http://158.180.67.130/live/hls/J/j.m3u8
+TVB翡翠台 4K,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
+TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
+TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
+有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
+有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+
 TVB J2,http://58.176.4.57:8800/play/a00c
 TVB明珠台,http://58.176.4.57:8800/play/a00b
 TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
