@@ -1391,7 +1391,6 @@ NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225525/
 
 
 🌍大象融媒,#genre#
-梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 巩义新闻,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 新郑综合,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
@@ -2365,7 +2364,6 @@ CCTV-17,http://223.151.51.74:9901/tsfile/live/1001_1.m3u8?key=txiptv
 潮州综合,http://211.97.63.3:801/hls/503/index.m3u8
 潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 
-广东新闻,http://113.81.20.104:9901/tsfile/live/1000_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
