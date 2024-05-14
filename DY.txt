@@ -3259,7 +3259,14 @@ TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 
-
+千禧经典,https://epg.pw/stream/98651a36f6a0e6aaf48b25a98397de3b9f954dbebf79c6f56a7e7489d974c7b7.ctv
+星河频道,https://epg.pw/stream/180e5ec54c87920bfe91fae3b1febba13c6fe5b44045941a281f1104c992a925.m3u8
+功夫台,https://epg.pw/stream/ae7ae839911a5250ce264da233b3af364f8fd6d37fce0eb36e7131a1adc1aca0.m3u8
+娱乐新闻台,https://epg.pw/stream/b3b65ea63164e1a7818216f985f33ad1f4a1be264a8661e97baf145e231645db.m3u8
+凤凰中文,https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
+凤凰中文,https://epg.pw/stream/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.ctv
+凤凰资讯,https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
+凤凰资讯,https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 TVB娛樂新聞,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
 Now TV,https://epg.pw/stream/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
 Now TV,https://epg.pw/stream/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
