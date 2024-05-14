@@ -2440,7 +2440,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 
 
-热局更新,#genre#
+热剧更新,#genre#
 火神的眼泪01,https://223.111.150.95:10950/vods/hls/dhz/3/2623/24031915/128891/1920/index.m3u8?appId=kkdy&sign=1176e24fcffd8cdb51c5a98e5e80b4b2&timestamp=1715699707
 火神的眼泪02,https://223.111.134.77:11460/vods/hls/dhz/3/2623/24031915/128892/1920/index.m3u8?appId=kkdy&sign=f25d54214cbdc796003d089f110dd5b8&timestamp=1715699719
 火神的眼泪03,https://223.111.202.85:11300/vods/hls/dhz/3/2623/24031915/128893/1920/index.m3u8?appId=kkdy&sign=794b879168a8cca50105f9bb9f95f73e&timestamp=1715699731
