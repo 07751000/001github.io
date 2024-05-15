@@ -3256,6 +3256,19 @@ MUFC贝影,http://43.138.170.29:35455/yy/1355659580
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 本港台,http://113.64.145.229:8081/hls/135/index.m3u8
+
+
+TVB pearl sat,https://epg.pw/stream/646ab9165fd9d609642b55e9c72ff6f0eb5d017fa130683f9d877dda5841b307.ctv
+TVB plus,https://epg.pw/stream/cf771efb6d9315d9de352eec32c8d4e1c6b2fad52898c1ce092977aefd0de807.m3u8
+
+
+
+
+
+
+
+
+
 TVB J2台,http://nz189l149.bb27109.ctm.net:8892/bysid/82
 TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
 TVB翡翠台,http://158.180.67.130/live/hls/J/j.m3u8
