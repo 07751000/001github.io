@@ -2445,6 +2445,19 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 周处除三害,https://svipsvip.ffzy-online5.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
 孤注一掷,https://vip.ffzy-online1.com/20240430/48811_221dd2ee/2000k/hls/mixed.m3u8
 唐山大地震,https://vip.ffzy-play6.com/20221022/979_c2c7cf9a/2000k/hls/mixed.m3u8
+史前怪兽 (2024),https://s10.fsvod1.com/20240422/xrbJ8MIB/2000kb/hls/index.m3u8
+超能敢死队：冰封之城 (2024),https://v.cdnlz2.com/20240423/30417_c4bed124/2000k/hls/mixed.m3u8
+破墓 (2024),https://s10.fsvod1.com/20240421/ZS4ChJYx/2000kb/hls/index.m3u8
+临时劫案 (2024),https://s10.fsvod1.com/20240306/6ojWInsL/2000kb/hls/index.m3u8
+僵尸先生,https://vip.ffzy-play7.com/20230507/24165_799a7b4a/2000k/hls/mixed.m3u8
+僵尸至尊,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/2000k/hls/mixed.m3u8
+倚天屠龙记之九阳神功,https://vip.ffzy-play.com/20221015/964_2b9df10c/5000k/hls/mixed.m3u8
+尸家重地,https://vip.ffzy-play6.com/20221112/6051_a60c9433/2000k/hls/mixed.m3u8
+极速僵尸,https://vip.ffzy-play6.com/20221022/1127_e10a4a23/2000k/hls/mixed.m3u8
+驱魔道长,https://vip.ffzy-play7.com/20221112/3670_136b232e/2000k/hls/mixed.m3u8
+赌侠,https://vip.ffzy-online.com/20221017/869_4ed0959f/2000k/hls/mixed.m3u8
+天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/2000k/hls/mixed.m3u8
+僵尸先生5驱魔警察,https://vip.ffzy-play6.com/20221205/9856_18a53055/2000k/hls/mixed.m3u8
 
 
 
