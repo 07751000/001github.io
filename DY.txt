@@ -3704,6 +3704,10 @@ dj新歌句句理,https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_delo
 
 
 世界频道,#genre#
+ABC news美国,https://epg.pw/stream/224ef1347317c0323a78ee93d56be028201cb7234fd25c0d3c60313633e0896e.m3u8
+Asianet news,https://epg.pw/stream/0ebec72511c62781189b461f42a6b4e4699e05eafd756de0c658ec2f7cdba977.m3u8
+mytv san antonio tx,https://epg.pw/stream/1a05005eab9164710fa4d5ecd03c784fda38eb0c9252228df773edb8ce8976c0.m3u8
+
 キッズステーション (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ゴルフネットワーク (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 スーパー!ドラマTV (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
