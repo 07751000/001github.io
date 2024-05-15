@@ -3755,6 +3755,18 @@ WebTV Paraná [巴西],https://epg.pw/stream/5a93de88ce76e2129f04e1a0a9b4eaf1638
 РОССИЯ 24,https://epg.pw/stream/04f5e51d2cb75b2a284bbafad6617bf91cb564e7f59ee526f7079540b871a55c.m3u8
 РОССИЯ 24,https://epg.pw/stream/ad7b8589bf8d65499654d9a1b28b657bd1084bb8050ad2aba68604eb80d6c8ba.m3u8
 РОССИЯ 24,https://epg.pw/stream/00cb05247aec88a7cda7110c63059acbeb96e889cdfb5a49135918689fd871a8.m3u8
+ช่อง kctv 광주 ,https://epg.pw/stream/632d91733ea945f14f7392144505bc8ebc7659929b886289c75fb57baf70bb70.m3u8
+ช่อง star india,https://epg.pw/stream/931cf0cb496d8fa91ecab30c28d66e4aab6cd7d518584b73776f649faa36c50a.ctv
+ช่อง sony sports,https://epg.pw/stream/b166c9525d69e381517e60c416693dab4862c8d51c73a09a904213aad6e541b2.ctv
+ช่อง dd news,https://epg.pw/stream/667816832d4234e846441de8d2df6e7fcfacf339cef44111c7eb9ba6b86c9d39.ctv
+ช่อง sports 18,https://epg.pw/stream/d6420ad09d1bd0b0fd56319ab83e1694a8a75c2e88897d5016f6981b780fc7ce.ctv
+ช่อง hunt channel,https://epg.pw/stream/f5b37627d4f27e86a71c3e148fcfdc62c9731f5d22322e432c2fe10f43096da6.m3u8
+ช่อง cctn,https://epg.pw/stream/b164e978fda03b9d4c517d18a114387a30f894b9137d6ecdcaf8d40ff00a2959.m3u8
+ibn tv,https://epg.pw/stream/3de5914a12dc3adcebadd4839fef793d59d63888bd13d6056100c21fb2bbc8d3.m3u8
+нвк саха,https://epg.pw/stream/7decc764b01832454abee294b4866c983d4eb39a38535918a3ddbf0d5b589dfd.m3u8
+
+
+
 
 
 
