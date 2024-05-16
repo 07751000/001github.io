@@ -50,11 +50,8 @@ CCTV9,http://175.10.228.184:9998/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&a
 CCTV9,http://222.241.154.37:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://223.159.10.203:8099/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV9,http://124.228.160.94:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://223.151.51.74:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://175.10.228.184:9998/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://222.241.154.37:9901/tsfile/live/23010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://223.159.10.203:8099/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV10,http://124.228.160.94:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://223.159.10.203:8099/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV11,http://223.151.51.74:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://124.228.160.94:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://42.48.17.188:9901/tsfile/live/37211_1.m3u8?key=txiptv&playlive=1&authid=0
