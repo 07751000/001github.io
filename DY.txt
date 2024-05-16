@@ -2115,6 +2115,31 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 赌侠,https://vip.ffzy-online.com/20221017/869_4ed0959f/2000k/hls/mixed.m3u8
 天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/2000k/hls/mixed.m3u8
 僵尸先生5驱魔警察,https://vip.ffzy-play6.com/20221205/9856_18a53055/2000k/hls/mixed.m3u8
+侏罗纪崛起,https://vip.ffzy-play6.com/20221122/7883_e46af164/2000k/hls/mixed.m3u8
+神探修尔之洛桐的神秘力量,https://104.195.49.130:14300/vods/hls/dhz/17/16018/24051317/766232/1920/index.m3u8?appId=kkdy&sign=2cbc71a06c36e382ee7c47765bd6be4b&timestamp=1715844372
+职业杀手,https://hn.bfvvs.com/play/RdGm2y0a/index.m3u8
+生化危机复仇,https://leshiyuncdn.36s.top/20240509/LMwMo4Ku/2000kb/hls/index.m3u8
+绝命海岛,https://svipsvip.ffzy-online5.com/20240508/27006_7c8740b2/2000k/hls/mixed.m3u8
+极限特工3,https://leshiyuncdn.36s.top/20240510/EbJqRewh/2000kb/hls/index.m3u8
+省港旗兵3逃出香港粤语,https://leshiyuncdn.36s.top/20240510/gRBSkmBi/2000kb/hls/index.m3u8
+斯莱思狩猎传奇,https://svipsvip.ffzy-online5.com/20240508/27003_3f5291ff/2000k/hls/mixed.m3u8
+高压重犯,https://leshiyuncdn.36s.top/20240504/JYwh0E7n/2000kb/hls/index.m3u8
+灰影人,https://vip.ffzy-play7.com/20221225/9793_976ebee6/2000k/hls/mixed.m3u8
+极线杀手,https://vip.ffzy-play6.com/20221126/8509_df155574/2000k/hls/mixed.m3u8
+首尔大作战,https://vip.ffzy-play7.com/20221224/9666_a61bd3aa/2000k/hls/mixed.m3u8
+红色通缉令,https://vip.ffzy-play7.com/20230116/11647_6bade482/2000k/hls/mixed.m3u8
+末日激战,https://vip.ffzy-play7.com/20221225/9798_f0714d69/2000k/hls/mixed.m3u8
+极地反击,https://vip.ffzy-play7.com/20221226/9843_777ae90f/2000k/hls/mixed.m3u8
+超能泰坦,https://vip.ffzy-online.com/20221015/737_71ccf696/5000k/hls/mixed.m3u8
+玩命三姐妹,https://vip.ffzy-play7.com/20230116/11586_477acb30/2000k/hls/mixed.m3u8
+侠盗,https://vip.ffzy-play6.com/20221204/9748_7d2d62fe/2000k/hls/mixed.m3u8
+超能计划,https://vip.ffzy-play7.com/20221226/9831_ceb2f30c/2000k/hls/mixed.m3u8
+贴身女保镖2019,https://vip.ffzy-play7.com/20221223/9448_ff2f5496/2000k/hls/mixed.m3u8
+2020去死,https://vip.ffzy-play7.com/20230123/12040_c0d4427c/2000k/hls/mixed.m3u8
+惊天营救,https://vip.ffzy-online2.com/20230521/37662_1a7d27e1/2000k/hls/mixed.m3u8
+夜战风云,https://vip.ffzy-play7.com/20221107/2333_22c5d04c/2000k/hls/mixed.m3u8
+光灵,https://hn.bfvvs.com/play/lej5Pvdj/index.m3u8
+边境杀手,https://vip.ffzy-play7.com/20221208/8774_628c1d65/2000k/hls/mixed.m3u8
 
 
 
