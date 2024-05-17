@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_gravity="center"
-    android:id="@+id/content_view"
+    android:id="@id/content_view"
     android:background="@drawable/shape_dialog_bg_main"
     android:paddingLeft="@dimen/vs_10"
     android:layout_width="wrap_content"
@@ -13,7 +13,7 @@
     <TextView
         android:textSize="@dimen/ts_26"
         android:textColor="@color/color_CC000000"
-        android:id="@+id/title"
+        android:id="@id/title"
         android:padding="@dimen/vs_20"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -28,58 +28,58 @@
     <TextView
         android:textColor="@color/color_CC000000"
         android:gravity="center"
-        android:id="@+id/jump_web"
+        android:id="@id/jump_web"
         android:paddingTop="@dimen/vs_20"
         android:focusable="false"
         android:layout_width="0.0dip"
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/vs_10"
         android:text="扫码远程推送(点我跳转)"
-        app:layout_constraintBottom_toTopOf="@+id/qrCode"
-        app:layout_constraintLeft_toLeftOf="@+id/qrCode"
-        app:layout_constraintRight_toRightOf="@+id/qrCode" />
+        app:layout_constraintBottom_toTopOf="@id/qrCode"
+        app:layout_constraintLeft_toLeftOf="@id/qrCode"
+        app:layout_constraintRight_toRightOf="@id/qrCode" />
 
     <ImageView
-        android:id="@+id/qrCode"
+        android:id="@id/qrCode"
         android:layout_width="@dimen/vs_280"
         android:layout_height="@dimen/vs_280"
         android:layout_marginRight="@dimen/vs_10"
         android:scaleType="fitXY"
-        app:layout_constraintBottom_toBottomOf="@+id/list"
+        app:layout_constraintBottom_toBottomOf="@id/list"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toLeftOf="@+id/list"
-        app:layout_constraintTop_toTopOf="@+id/list" />
+        app:layout_constraintRight_toLeftOf="@id/list"
+        app:layout_constraintTop_toTopOf="@id/list" />
 
     <com.owen.tvrecyclerview.widget.TvRecyclerView
         android:orientation="vertical"
-        android:id="@+id/list"
+        android:id="@id/list"
         android:paddingRight="@dimen/vs_10"
         android:layout_width="0.0dip"
         android:layout_height="@dimen/vs_300"
         android:layout_marginBottom="@dimen/vs_10"
         app:layout_constrainedHeight="true"
-        app:layout_constraintBottom_toTopOf="@+id/input_sourceName"
+        app:layout_constraintBottom_toTopOf="@id/input_sourceName"
         app:layout_constraintHeight_max="@dimen/vs_410"
-        app:layout_constraintLeft_toRightOf="@+id/qrCode"
+        app:layout_constraintLeft_toRightOf="@id/qrCode"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/title"
+        app:layout_constraintTop_toBottomOf="@id/title"
         app:tv_layoutManager="V7LinearLayoutManager"
         app:tv_selectedItemIsCentered="true"
         app:tv_verticalSpacingWithMargins="@dimen/vs_10" />
 
     <ProgressBar
         android:layout_gravity="center"
-        android:id="@+id/play_loading"
+        android:id="@id/play_loading"
         android:visibility="gone"
         android:layout_width="@dimen/vs_50"
         android:layout_height="@dimen/vs_50"
         android:indeterminateOnly="true"
         android:indeterminateDrawable="@drawable/anim_loading"
         android:indeterminateBehavior="repeat"
-        app:layout_constraintBottom_toBottomOf="@+id/list"
-        app:layout_constraintLeft_toLeftOf="@+id/list"
-        app:layout_constraintRight_toRightOf="@+id/list"
-        app:layout_constraintTop_toTopOf="@+id/list" />
+        app:layout_constraintBottom_toBottomOf="@id/list"
+        app:layout_constraintLeft_toLeftOf="@id/list"
+        app:layout_constraintRight_toRightOf="@id/list"
+        app:layout_constraintTop_toTopOf="@id/list" />
 
     <EditText
         android:textSize="@dimen/ts_26"
@@ -87,7 +87,7 @@
         android:textColorHint="@color/color_6C3D3D3D"
         android:ellipsize="end"
         android:gravity="center"
-        android:id="@+id/input_sourceName"
+        android:id="@id/input_sourceName"
         android:background="@drawable/input_dialog_api_input"
         android:paddingLeft="@dimen/vs_30"
         android:paddingTop="@dimen/vs_10"
@@ -100,14 +100,14 @@
         app:layout_constrainedWidth="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toLeftOf="@+id/input_source_url" />
+        app:layout_constraintRight_toLeftOf="@id/input_source_url" />
 
     <EditText
         android:textSize="@dimen/ts_26"
         android:textColor="@color/color_CC000000"
         android:textColorHint="@color/color_6C3D3D3D"
         android:gravity="center"
-        android:id="@+id/input_source_url"
+        android:id="@id/input_source_url"
         android:background="@drawable/input_dialog_api_input"
         android:paddingLeft="@dimen/vs_2"
         android:paddingTop="@dimen/vs_10"
@@ -116,18 +116,19 @@
         android:layout_width="0.0dip"
         android:layout_height="wrap_content"
         android:layout_marginLeft="@dimen/vs_10"
+        android:hint="https://07751000.github.io/001github.io/DY.txt"
         android:text="https://07751000.github.io/001github.io/DY.txt" <!-- 设置默认值 -->
         android:inputType="text"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toRightOf="@+id/input_sourceName"
-        app:layout_constraintRight_toLeftOf="@+id/inputSubmit" />
+        app:layout_constraintLeft_toRightOf="@id/input_sourceName"
+        app:layout_constraintRight_toLeftOf="@id/inputSubmit" />
 
     <TextView
         android:textSize="@dimen/ts_22"
         android:textColor="@color/color_FFFFFF"
         android:gravity="center"
         android:layout_gravity="center"
-        android:id="@+id/inputSubmit"
+        android:id="@id/inputSubmit"
         android:background="@drawable/button_dialog_main"
         android:padding="@dimen/vs_10"
         android:focusable="true"
@@ -138,7 +139,7 @@
         android:layout_marginBottom="@dimen/vs_10"
         android:text="确定"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintRight_toLeftOf="@+id/permission_Submit"
+        app:layout_constraintRight_toLeftOf="@id/permission_Submit"
         app:layout_constraintRight_toRightOf="parent" />
 
     <TextView
@@ -146,7 +147,7 @@
         android:textColor="@color/color_FFFFFF"
         android:gravity="center"
         android:layout_gravity="center"
-        android:id="@+id/permission_Submit"
+        android:id="@id/permission_Submit"
         android:background="@drawable/button_dialog_main"
         android:padding="@dimen/vs_10"
         android:focusable="true"
@@ -159,3 +160,41 @@
         app:layout_constraintRight_toRightOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+// MainActivity.java
+public class MainActivity extends AppCompatActivity {
+    private static final String DEFAULT_LIVE_SOURCE_URL = "https://07751000.github.io/001github.io/DY.txt";
+    private EditText sourceUrlInput;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        EditText sourceNameInput = findViewById(R.id.input_sourceName);
+        sourceUrlInput = findViewById(R.id.input_source_url);
+        Button confirmButton = findViewById(R.id.inputSubmit);
+
+        // 设置默认的直播源URL
+        sourceUrlInput.setText(DEFAULT_LIVE_SOURCE_URL);
+
+        // 确认按钮的点击事件处理
+        confirmButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String sourceName = sourceNameInput.getText().toString();
+                String sourceUrl = sourceUrlInput.getText().toString();
+
+                if (TextUtils.isEmpty(sourceUrl)) {
+                    sourceUrl = DEFAULT_LIVE_SOURCE_URL; // 使用默认URL
+                }
+
+                // 处理输入的直播源信息，例如保存到数据库或其他逻辑
+                handleLiveSource(sourceName, sourceUrl);
+            }
+        });
+    }
+
+    private void handleLiveSource(String name, String url) {
+        // 实现你的逻辑
+    }
+}
