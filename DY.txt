@@ -474,6 +474,115 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
+🌍移动咪咕,#genre#
+CCTV-1,http://cdn.u55u.cn/migu.php?id=cctv1 
+CCTV-2,http://cdn.u55u.cn/migu.php?id=cctv2 
+CCTV-3,http://cdn.u55u.cn/migu.php?id=cctv3 
+CCTV-4,http://cdn.u55u.cn/migu.php?id=cctv4 
+CCTV-4欧洲,http://cdn.u55u.cn/migu.php?id=cctv4o 
+CCTV-4美洲,http://cdn.u55u.cn/migu.php?id=cctv4a 
+CCTV-5,http://cdn.u55u.cn/migu.php?id=cctv5 
+CCTV-5+,http://cdn.u55u.cn/migu.php?id=cctv5p 
+CCTV-6,http://cdn.u55u.cn/migu.php?id=cctv6 
+CCTV-7,http://cdn.u55u.cn/migu.php?id=cctv7 
+CCTV-8,http://cdn.u55u.cn/migu.php?id=cctv8 
+CCTV-9,http://cdn.u55u.cn/migu.php?id=cctv9 
+CCTV-10,http://cdn.u55u.cn/migu.php?id=cctv10 
+CCTV-12,http://cdn.u55u.cn/migu.php?id=cctv12 
+CCTV-13,http://cdn.u55u.cn/migu.php?id=cctv13 
+CCTV-14,http://cdn.u55u.cn/migu.php?id=cctv14 
+CCTV-15,http://cdn.u55u.cn/migu.php?id=cctv15 
+CCTV-17,http://cdn.u55u.cn/migu.php?id=cctv17 
+老故事,http://cdn.u55u.cn/migu.php?id=lgs 
+发现之旅,http://cdn.u55u.cn/migu.php?id=fxzl 
+中学生,http://cdn.u55u.cn/migu.php?id=zxs 
+CGTN,http://cdn.u55u.cn/migu.php?id=cgtn 
+CGTN纪录,http://cdn.u55u.cn/migu.php?id=cgtnjl 
+CGTN阿拉伯语,http://cdn.u55u.cn/migu.php?id=cgtna 
+CGTN法语,http://cdn.u55u.cn/migu.php?id=cgtnf 
+CGTN西班牙语,http://cdn.u55u.cn/migu.php?id=cgtne 
+CGTN俄语,http://cdn.u55u.cn/migu.php?id=cgtnr 
+重庆卫视,http://cdn.u55u.cn/migu.php?id=cqws 
+吉林卫视,http://cdn.u55u.cn/migu.php?id=jlws 
+内蒙古卫视,http://cdn.u55u.cn/migu.php?id=nmws 
+宁夏卫视,http://cdn.u55u.cn/migu.php?id=nxws 
+甘肃卫视,http://cdn.u55u.cn/migu.php?id=gsws 
+青海卫视,http://cdn.u55u.cn/migu.php?id=qhws 
+湖北卫视,http://cdn.u55u.cn/migu.php?id=hubws 
+江西卫视,http://cdn.u55u.cn/migu.php?id=jxws 
+江苏卫视,http://cdn.u55u.cn/migu.php?id=jsws 
+大湾区卫视,http://cdn.u55u.cn/migu.php?id=dwqws 
+广西卫视,http://cdn.u55u.cn/migu.php?id=gxws 
+云南卫视,http://cdn.u55u.cn/migu.php?id=ynws 
+贵州卫视,http://cdn.u55u.cn/migu.php?id=gzws 
+新疆卫视,http://cdn.u55u.cn/migu.php?id=xjws 
+西藏卫视,http://cdn.u55u.cn/migu.php?id=xzws 
+海南卫视,http://cdn.u55u.cn/migu.php?id=hinws 
+上海新闻综合,http://cdn.u55u.cn/migu.php?id=shxwzh 
+第一财经,http://cdn.u55u.cn/migu.php?id=dycj 
+上海ICS,http://cdn.u55u.cn/migu.php?id=shics 
+法治天地,http://cdn.u55u.cn/migu.php?id=fztd 
+欢笑剧场,http://cdn.u55u.cn/migu.php?id=hxjc 
+乐游,http://cdn.u55u.cn/migu.php?id=ly 
+魅力足球,http://cdn.u55u.cn/migu.php?id=mlzq 
+劲爆体育,http://cdn.u55u.cn/migu.php?id=jbty 
+游戏风云,http://cdn.u55u.cn/migu.php?id=yxfy 
+七彩戏剧,http://cdn.u55u.cn/migu.php?id=qcxj 
+江苏城市,http://cdn.u55u.cn/migu.php?id=jscs 
+江苏综艺,http://cdn.u55u.cn/migu.php?id=jszy 
+江苏新闻,http://cdn.u55u.cn/migu.php?id=jsxw 
+江苏教育,http://cdn.u55u.cn/migu.php?id=jsjy 
+江苏国际,http://cdn.u55u.cn/migu.php?id=jsgj 
+江苏影视,http://cdn.u55u.cn/migu.php?id=jsys 
+优漫卡通,http://cdn.u55u.cn/migu.php?id=ymkt 
+南京新闻综合,http://cdn.u55u.cn/migu.php?id=njxwzh 
+南京十八,http://cdn.u55u.cn/migu.php?id=njsb 
+苏州新闻综合,http://cdn.u55u.cn/migu.php?id=szxwzh 
+泰州新闻综合,http://cdn.u55u.cn/migu.php?id=tz1 
+连云港新闻综合,http://cdn.u55u.cn/migu.php?id=lygxwzh 
+嘉佳卡通,http://cdn.u55u.cn/migu.php?id=jjkt 
+CBA经典,http://cdn.u55u.cn/migu.php?id=cbajd 
+掼蛋精英赛,http://cdn.u55u.cn/migu.php?id=gdjys 
+高清大片,http://cdn.u55u.cn/migu.php?id=gqdp 
+和平精英赛事,http://cdn.u55u.cn/migu.php?id=hpjxss 
+红色轮播台,http://cdn.u55u.cn/migu.php?id=hslbt 
+经典深圳旁边电影,http://cdn.u55u.cn/migu.php?id=jdxgdy 
+军事迷必看大片,http://cdn.u55u.cn/migu.php?id=jsdp 
+历届春晚回顾,http://cdn.u55u.cn/migu.php?id=ljcwhg 
+咪咕24小时体育,http://cdn.u55u.cn/migu.php?id=mg24hty 
+玫瑰轮播台,http://cdn.u55u.cn/migu.php?id=mglbt 
+NBA经典,http://cdn.u55u.cn/migu.php?id=nbajd 
+欧洲足球风云,http://cdn.u55u.cn/migu.php?id=ozzqfy 
+全民乒乓,http://cdn.u55u.cn/migu.php?id=qmpp 
+赛事最经典,http://cdn.u55u.cn/migu.php?id=sszjd 
+体坛名栏汇,http://cdn.u55u.cn/migu.php?id=ttmlh 
+UFC格斗精选,http://cdn.u55u.cn/migu.php?id=ufcgdjx 
+五大联赛经典,http://cdn.u55u.cn/migu.php?id=wdlsjd 
+英雄联盟赛事,http://cdn.u55u.cn/migu.php?id=yxlmss 
+周杰伦现场,http://cdn.u55u.cn/migu.php?id=zjlxc 
+最强综艺趴,http://cdn.u55u.cn/migu.php?id=zqzyp 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 🌍浙江频道,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -3262,7 +3371,7 @@ MUFC贝影,http://43.138.170.29:35455/yy/1355659580
 
 
 
-港澳频道,#genre#
+VIP频道_1,#genre#
 本港台,http://113.64.145.224:8081/hls/135/index.m3u8
 凤凰资讯高清,http://113.64.145.224:8081/hls/36/index.m3u8
 凤凰卫视高清,http://113.64.145.224:8081/hls/37/index.m3u8
@@ -3302,9 +3411,6 @@ TVB星河,https://epg.pw/stream/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68
 耀才財經臺,https://epg.pw/stream/dd22b2b5f1c65e8294658a1d7732d747d14e6e4e8438f8fd30f90ca318063d3d.m3u8
 耀才財經臺,https://epg.pw/stream/80569330bb5aeb8688d1c55d643ba04008ed5f9313f1f012688a559d1379bb8d.m3u8
 耀才財經臺,https://epg.pw/stream/89eef7f40ece15ce35ecb80e3fd18ebd67bf74d927337c8cc66fdca919d0f83b.m3u8
-
-
-
 TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
 TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
@@ -3319,7 +3425,6 @@ TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
-台湾频道,#genre#
 WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv
 中視,rtmp://f13h.mine.nu/sat/tv091
 八大綜合,https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
@@ -3383,30 +3488,6 @@ WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
-
-
-印度,#genre#
-9XM Music India,https://epg.pw/stream/51fc1ab3e6ee588eddca19b8e4a5d3d899e6c156951e3e93e119578e0a0f1740.m3u8
-9XM Music India,https://epg.pw/stream/956ab667ac65bc754a89f76540e01b7bfe276c507bd056bd9a2a8ba64b4dfb27.m3u8
-MASTIII,https://epg.pw/stream/b88964a418a5afb0051559f15e82065c0f9034fc8333b297756ee07dd6496710.m3u8
-AASTHA,https://epg.pw/stream/8734a610e0504414136b91981f1d85fb8cfc1576cd6580c8a7ea0c30ee4016d1.m3u8
-ESTV,https://epg.pw/stream/4ab5c2e62123c3cae657dcdb4c0e9faaf57b9a85cdf98a688ee87845aca8f58a.m3u8
-PUBLIC TV,https://epg.pw/stream/fec585708ae963574d511aed6e30f072a653114394f3a8b7ebfd5ee21a2ce4cb.m3u8
-PUBLIC TV,https://epg.pw/stream/6c92ca335c680a8217b718c65552ebdf65d41182ef15b9e6bc07b9bbef1ab321.m3u8
-SONY,https://epg.pw/stream/41e787bfeaa452751fdf70111efa018743e24cc250c46e9aee933d8ac790cae8.ctv
-SONY,https://epg.pw/stream/d02f34f1dbe62c9072cba88e5d3c843252af782adc0ecd437b195a1784953fe8.ctv
-SONY,https://epg.pw/stream/53ca9d85d8579495e777e2eab62345f1ee6a9f714a748a1e913362e3bb0bc8ab.m3u8
-Anime News India,https://epg.pw/stream/f27b9d5c9957dca5a24b667d3c1fa040cf77c29b9af0f37a527230778e18123b.m3u8
-Star Gold,https://epg.pw/stream/30b0a85cfe3bc1f14f58e67de96dd617654f5f95c9e37100b216edc84bfe01f2.m3u8
-Sun TV India,https://epg.pw/stream/2c57822fd50466dbd7208fa5cea61ff3a1cc11ab473346530718a94263fab10b.m3u8
-India TV,https://epg.pw/stream/1c972b4b8618d0c1577ad3d8f96a60274168c3cd7e2067f951dd297224f82b97.m3u8
-ACTION 24,https://epg.pw/stream/fb1446287d399fe046a68a8e2c0ed107fbb86f9bd5702bed1103b58e1bc5fa6e.m3u8
-Ten TV,https://epg.pw/stream/585c0f6afb04e0cb54ae8cbbb8a6b4c70543402fc1a332f5b5e6ecd9c067c5ed.m3u8
-Ten TV,https://epg.pw/stream/59356dfac5926d6eae325c1c01efcd21240c62f9a5f000ec465bd74876ee3af5.m3u8
-99TV Telugu,https://epg.pw/stream/1299da931e816f328e8c3f1387a15c537806635227baee5057c0458caa64f61e.m3u8
-ABP News India,https://epg.pw/stream/450b9e9a4250a80a303811ce8f5ebbece7e89ee02a34155baf7c93154b31a779.m3u8
-ABP News India,https://epg.pw/stream/e673cd48c64f62f6d2cd2ce9444a9208fba9a8ca524c8a61fb62a36b118d08c3.m3u8
-VN News,https://epg.pw/stream/7818c241157463ae250e86f1d7773366428fcf0e5c4daf0c6b27a6fd60b4b756.m3u8
 
 
 
@@ -3679,7 +3760,7 @@ dj新歌句句理,https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_delo
 
 
 
-世界频道,#genre#
+VIP2频道_1,#genre#
 ABC news美国,https://epg.pw/stream/224ef1347317c0323a78ee93d56be028201cb7234fd25c0d3c60313633e0896e.m3u8
 Asianet news,https://epg.pw/stream/0ebec72511c62781189b461f42a6b4e4699e05eafd756de0c658ec2f7cdba977.m3u8
 mytv san antonio tx,https://epg.pw/stream/1a05005eab9164710fa4d5ecd03c784fda38eb0c9252228df773edb8ce8976c0.m3u8
