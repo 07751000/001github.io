@@ -2592,6 +2592,10 @@ HZTV-2高清,http://113.81.251.41:4022/udp/239.77.1.233:5146
 终结者黑暗命运,https://vip.ffzy-play6.com/20221204/9671_c7c6d23b/2000k/hls/mixed.m3u8
 终结者2018,https://vip.ffzy-play7.com/20230217/15110_af027ece/2000k/hls/mixed.m3u8
 指环王前传希望的诞生,https://leshiyuncdn.36s.top/20240312/aZphxIEF/2000kb/hls/index.m3u8
+灰影人,https://leshiyuncdn.36s.top/20240109/WW1ZAsxy/2000kb/hls/index.m3u8
+致命女郎,https://vip.ffzy-play7.com/20230319/18963_6a43929e/2000k/hls/mixed.m3u8
+人工智能,https://leshiyuncdn.36s.top/20240107/eAcFJrkl/1700kb/hls/index.m3u8
+人工智能伏羲觉醒,https://vip.ffzy-play7.com/20221124/6740_57a26e73/2000k/hls/mixed.m3u8
 
 
 
