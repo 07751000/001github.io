@@ -3408,30 +3408,17 @@ MUFC贝影,http://43.138.170.29:35455/yy/1355659580
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 本港台,http://113.64.145.229:8081/hls/135/index.m3u8
-
-
+TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
+TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB pearl sat,https://epg.pw/stream/646ab9165fd9d609642b55e9c72ff6f0eb5d017fa130683f9d877dda5841b307.ctv
 TVB plus,https://epg.pw/stream/cf771efb6d9315d9de352eec32c8d4e1c6b2fad52898c1ce092977aefd0de807.m3u8
-
-
-
-
-
-
-
-
-
-TVB J2台,http://nz189l149.bb27109.ctm.net:8892/bysid/82
 TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
-TVB翡翠台,http://158.180.67.130/live/hls/J/j.m3u8
-TVB翡翠台 4K,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
-TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
 TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
-有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
-有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-
 千禧经典,https://epg.pw/stream/98651a36f6a0e6aaf48b25a98397de3b9f954dbebf79c6f56a7e7489d974c7b7.ctv
 星河频道,https://epg.pw/stream/180e5ec54c87920bfe91fae3b1febba13c6fe5b44045941a281f1104c992a925.m3u8
 功夫台,https://epg.pw/stream/ae7ae839911a5250ce264da233b3af364f8fd6d37fce0eb36e7131a1adc1aca0.m3u8
@@ -3456,8 +3443,6 @@ TVB星河,https://epg.pw/stream/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68
 
 
 
-TVB J2,http://58.176.4.57:8800/play/a00c
-TVB明珠台,http://58.176.4.57:8800/play/a00b
 TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
 TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
@@ -3468,30 +3453,20 @@ TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
 香港34台全网,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-澳门有线 CH1,http://202.175.127.77/live/show/ch1/index.m3u8
-澳门有线 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
-澳门有线新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 台湾频道,#genre#
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來日本,rtmp://220.130.201.73/sat/tv771
-MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv
 中視,rtmp://f13h.mine.nu/sat/tv091
 八大綜合,https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 東森超視,rtmp://220.130.201.73/sat/tv331
 東森超視,rtmp://f13h.mine.nu/sat/tv331
-民視,rtmp://f13h.mine.nu/sat/tv051
-民視,rtmp://220.130.201.73/sat/tv051
-緯來體育,rtmp://220.130.201.73/sat/tv721
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來育樂,rtmp://220.130.201.73/sat/tv701
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 華視,rtmp://f13h.mine.nu/sat/tv111
-中視新聞,https://epg.pw/stream/ed13ea5143923c2c84f4e283d83fffa7331cf83268840b3121a64b941523cfaa.m3u8
 台視新聞,https://epg.pw/stream/9c01d60667916853d9729b3f653cadc718828c7976a0844bcbeb1f90d6e25212.m3u8
 台視新聞,https://epg.pw/stream/44b15ebca92df287ed0eed88fef12d6bce71b47c12f848691d7c603caeb5f85b.m3u8
 大立電視臺,https://epg.pw/stream/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8
@@ -3501,21 +3476,8 @@ WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31
 大愛,https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
 大愛2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
 大愛2,https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
-好訊息,https://epg.pw/stream/797529276770285bb5212acd5798702e0db85532c78121a94f600759dec5dabf.m3u8
-好訊息,https://epg.pw/stream/7e863d41fbb20975775323c59644b5d46c3a28b9c2f01e4b574a14761e01641e.m3u8
-
-
-
-TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
-TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
