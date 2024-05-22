@@ -2748,6 +2748,15 @@ CETV4,http://221.217.169.201:8550/rtp/239.3.1.56:4120
 人工智能伏羲觉醒,https://vip.ffzy-play7.com/20221124/6740_57a26e73/2000k/hls/mixed.m3u8
 超体,https://leshiyuncdn.36s.top/20240517/az06bTCg/2000kb/hls/index.m3u8
 她来自未来 一百年以后,https://play.hhuus.com/play/nelw9J5d/index.m3u8
+特工绍特,https://vip.ffzy-play7.com/20221231/10563_e4439114/2000k/hls/mixed.m3u8
+魔警,https://vip.ffzy-play7.com/20221028/550_4d98b3ec/2000k/hls/mixed.m3u8
+暴走神探,https://vip.ffzy-play7.com/20221103/1092_043fc37e/2000k/hls/mixed.m3u8
+骇客交锋,https://vip.ffzy-play6.com/20221204/9703_35d85348/2000k/hls/mixed.m3u8
+天际浩劫,https://vip.ffzy-play6.com/20221022/988_81da1c82/2000k/hls/mixed.m3u8
+明日边缘,https://vip.ffzy-play7.com/20221028/545_59fc39b3/2000k/hls/mixed.m3u8
+明日世界,https://vip.ffzy-play6.com/20221103/4015_ee52532a/2000k/hls/mixed.m3u8
+超能查派,https://vip.ffzy-play7.com/20230214/14682_7c3df6aa/2000k/hls/mixed.m3u8
+
 
 
 
