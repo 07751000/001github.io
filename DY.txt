@@ -2755,6 +2755,36 @@ CETV4,http://221.217.169.201:8550/rtp/239.3.1.56:4120
 
 
 
+🎬灾难片电影,#genre#
+地质灾难,https://yzzy.play-cdn3.com/20220512/20293_60350db4/1000k/hls/index.m3u8
+地质灾难,https://vip.ffzy-play7.com/20221107/2235_49649a40/2000k/hls/mixed.m3u8
+大台风,https://vip.ffzy-play7.com/20221125/6883_82f61cb8/2000k/hls/mixed.m3u8
+费城实验,https://leshiyuncdn.36s.top/20240518/3amue2Hm/2000kb/hls/index.m3u8
+《极限逃生》（2019）,https://leshiyuncdn.36s.top/20230717/pxxDBst0/hls/index.m3u8
+《一切尽失》（2013）,https://leshiyuncdn.36s.top/20240429/xwOtIzFW/2000kb/hls/index.m3u8
+《海啸奇迹》（2012）,https://leshiyuncdn.36s.top/20240328/WfFA8BBo/2000kb/hls/index.m3u8
+韩国2016隧道,https://leshiyuncdn.36s.top/20240120/v1tGQGYO/2000kb/hls/index.m3u8
+《流感》（2013）,https://223.111.202.70:11300/vods/hls/dhz/7/6477/24030915/117732/1920/index.m3u8?appId=kkdy&sign=1f1742b03dcdec118b712442c22744ce&timestamp=1716382028
+《地心引力》（2013）,https://223.111.150.96:10960/vods/hls/dhz/14/13484/2404183/537479/1920/index.m3u8?appId=kkdy&sign=d038a8afa165188a956c985da0116f47&timestamp=1716382147
+《萨利机长》（2016）,https://vip.ffzy-play7.com/20221106/1835_c7f12160/2000k/hls/mixed.m3u8
+《釜山行》（2016）,https://vip.ffzy-play7.com/20221231/10520_3d5b9613/2000k/hls/mixed.m3u8
+《勇往直前》（2017）,https://vip.ffzy-play7.com/20230329/20309_efc66683/2000k/hls/mixed.m3u8
+《科洛弗档案》（2008）,https://leshiyuncdn.36s.top/20240121/CinQky7m/1659kb/hls/index.m3u8
+《惊涛大冒险》（2006）,https://vip.ffzy-play7.com/20221223/9425_b5bba627/2000k/hls/mixed.m3u8
+《完美风暴》（2000）,https://leshiyuncdn.36s.top/20240429/vuCBkL7F/2000kb/hls/index.m3u8
+《汉江怪物》（2006）,https://vip.ffzy-play6.com/20221126/8446_10d4e297/2000k/hls/mixed.m3u8
+《人类之子》（2006）,https://vip.ffzy-play6.com/20221025/1953_74d93a85/2000k/hls/mixed.m3u8
+《93航班》（2006）,https://vip.ffzy-play6.com/20221029/2744_7fdbe383/2000k/hls/mixed.m3u8
+《2012》（2009）,https://play.subokk.com/play/1aM8w55e/index.m3u8
+《我是传奇》（2007）,https://vip.ffzy-play6.com/20221022/1009_0cab4a4e/2000k/hls/mixed.m3u8
+《后天》（2004）,https://vip.ffzy-play7.com/20230213/14532_9579e3bd/2000k/hls/mixed.m3u8
+
+
+
+
+
+
+
 
 
 
