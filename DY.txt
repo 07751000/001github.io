@@ -2759,7 +2759,7 @@ CETV4,http://221.217.169.201:8550/rtp/239.3.1.56:4120
 地质灾难,https://yzzy.play-cdn3.com/20220512/20293_60350db4/1000k/hls/index.m3u8
 地质灾难,https://vip.ffzy-play7.com/20221107/2235_49649a40/2000k/hls/mixed.m3u8
 大台风,https://vip.ffzy-play7.com/20221125/6883_82f61cb8/2000k/hls/mixed.m3u8
-费城实验,https://leshiyuncdn.36s.top/20240518/3amue2Hm/2000kb/hls/index.m3u8
+费城实验,https://vip.kuaikan-play1.com/20230308/VV6kgnMA/index.m3u8
 《极限逃生》（2019）,https://leshiyuncdn.36s.top/20230717/pxxDBst0/hls/index.m3u8
 《一切尽失》（2013）,https://leshiyuncdn.36s.top/20240429/xwOtIzFW/2000kb/hls/index.m3u8
 《海啸奇迹》（2012）,https://leshiyuncdn.36s.top/20240328/WfFA8BBo/2000kb/hls/index.m3u8
