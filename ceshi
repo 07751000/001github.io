@@ -1,119 +1,204 @@
-RTP Gravado,http://203.77.246.2:443/udp/239.1.1.196:5000
-JakTV,http://203.77.246.2:443/udp/239.1.1.8:5000
-Nusantara TV,http://203.77.246.2:443/udp/239.1.1.14:5000
-Metro TV HD,http://203.77.246.2:443/udp/239.1.1.66:5000
-JTV,http://203.77.246.2:443/udp/239.1.1.68:5000
-RTV,http://203.77.246.2:443/udp/239.1.1.70:5000
-Net HD,http://203.77.246.2:443/udp/239.1.1.72:5000
-Sinema Indonesia,http://203.77.246.2:443/udp/239.1.1.74:5000
-K-Drama,http://203.77.246.2:443/udp/239.1.1.76:5000
-DAAI TV,http://203.77.246.2:443/udp/239.1.1.78:5000
-CCTV 4,http://203.77.246.2:443/udp/239.1.1.98:5000
-Trans TV,http://203.77.246.2:443/udp/239.1.1.100:5000
-Trans 7,http://203.77.246.2:443/udp/239.1.1.102:5000
-ANTV,http://203.77.246.2:443/udp/239.1.1.104:5000
-Kompas TV,http://203.77.246.2:443/udp/239.1.1.106:5000
-SCTV,http://203.77.246.2:443/udp/239.1.1.108:5000
-Indosiar,http://203.77.246.2:443/udp/239.1.1.110:5000
-CGTN France,http://203.77.246.2:443/udp/239.1.1.112:5000
-Dubai TV HD,http://203.77.246.2:443/udp/239.1.1.130:5000
-RAI Italy,http://203.77.246.2:443/udp/239.1.1.132:5000
-TV Arab HD,http://203.77.246.2:443/udp/239.1.1.138:5000
-Xing Kong,http://203.77.246.2:443/udp/239.1.1.142:5000
-V Channel,http://203.77.246.2:443/udp/239.1.1.144:5000
-TV Rusia,http://203.77.246.2:443/udp/239.1.1.164:5000
-TV5 Monde Asie,http://203.77.246.2:443/udp/239.1.1.168:5000
-CNA HD,http://203.77.246.2:443/udp/239.1.1.170:5000
-Dubai TV HD,http://203.77.246.2:443/udp/239.1.1.198:5000
-Zee Blue,http://203.77.246.2:443/udp/239.1.1.200:5000
-TRT World,http://203.77.246.2:443/udp/239.1.1.202:5000
-Phoenix HD,http://203.77.246.2:443/udp/239.1.1.204:5000
-Zee Red,http://203.77.246.2:443/udp/239.1.1.206:5000
-Phoenix HD,http://203.77.246.2:443/udp/239.1.1.226:5000
-Phoenix,http://203.77.246.2:443/udp/239.1.1.228:5000
-France24 HD,http://203.77.246.2:443/udp/239.1.1.230:5000
-Zing,http://203.77.246.2:443/udp/239.1.1.232:5000
-ZeeNews,http://203.77.246.2:443/udp/239.1.1.234:5000
-NHK World HD,http://203.77.246.2:443/udp/239.1.2.2:5000
-Arirang,http://203.77.246.2:443/udp/239.1.2.4:5000
-CGTN Documentary HD,http://203.77.246.2:443/udp/239.1.2.6:5000
-CGTN Documentary HD,http://203.77.246.2:443/udp/239.1.2.34:5000
-RFI Talent,http://203.77.246.2:443/udp/239.1.2.36:5000
-KBS Korea HD,http://203.77.246.2:443/udp/239.1.2.38:5000
-YTN,http://203.77.246.2:443/udp/239.1.2.40:5000
-TVRI HD,http://203.77.246.2:443/udp/239.1.2.66:5000
-TVONE,http://203.77.246.2:443/udp/239.1.2.68:5000
-Rodja TV,http://203.77.246.2:443/udp/239.1.2.70:5000
-Aljaseera World,http://203.77.246.2:443/udp/239.1.2.72:5000
-TV China,http://203.77.246.2:443/udp/239.1.2.74:5000
-TV China,http://203.77.246.2:443/udp/239.1.2.76:5000
-Rock Ent,http://203.77.246.2:443/udp/239.1.2.130:5000
-Rock Ext,http://203.77.246.2:443/udp/239.1.2.132:5000
-Discovery,http://203.77.246.2:443/udp/239.1.2.134:5000
-Animal Planet,http://203.77.246.2:443/udp/239.1.2.136:5000
-AFN,http://203.77.246.2:443/udp/239.1.2.138:5000
-TLC,http://203.77.246.2:443/udp/239.1.2.140:5000
-AXN,http://203.77.246.2:443/udp/239.1.2.142:5000
-One,http://203.77.246.2:443/udp/239.1.2.144:5000
-GEM,http://203.77.246.2:443/udp/239.1.2.146:5000
-Hits,http://203.77.246.2:443/udp/239.1.2.148:5000
-Hits Movies HD,http://203.77.246.2:443/udp/239.1.2.150:5000
-BBC WN,http://203.77.246.2:443/udp/239.1.2.152:5000
-Cartoon Network,http://203.77.246.2:443/udp/239.1.2.154:5000
-Warner TV,http://203.77.246.2:443/udp/239.1.2.156:5000
-Boomerang,http://203.77.246.2:443/udp/239.1.2.158:5000
-Celestial Movie,http://203.77.246.2:443/udp/239.1.2.162:5000
-CCTV 2,http://203.77.246.2:443/udp/239.1.2.166:5000
-CCTV 17,http://203.77.246.2:443/udp/239.1.2.168:5000
-CCTV 10,http://203.77.246.2:443/udp/239.1.2.170:5000
-CCTV 11,http://203.77.246.2:443/udp/239.1.2.172:5000
-CCTV 12,http://203.77.246.2:443/udp/239.1.2.174:5000
-CCTV 13,http://203.77.246.2:443/udp/239.1.2.178:5000
-CCTV 14,http://203.77.246.2:443/udp/239.1.2.180:5000
-TV China,http://203.77.246.2:443/udp/239.1.2.184:5000
-Dragon TV,http://203.77.246.2:443/udp/239.1.2.186:5000
-TV China,http://203.77.246.2:443/udp/239.1.2.190:5000
-TV China,http://203.77.246.2:443/udp/239.1.2.194:5000
-TV China,http://203.77.246.2:443/udp/239.1.2.196:5000
-TV Arab,http://203.77.246.2:443/udp/239.1.2.200:5000
-TV China,http://203.77.246.2:443/udp/239.1.2.202:5000
-TV Arab,http://203.77.246.2:443/udp/239.1.2.204:5000
-Euronews,http://203.77.246.2:443/udp/239.1.2.206:5000
-TV Arab FHD,http://203.77.246.2:443/udp/239.1.2.208:5000
-CCTV 15,http://203.77.246.2:443/udp/239.1.2.212:5000
-CCTV 7,http://203.77.246.2:443/udp/239.1.2.214:5000
-Thrill,http://203.77.246.2:443/udp/239.1.2.216:5000
-Pace Sport,http://203.77.246.2:443/udp/239.1.2.218:5000
-Rock Ent HD,http://203.77.246.2:443/udp/239.1.2.220:5000
-Rock Ext HD,http://203.77.246.2:443/udp/239.1.2.222:5000
-Discovery HD,http://203.77.246.2:443/udp/239.1.2.224:5000
-Animal Planet HD,http://203.77.246.2:443/udp/239.1.2.226:5000
-AFN HD,http://203.77.246.2:443/udp/239.1.2.228:5000
-TLC HD,http://203.77.246.2:443/udp/239.1.2.232:5000
-AXN HD,http://203.77.246.2:443/udp/239.1.2.234:5000
-One HD,http://203.77.246.2:443/udp/239.1.2.236:5000
-Gem HD,http://203.77.246.2:443/udp/239.1.2.238:5000
-Hits HD,http://203.77.246.2:443/udp/239.1.2.240:5000
-Hits Movies HD,http://203.77.246.2:443/udp/239.1.2.242:5000
-BBC WN HD,http://203.77.246.2:443/udp/239.1.2.244:5000
-New,http://203.77.246.2:443/udp/239.1.2.246:5000
-TV China,http://203.77.246.2:443/udp/239.1.3.38:5000
-TV China,http://203.77.246.2:443/udp/239.1.3.40:5000
-TV China,http://203.77.246.2:443/udp/239.1.3.42:5000
-TV China,http://203.77.246.2:443/udp/239.1.3.44:5000
-TV China,http://203.77.246.2:443/udp/239.1.3.50:5000
-TV Arab,http://203.77.246.2:443/udp/239.1.3.52:5000
-Alarabiyah FHD,http://203.77.246.2:443/udp/239.1.3.54:5000
-TV Arab FHD,http://203.77.246.2:443/udp/239.1.3.56:5000
-TV China,http://203.77.246.2:443/udp/239.1.3.58:5000
-TV China,http://203.77.246.2:443/udp/239.1.3.62:5000
-TV China,http://203.77.246.2:443/udp/239.1.3.64:5000
-TV China,http://203.77.246.2:443/udp/239.1.3.66:5000
-GTV FHD,http://203.77.246.2:443/udp/239.1.3.68:5000
-TV Rusia,http://203.77.246.2:443/udp/239.1.3.70:5000
-HBO Signature FHD,http://203.77.246.2:443/udp/239.1.3.74:5000
-HBO Family FHD,http://203.77.246.2:443/udp/239.1.3.76:5000
-MNC TV FHD,http://203.77.246.2:443/udp/239.1.3.78:5000
-RCTI FHD,http://203.77.246.2:443/udp/239.1.3.80:5000
-HBO Hits FHD,http://203.77.246.2:443/udp/239.1.3.82:5000
-HBO FHD,http://203.77.246.2:443/udp/239.1.3.84:5000
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf0.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf1.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf2.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf3.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf4.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf5.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf6.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf7.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf8.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf9.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf10.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf11.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf12.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf13.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf14.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf15.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf16.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf17.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf18.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf19.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf20.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf21.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf22.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf23.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf24.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf25.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf26.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf27.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf28.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf29.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf30.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf31.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf32.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf33.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf34.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf35.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf36.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf37.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf38.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf39.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf40.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf41.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf42.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf43.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf44.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf45.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf46.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf47.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf48.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf49.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf50.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf51.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf52.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf53.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf54.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf55.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf56.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf57.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf58.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf59.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf60.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf61.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf62.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf63.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf64.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf65.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf66.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf67.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf68.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf69.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf70.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf71.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf72.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf73.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf74.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf75.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf76.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf77.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf78.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf79.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf80.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf81.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf82.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf83.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf84.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf85.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf86.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf87.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf88.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf89.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf90.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf91.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf92.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf93.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf94.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf95.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf96.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf97.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf98.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf99.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf100.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf101.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf102.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf103.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf104.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf105.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf106.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf107.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf108.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf109.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf110.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf111.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf112.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf113.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf114.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf115.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf116.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf117.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf118.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf119.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf120.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf121.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf122.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf123.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf124.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf125.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf126.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf127.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf128.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf129.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf130.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf131.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf132.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf133.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf134.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf135.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf136.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf137.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf138.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf139.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf140.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf141.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf142.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf143.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf144.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf145.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf146.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf147.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf148.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf149.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf150.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf151.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf152.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf153.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf154.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf155.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf156.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf157.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf158.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf159.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf160.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf161.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf162.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf163.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf164.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf165.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf166.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf167.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf168.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf169.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf170.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf171.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf172.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf173.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf174.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf175.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf176.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf177.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf178.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf179.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf180.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf181.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf182.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf183.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf184.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf185.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf186.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf187.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf188.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf189.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf190.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf191.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf192.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf193.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf194.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf195.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf196.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf197.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf198.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf199.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf200.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf201.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf202.ts
+https://cdn77-vid.xvideos-cdn.com/p12hdS7gfgHOK5AAu-96Zg==,1716446730/videos/hls/69/c7/31/69c731f8666d3252837e2bc3c085bb40/hls-720p-c1eaf203.ts
