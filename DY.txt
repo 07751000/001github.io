@@ -3904,6 +3904,25 @@ TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+J2,http://cdn8.jdshipin.com:8880/smt.php?id=j2_twn
+VIUTV,http://cdn8.jdshipin.com:8880/smt.php?id=viu1_twn
+TVB星河,http://cdn8.jdshipin.com:8880/smt.php?id=Xinhe
+HOY77,http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
+HOY78,http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
+TVB翡翠,http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
+J2,http://888.iptv543.com/Smartv.php?id=j2_twn
+无线新闻台,http://888.iptv543.com/Smartv.php?id=inews_twn
+VIUTV,http://888.iptv543.com/Smartv.php?id=viu1_twn
+TVB星河,http://888.iptv543.com/Smartv.php?id=Xinhe
+TVB星河,http://888.iptv543.com/Smartv.php?id=tvbxinhe_twn
+无线娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+无线新闻,http://137.175.30.127:9080/hls/inews.m3u8
+TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
+香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+香港34台全网,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+成华有线,https://tv.cry33.com/cdtvflv.php?id=chyx
 
 
 WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv
