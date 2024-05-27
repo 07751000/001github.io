@@ -3326,6 +3326,10 @@ CETV4,http://221.217.169.201:8550/rtp/239.3.1.56:4120
 明日边缘,https://vip.ffzy-play7.com/20221028/545_59fc39b3/2000k/hls/mixed.m3u8
 明日世界,https://vip.ffzy-play6.com/20221103/4015_ee52532a/2000k/hls/mixed.m3u8
 超能查派,https://vip.ffzy-play7.com/20230214/14682_7c3df6aa/2000k/hls/mixed.m3u8
+新木乃伊,https://vip.ffzy-play6.com/20221204/9622_81856a3d/2000k/hls/mixed.m3u8
+横冲直撞好莱坞,https://vip.ffzy-play7.com/20230117/11733_65598d1d/2000k/hls/mixed.m3u8
+正义的子弹,https://vip.kuaikan-cdn3.com/20230331/gY6qi4ni/hls/index.m3u8
+黄雀在后,https://svipsvip.ffzy-online5.com/20240506/26948_6fe0b3cc/2000k/hls/mixed.m3u8
 
 
 
