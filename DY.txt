@@ -456,6 +456,10 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 魅力足球,https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.ctv
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+未来体育,rtmp://220.130.201.73/sat/tv721
+未来体育,rtmp://f13h.mine.nu/sat/tv721
+未来体育,rtmp://f13h.mine.nu/sat/tv721
 
 
 
@@ -4472,19 +4476,13 @@ TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB pearl sat,https://epg.pw/stream/646ab9165fd9d609642b55e9c72ff6f0eb5d017fa130683f9d877dda5841b307.ctv
-TVB plus,https://epg.pw/stream/cf771efb6d9315d9de352eec32c8d4e1c6b2fad52898c1ce092977aefd0de807.m3u8
 TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
 TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
-千禧经典,https://epg.pw/stream/98651a36f6a0e6aaf48b25a98397de3b9f954dbebf79c6f56a7e7489d974c7b7.ctv
 星河频道,https://epg.pw/stream/180e5ec54c87920bfe91fae3b1febba13c6fe5b44045941a281f1104c992a925.m3u8
 功夫台,https://epg.pw/stream/ae7ae839911a5250ce264da233b3af364f8fd6d37fce0eb36e7131a1adc1aca0.m3u8
 娱乐新闻台,https://epg.pw/stream/b3b65ea63164e1a7818216f985f33ad1f4a1be264a8661e97baf145e231645db.m3u8
-凤凰中文,https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
-凤凰中文,https://epg.pw/stream/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.ctv
-凤凰资讯,https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
-凤凰资讯,https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 TVB娛樂新聞,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
 Now TV,https://epg.pw/stream/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
 Now TV,https://epg.pw/stream/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
@@ -4499,7 +4497,6 @@ TVB星河,https://epg.pw/stream/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68
 耀才財經臺,https://epg.pw/stream/80569330bb5aeb8688d1c55d643ba04008ed5f9313f1f012688a559d1379bb8d.m3u8
 耀才財經臺,https://epg.pw/stream/89eef7f40ece15ce35ecb80e3fd18ebd67bf74d927337c8cc66fdca919d0f83b.m3u8
 TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
 TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
@@ -4510,13 +4507,10 @@ TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-J2,http://cdn8.jdshipin.com:8880/smt.php?id=j2_twn
-VIUTV,http://cdn8.jdshipin.com:8880/smt.php?id=viu1_twn
 TVB星河,http://cdn8.jdshipin.com:8880/smt.php?id=Xinhe
 HOY77,http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
 HOY78,http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
 TVB翡翠,http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
-J2,http://888.iptv543.com/Smartv.php?id=j2_twn
 无线新闻台,http://888.iptv543.com/Smartv.php?id=inews_twn
 VIUTV,http://888.iptv543.com/Smartv.php?id=viu1_twn
 TVB星河,http://888.iptv543.com/Smartv.php?id=Xinhe
@@ -4530,15 +4524,18 @@ TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 成华有线,https://tv.cry33.com/cdtvflv.php?id=chyx
 
+緯來音乐,rtmp://f13h.mine.nu/sat/tv701
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+未来体育,rtmp://220.130.201.73/sat/tv721
+未来体育,rtmp://f13h.mine.nu/sat/tv721
+未来体育,rtmp://f13h.mine.nu/sat/tv721
 
 WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv
 中視,rtmp://f13h.mine.nu/sat/tv091
 八大綜合,https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 東森超視,rtmp://220.130.201.73/sat/tv331
 東森超視,rtmp://f13h.mine.nu/sat/tv331
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來育樂,rtmp://220.130.201.73/sat/tv701
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 華視,rtmp://f13h.mine.nu/sat/tv111
 台視新聞,https://epg.pw/stream/9c01d60667916853d9729b3f653cadc718828c7976a0844bcbeb1f90d6e25212.m3u8
 台視新聞,https://epg.pw/stream/44b15ebca92df287ed0eed88fef12d6bce71b47c12f848691d7c603caeb5f85b.m3u8
@@ -4667,36 +4664,14 @@ ibn tv,https://epg.pw/stream/3de5914a12dc3adcebadd4839fef793d59d63888bd13d605610
 нвк саха,https://epg.pw/stream/7decc764b01832454abee294b4866c983d4eb39a38535918a3ddbf0d5b589dfd.m3u8
 
 
-
-
-
-
-
-キッズステーション (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ゴルフネットワーク (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スーパー!ドラマTV (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スカイA (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 スターチャンネル1 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 スターチャンネル2 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 スターチャンネル3 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-チャンネルNECO (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-チャンネル銀河 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 テレビ朝日 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 テレビ東京 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ファミリー劇場 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 フジテレビ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ホームドラマチャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ムービープラス (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-釣りビジョン (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-東映チャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-歌謡ポップスチャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テレNEWS24 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テレジータス (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日本テレビ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日本映画専門チャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-時代劇専門チャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-囲碁・将棋チャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-AXN海外ドラマ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BS-TBS (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BSアニマックス (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BSスカパー! (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
