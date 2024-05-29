@@ -1,6 +1,20 @@
-//📢影视整合接口
-//QQ群:309736400
+//🇨🇳欧歌整合本接口
+//关注微信公众号【欧歌APP】有惊喜哦！！
+//接口大全 http://o.nxog.top  
 
+{
+"wallpaper":"./t/",
+"logo":"./LOGO2.gif",
+"spider":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;afadb80089d4e52d2360a8d0cf5555a9","warningText":"欧歌提示:
+📢接口软件永远免费 
+📢长期维护切勿贩卖",
+
+
+"lives":[{"name":"live","type":0,"url":"http://o.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"}],
+
+"sites": [
+{"key":"豆瓣2","name":"📢欧歌榜单v.nxog.top","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣1","name":"📢欧歌公告❤更新:5/23❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://o.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;0541e021a35158a77f4b6f90b16f9760","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
 
 
 //jar🎄🛶🎄🎃💘💖💖
