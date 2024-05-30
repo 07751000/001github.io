@@ -644,7 +644,7 @@ UFC格斗精选,http://cdn.u55u.cn/migu.php?id=ufcgdjx
 
 
 🌍大象融媒,#genre#
-巩义新闻,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+
 新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 新郑综合,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
 滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
@@ -1486,7 +1486,7 @@ CCTV-17,http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv
 
 
 
-💽长沙组播,#genre#
+
 
 
 
@@ -1573,7 +1573,7 @@ CGTN纪录,http://175.10.228.227:8081/tsfile/live/0016_1.m3u8?key=txiptv
 
 
 
-🌍湖南电信,#genre#
+
 
 
 
@@ -2691,6 +2691,25 @@ CCTV-17,http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv
 新木乃伊,https://vip.ffzy-play6.com/20221204/9622_81856a3d/2000k/hls/mixed.m3u8
 横冲直撞好莱坞,https://vip.ffzy-play7.com/20230117/11733_65598d1d/2000k/hls/mixed.m3u8
 正义的子弹,https://vip.kuaikan-cdn3.com/20230331/gY6qi4ni/hls/index.m3u8
+黄雀在后,https://svipsvip.ffzy-online5.com/20240506/26948_6fe0b3cc/2000k/hls/mixed.m3u8
+绝命狙击,https://v.cdnlz3.com/20240529/23459_8463c348/2000k/hls/mixed.m3u8
+陌路狂刀,https://super.ffzy-online6.com/20240308/27283_16f1d053/2000k/hls/index.m3u8
+末路狂花钱,https://vip.ffzy-online1.com/20240503/48817_998ad06d/2000k/hls/mixed.m3u8
+前途海量,https://svipsvip.ffzy-online5.com/20240516/27330_9f5869dd/2000k/hls/mixed.m3u8
+妖神令,https://svipsvip.ffzy-online5.com/20240328/25362_1435d2a5/2000k/hls/mixed.m3u8
+养蜂人,https://svipsvip.ffzy-online5.com/20240201/22926_4ab8aa83/2000k/hls/mixed.m3u8
+破案之致命追凶,https://svipsvip.ffzy-online5.com/20240528/27862_f897599f/2000k/hls/mixed.m3u8
+第三个嫌疑人,https://super.ffzy-online6.com/20240324/28193_c4583666/2000k/hls/index.m3u8
+东北警察故事,https://vip.ffzy-online.com/20221015/792_81b24941/5000k/hls/mixed.m3u8
+东北警察故事2,https://super.ffzy-online6.com/20230709/14702_e730c008/2000k/hls/index.m3u8
+绝地追击,https://super.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
+天龙八部之乔峰传,https://vip.ffzy-play5.com/20230121/6052_87b1c663/2000k/hls/mixed.m3u8
+西装暴徒,https://svipsvip.ffzy-online5.com/20240118/22262_c8772663/2000k/hls/mixed.m3u8
+零号追杀,https://super.ffzy-online6.com/20230721/15338_c2e42d5d/2000k/hls/index.m3u8
+缉恶,https://super.ffzy-online6.com/20240212/26147_50d69712/2000k/hls/index.m3u8
+93国际列车大劫案莫斯科行动,https://super.ffzy-online6.com/20231124/22000_602d5114/2000k/hls/index.m3u8
+临时劫案,https://super.ffzy-online6.com/20240306/27199_cea9e4ce/2000k/hls/index.m3u8
+除暴安良,https://svipsvip.ffzyread1.com/20240301/24769_7f369e0a/2000k/hls/mixed.m3u8
 黄雀在后,https://svipsvip.ffzy-online5.com/20240506/26948_6fe0b3cc/2000k/hls/mixed.m3u8
 
 
