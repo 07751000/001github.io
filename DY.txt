@@ -2827,48 +2827,10 @@ WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31
 
 VIP2频道_1,#genre#
 ABC news美国,https://epg.pw/stream/224ef1347317c0323a78ee93d56be028201cb7234fd25c0d3c60313633e0896e.m3u8
-Asianet news,https://epg.pw/stream/0ebec72511c62781189b461f42a6b4e4699e05eafd756de0c658ec2f7cdba977.m3u8
 mytv san antonio tx,https://epg.pw/stream/1a05005eab9164710fa4d5ecd03c784fda38eb0c9252228df773edb8ce8976c0.m3u8
 韩国电视台,https://epg.pw/stream/d76cf4e7535d685785ab293c5b015eacfa08ac5ccbd7609f198c81add0ce3778.m3u8
 韩国电视台,https://epg.pw/stream/131ebd3a4ffeb87e61c752a41238cd6bda441d722a54cb7474f65c281beb6f32.m3u8
 MBC 美国,https://epg.pw/stream/458f4a4f7322aef62776a960c9c6c9941ca0c70746038d436a02d2a0d907509d.m3u8
-朝鲜电视台,https://epg.pw/stream/67775ea83938d20069e0581c779f9e28544db665a25fa466d511d4a47a968ce5.m3u8
-朝鲜电视台,https://epg.pw/stream/6a7bc54a300ef9738e283a8e71911869c44859eb505e49c5c156599d32235e38.m3u8
-欧洲新闻 EN,https://epg.pw/stream/b92bf5a339c247279a7f1833afb7a2f8968a9dcfde51feaaa0537b19a55e594c.m3u8
-欧洲新闻 EN,https://epg.pw/stream/9596bbf8a03b49c1236568f35dd3e40e063c5e4a781107e36ce9d21edb9efc65.m3u8
-欧洲新闻德语,https://epg.pw/stream/1fea3b77534dbe1dc8cd996e0dcf934cff93a8d7ef1b4e69cdda3b15b1505d75.m3u8
-印度ABP新闻,https://epg.pw/stream/450b9e9a4250a80a303811ce8f5ebbece7e89ee02a34155baf7c93154b31a779.m3u8
-印度ABP新闻,https://epg.pw/stream/e673cd48c64f62f6d2cd2ce9444a9208fba9a8ca524c8a61fb62a36b118d08c3.m3u8
-印度ABP新闻,https://epg.pw/stream/68e16dc17b151aee68b41872228d94f8669942b8c5dff4bc380a0ce2af90b0e4.m3u8
-中国新闻社,https://epg.pw/stream/c43770050ab536ec324d970ac910557c994334aef9d1d3be305db2813476a347.m3u8
-中国新闻社,,https://epg.pw/stream/ad3b3dde62843ee18770e05f263aa10dccac712c8e04a6cdd2670b0a292241bc.m3u8
-亚洲新闻,https://epg.pw/stream/10785b1f26a6b03c110f6b7f6e75a27ddfe610d2427df09ebfacec4f2954b859.m3u8
-亚洲新闻,https://epg.pw/stream/20114395c5485e5428c542ade361e74c84daf5971c8d033f60da507677887152.m3u8
-Al Eshraq,https://epg.pw/stream/8c32b44dc0b614b741608685ee5c55cfb25208229fe5aa15f283605ad27c18fb.m3u8
-S24电视,https://epg.pw/stream/68c474c1954353f051c40991313bf9ee862534f383e4a649470d8aa1420096e1.m3u8
-英国广播公司新闻,https://epg.pw/stream/3fb619b19ffafed5e48547fb307201687690c1c40f4ae989b8c90ed270757097.m3u8
-英国广播公司新闻,https://epg.pw/stream/5a5447e4765a0b06d72b11253cd9076e11296703cdc396603b99c9955dc3fdba.m3u8
-英国广播公司新闻,https://epg.pw/stream/3ecdc9f91459f48985df3779518156c60380fd02c4376c31f238d5301cfc700d.m3u8
-BBC 波斯语,https://epg.pw/stream/9646e130c0762f3e4fcfdbdd40318dc1711e35bc8ca61c821121665cd70c367f.m3u8
-CNN 英国,https://epg.pw/stream/edced59f7cb38d43d3e02dd90fe8f06c0b1a84e20bd7ff9ffd15d6ae15cfc7a5.m3u8
-欧洲新闻英文版,https://epg.pw/stream/e5e5bb506728e413bb26a7956caa9f691b88533f62daf5c7373f56cc0896df7f.m3u8
-路透社新闻,https://epg.pw/stream/1c74ae614a6dd3699bbb328e1ff0c8089792d504940e578d6aaeecac95d00dfa.m3u8
-天空新闻,https://epg.pw/stream/e21f9b220261af5d7c2ff699d15352a33396b2267192097f21159e1e8e65870e.m3u8
-天空新闻,https://epg.pw/stream/eeee698a04e9766fd37c0a54cbb35cfcae11991422801acf3b7d31619d359f91.m3u8
-LCN电视,https://epg.pw/stream/c8cf278ea478dcb45d0881efa649b1be4188a636260f08049bd0a224a5a1fffc.m3u8
-首都电视台,https://epg.pw/stream/8b8b7db3908a31171464d367eb768ba50e93099f0f97d023b9b31a2eadd7a9aa.m3u8
-PTV世界,https://epg.pw/stream/8067978d3b83e73825b668b1d8a31bd1faf59912a83a962a6d65e2fe817c9569.m3u8
-I24NEWS,https://epg.pw/stream/541bfabedb421172ee1a63e7f8a44263bd353686093194fbd6a6241e50fee1cb.m3u8
-112 Україна,https://epg.pw/stream/d00b91ff9b7aa331e760337105408ca4666256e6251bee8cd11d057cfe814ea8.m3u8
-44 新闻,https://epg.pw/stream/2d5cd842920ae826a79c5e3be77157b49241ae48e372057dfa58d55a70885436.m3u8
-44 新闻,https://epg.pw/stream/ba7b9c9f6eedf46a21478c642ab3c844bbefd186c5d59e770e0e262e99abcf20.m3u8
-44 新闻,https://epg.pw/stream/59a33775165a56ba2d18d469f6ec551148087002032929378eb088e174b14cef.m3u8
-RTV Rijnmond,https://epg.pw/stream/e53d9f049ccb9379e4c9f3b5b6823eb58694714c0a1515e126f0cb918ae190c7.m3u8
-Al Anwar,https://epg.pw/stream/bbfc6a8abd2a36ae14d176980f2db43df0fb46ec8133d19fc9443e23da296d43.m3u8
-巴西环球新闻,https://epg.pw/stream/4cc6e46a4e90627b3b2944446a53169bfad18bb020e6a0d1607442161d44b686.ctv
-巴西环球新闻,https://epg.pw/stream/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.m3u8
-记录新闻高清巴西,https://epg.pw/stream/90665e8d65bc5d38f6521f6da2d3aa6de728473de6c9f5d806f496f69d1cbd1c.m3u8
-WebTV Paraná [巴西],https://epg.pw/stream/5a93de88ce76e2129f04e1a0a9b4eaf163829c01f4c8af83e3ad6650e883e912.m3u8
 今日俄罗斯,https://epg.pw/stream/4d7697b8989b06294a65c0812eb1d7e67d66c546b3c3a9267d34d5220f9c8777.m3u8
 今日俄罗斯,https://epg.pw/stream/c7717738df1c848a0c42bc876d7263969c0f9c79bfbff2bc08a601458d98a182.m3u8
 今日俄罗斯,https://epg.pw/stream/72d833dd6db22ce210aa43b11af544e6a454ba70408e7597b783e0b093153109.m3u8
@@ -2879,8 +2841,6 @@ WebTV Paraná [巴西],https://epg.pw/stream/5a93de88ce76e2129f04e1a0a9b4eaf1638
 РОССИЯ 24,https://epg.pw/stream/00cb05247aec88a7cda7110c63059acbeb96e889cdfb5a49135918689fd871a8.m3u8
 ช่อง kctv 광주 ,https://epg.pw/stream/632d91733ea945f14f7392144505bc8ebc7659929b886289c75fb57baf70bb70.m3u8
 ช่อง star india,https://epg.pw/stream/931cf0cb496d8fa91ecab30c28d66e4aab6cd7d518584b73776f649faa36c50a.ctv
-ช่อง sony sports,https://epg.pw/stream/b166c9525d69e381517e60c416693dab4862c8d51c73a09a904213aad6e541b2.ctv
-ช่อง dd news,https://epg.pw/stream/667816832d4234e846441de8d2df6e7fcfacf339cef44111c7eb9ba6b86c9d39.ctv
 ช่อง sports 18,https://epg.pw/stream/d6420ad09d1bd0b0fd56319ab83e1694a8a75c2e88897d5016f6981b780fc7ce.ctv
 ช่อง hunt channel,https://epg.pw/stream/f5b37627d4f27e86a71c3e148fcfdc62c9731f5d22322e432c2fe10f43096da6.m3u8
 ช่อง cctn,https://epg.pw/stream/b164e978fda03b9d4c517d18a114387a30f894b9137d6ecdcaf8d40ff00a2959.m3u8
@@ -3040,7 +3000,6 @@ WOWOW希内玛,https://epg.pw/stream/0e95390c218d7e503c4ba7ec9226e4568988284676a
 卫星,https://epg.pw/stream/6a2cb8f7acc767af9e589606e4c938421de9c4735ce941f38ee7a2a042f0a5dd.m3u8
 Virtual TV (720p),https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
 VV8 TV (720p),https://video01.kshost.com.br/seap8272/seap8272/playlist
-
 
 
 历届春晚,#genre#
