@@ -1,42 +1,14 @@
-港澳频道,#genre#
-凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://117.28.177.45:8605/rtp/239.61.2.183:9086
-凤凰资讯,http://ytb.csscc.cc:2086/live.m3u8?c=1
-凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234
-凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
-凤凰卫视,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
-凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
-凤凰资讯,http://171.223.215.229:4000/udp/239.93.1.4:2191
-凤凰资讯,http://117.28.130.162:8888/rtp/239.61.2.183:9086
-凤凰资讯,http://120.41.124.228:8888/rtp/239.61.2.183:9086
-凤凰资讯,http://www.yao87.com:4022/udp/239.76.246.135:1234
-凤凰资讯,http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
-凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-J2,http://cdn8.jdshipin.com:8880/smt.php?id=j2_twn
-无线新闻台,http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
-VIUTV,http://cdn8.jdshipin.com:8880/smt.php?id=viu1_twn
-TVB星河,http://cdn8.jdshipin.com:8880/smt.php?id=Xinhe
-HOY77,http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
-HOY78,http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
-TVB翡翠,http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
-HOY 國際財經台,http://123.202.245.120:8009/bysid/76
-HOY TV,http://123.202.245.120:8009/bysid/77
-HOY 資訊台,http://123.202.245.120:8009/bysid/78
-J2,http://888.iptv543.com/Smartv.php?id=j2_twn
-无线新闻台,http://888.iptv543.com/Smartv.php?id=inews_twn
-VIUTV,http://888.iptv543.com/Smartv.php?id=viu1_twn
-TVB星河,http://888.iptv543.com/Smartv.php?id=Xinhe
-TVB星河,http://888.iptv543.com/Smartv.php?id=tvbxinhe_twn
-TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-无线娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 无线新闻,http://137.175.30.127:9080/hls/inews.m3u8
-TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
-TVB J2台,http://nz189l149.bb27109.ctm.net:8892/bysid/82
-TVB翡翠台,http://158.180.67.130/live/hls/J/j.m3u8
-TVB翡翠台 4K,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
-TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
-TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+
+无线新闻,https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
+翡翠台,http://113.83.152.64:1936/bysid/1.m3u8
+翡翠台,https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
+
+翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
