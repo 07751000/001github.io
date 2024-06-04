@@ -1,14 +1,5 @@
 无线新闻,http://137.175.30.127:9080/hls/inews.m3u8
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
-
-无线新闻,https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8
-翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-
-翡翠台,http://113.83.152.64:1936/bysid/1.m3u8
-翡翠台,https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
-
-翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
