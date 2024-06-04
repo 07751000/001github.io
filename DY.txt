@@ -607,8 +607,6 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 淇县,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
 原阳新闻综合,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
 沉丘新闻综合,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
-河南开封新闻,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
-洛阳一套综合频道,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 洛阳二套科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
 洛阳三套文旅频道,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
 汝阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
