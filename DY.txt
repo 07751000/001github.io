@@ -2692,6 +2692,27 @@ dj新歌句句理,https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_delo
 
 
 VIP频道_1,#genre#
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
+公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
+东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+三立戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大综合,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+
+
+
+
 中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1
 中天新闻,http://194.87.101.118/live.m3u8?c=7
 中天新闻,http://william8073.eu.org:9000/live.m3u8?c=4
@@ -2843,180 +2864,53 @@ WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31
 
 
 VIP2频道_1,#genre#
-ABC news美国,https://epg.pw/stream/224ef1347317c0323a78ee93d56be028201cb7234fd25c0d3c60313633e0896e.m3u8
-mytv san antonio tx,https://epg.pw/stream/1a05005eab9164710fa4d5ecd03c784fda38eb0c9252228df773edb8ce8976c0.m3u8
-韩国电视台,https://epg.pw/stream/d76cf4e7535d685785ab293c5b015eacfa08ac5ccbd7609f198c81add0ce3778.m3u8
-韩国电视台,https://epg.pw/stream/131ebd3a4ffeb87e61c752a41238cd6bda441d722a54cb7474f65c281beb6f32.m3u8
-MBC 美国,https://epg.pw/stream/458f4a4f7322aef62776a960c9c6c9941ca0c70746038d436a02d2a0d907509d.m3u8
-今日俄罗斯,https://epg.pw/stream/4d7697b8989b06294a65c0812eb1d7e67d66c546b3c3a9267d34d5220f9c8777.m3u8
-今日俄罗斯,https://epg.pw/stream/c7717738df1c848a0c42bc876d7263969c0f9c79bfbff2bc08a601458d98a182.m3u8
-今日俄罗斯,https://epg.pw/stream/72d833dd6db22ce210aa43b11af544e6a454ba70408e7597b783e0b093153109.m3u8
-Волгоград 1,https://epg.pw/stream/2bf5e323a4f7a58b04735d2a4878a18fa3183740550e4fb88c68739aef4bf946.m3u8
-Волгоград 1,https://epg.pw/stream/095bf751d33c547e98505eb52fb6a38b6234a12eb21b0a4f904778fbbf4fd560.m3u8
-РОССИЯ 24,https://epg.pw/stream/04f5e51d2cb75b2a284bbafad6617bf91cb564e7f59ee526f7079540b871a55c.m3u8
-РОССИЯ 24,https://epg.pw/stream/ad7b8589bf8d65499654d9a1b28b657bd1084bb8050ad2aba68604eb80d6c8ba.m3u8
-РОССИЯ 24,https://epg.pw/stream/00cb05247aec88a7cda7110c63059acbeb96e889cdfb5a49135918689fd871a8.m3u8
-ช่อง kctv 광주 ,https://epg.pw/stream/632d91733ea945f14f7392144505bc8ebc7659929b886289c75fb57baf70bb70.m3u8
-ช่อง star india,https://epg.pw/stream/931cf0cb496d8fa91ecab30c28d66e4aab6cd7d518584b73776f649faa36c50a.ctv
-ช่อง sports 18,https://epg.pw/stream/d6420ad09d1bd0b0fd56319ab83e1694a8a75c2e88897d5016f6981b780fc7ce.ctv
-ช่อง hunt channel,https://epg.pw/stream/f5b37627d4f27e86a71c3e148fcfdc62c9731f5d22322e432c2fe10f43096da6.m3u8
-ช่อง cctn,https://epg.pw/stream/b164e978fda03b9d4c517d18a114387a30f894b9137d6ecdcaf8d40ff00a2959.m3u8
-ibn tv,https://epg.pw/stream/3de5914a12dc3adcebadd4839fef793d59d63888bd13d6056100c21fb2bbc8d3.m3u8
-нвк саха,https://epg.pw/stream/7decc764b01832454abee294b4866c983d4eb39a38535918a3ddbf0d5b589dfd.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+日本新闻,https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
+日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+韩·EBS-2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩·EBS-2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩·JobPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+韩·EBS-1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩·EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩·EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩·KBSWorld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+韩·TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+韩·GSMyShop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+韩·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+俄·IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+美·NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+越·ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+越·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KBS World,https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-スターチャンネル1 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル2 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル3 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-テレビ朝日 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-テレビ東京 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-フジテレビ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS-TBS (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSアニマックス (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSスカパー! (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSテレ東 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSフジ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS朝日 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS日テレ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-CNN J (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-FOX (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-GAORA (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 1 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 2 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 3 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 4 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-LaLaTV (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Music ON TV! (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK BS1 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK BSプレミアム (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK教育 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK総合 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-TBSテレビ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-WOWOWシネマ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-WOWOWプライム (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-WOWOWライブ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-
-
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang Radio,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
-EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBS,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-KBS,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-KTV-国民广播,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
-KTV-国民广播,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
-MBN,http://mytv.dothome.co.kr/ch/catv/54.php
-NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
-SBS,http://1.245.74.5:1935/live/tv/.m3u8
-SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-TBS,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_mobile_360.smil/playlist.m3u8
-YTN,http://210.92.207.38:40001
-国防电视,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-
-
-
-Globo News Brazil,https://epg.pw/stream/4cc6e46a4e90627b3b2944446a53169bfad18bb020e6a0d1607442161d44b686.ctv
-Globo News Brazil,https://epg.pw/stream/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.m3u8
-Record News HD Brazil,https://epg.pw/stream/90665e8d65bc5d38f6521f6da2d3aa6de728473de6c9f5d806f496f69d1cbd1c.m3u8
-TVCI [Brazil],https://epg.pw/stream/8f732d75c3158b55a4f425c925c3e1fe4b33fc51615e1e7588bc2bd644752eac.m3u8
-WebTV Paraná [Brazil],https://epg.pw/stream/5a93de88ce76e2129f04e1a0a9b4eaf163829c01f4c8af83e3ad6650e883e912.m3u8
-FN TV,https://epg.pw/stream/4c1fb7cc931b03768691e8c55651411d33cd6a4c0a621daeeb2e04d270521c92.m3u8
-FN TV,https://epg.pw/stream/aedeea1f357012b2621a1d65ba0b390bbcfc857e50852fad12c65ead88ecdbaf.m3u8
-CNC News,https://epg.pw/stream/5402a0174b2a8f8714c024555a4e818fa25a6e9a478c240927f1a3616c393941.m3u8
-CNC News,https://epg.pw/stream/5e10aa6d513e727773422457c0be617f2b8555b5bc3e60756c1c168783d060d5.m3u8
-Al Anwar,https://epg.pw/stream/bbfc6a8abd2a36ae14d176980f2db43df0fb46ec8133d19fc9443e23da296d43.m3u8
-EuroNews Deutsch,https://epg.pw/stream/1fea3b77534dbe1dc8cd996e0dcf934cff93a8d7ef1b4e69cdda3b15b1505d75.m3u8
-EuroNews Italia,https://epg.pw/stream/30ba0a20b028ab44a76b19a5bb65ae52c6a0828821f746ce8eeb8c35ec034905.m3u8
-Euronews EN,https://epg.pw/stream/b92bf5a339c247279a7f1833afb7a2f8968a9dcfde51feaaa0537b19a55e594c.m3u8
-ALSHARQIYA NEWS,https://epg.pw/stream/409962e3325684053ebaaf4cb7e48db3d50b72bbcf626b4c0bd02ed156a8a0f3.m3u8
-Al Hurra,https://epg.pw/stream/3b22b3d21f7932a3823b576a287f73326834f2415398bd5d582a5ed08bf4c246.m3u8
-Al Hurra,https://epg.pw/stream/4a5e028db9cde85efd3c9c0d3bf1c3732167e0a1073ac17eef798b6ac392b343.ctv
-Al Hurra,https://epg.pw/stream/5e59b62be1684c55a34a198e26f94c3a8f897828b05c58f4eb96b91822709f46.ctv
-I24NEWS,https://epg.pw/stream/3913b6dd9f2b9ba552c753e4ed5d436f48a7e40de29d3a62ac9e407a11316679.m3u8
-I24NEWS,https://epg.pw/stream/b912ef09ab8d466371d4a34ef00df6f156f81e382a4281fba65cf7b3e4d404cb.m3u8
-LSTV,https://epg.pw/stream/fb0fd673a9e4774c78b5b83365cffc8ccdae57d5afc3462b1c193fcabc9ad274.m3u8
-
-
-追踪体育明星,https://epg.pw/stream/b8463cb2534978a29321e67fb1f26a54a736eaf4638de6076ddffda6d4696efa.m3u8
-红牛电视,https://epg.pw/stream/e1267bd7208899220102537c34cc45c3116dc41c4efd0dadb51d484d37f2fa38.m3u8
-红牛电视,https://epg.pw/stream/a6150dc9fc03c68e22eefe706405411b9f1c0df4c503ed848017a729f99b124c.m3u8
-红牛电视,https://epg.pw/stream/bdc86f1dc16ba4e8806a81211b7f948fffe36b6abbaf0ee78018c377fd25d7ba.m3u8
-天空体育超级联赛,https://epg.pw/stream/c31850aff5734534e398f6e7115412c3e7fed8888a61b88fe1a11803a1a0d264.ctv
-Canal+ 西班牙足球,https://epg.pw/stream/81e83fd364f408f0729841bb5b0d9dacfaeb5b080919593bea932997cc0668ba.m3u8
-皇家马德里电视台,https://epg.pw/stream/55e465f945619a65597ac9b832fcdfa7ad1fffdab5ff2a6dc73e9bea1cc82bce.m3u8
-皇家马德里电视台,https://epg.pw/stream/49628e7874ad14bf14bb1047c71733af947456462ebf4f75c5e94509344a5ec0.m3u8
-BTV 2 PT,https://epg.pw/stream/513d3f407c019cdaffe36c6d48e03b4827ca1f292bc737ed6399af1fc2c84aab.m3u8
-MBC职业体育1,https://epg.pw/stream/fb641906ef09f50a5bac0bcb91d5c253fea6ea371fc7fcd478fa710d8ab94617.m3u8
-SporTV 1,https://epg.pw/stream/0207e985f9d4b1b09265e9825eeb3e2a51514b2c66978aa646edef5758890893.m3u8
-极限运动频道Россия,https://epg.pw/stream/6ac01beeb4baa8a91baefd3e7ec9845fec0236f30d28bf54f4ec16cfc833adf8.ctv
-极限运动频道Россия,https://epg.pw/stream/59bad09d296881a1686bb1374b3c6536cb161c0cc87671f260293737ab577324.m3u8
-НТВ Плюс баскетбол Россия,https://epg.pw/stream/895ba6e71f4b931071ba3c79e06f536c43bf86ad9ab9d4e997bf87abf84ccd3d.m3u8
-Наш Футбол Россия,https://epg.pw/stream/52e7724163104b9b6cd76f1b4ea36a2e098f6c8e1655de7d1a168c1becb3c1a0.ctv
-Телеканал Старт,https://epg.pw/stream/ef5ad182ce56affed4f1a58327500fdbde547ac3f678a4a5c2874a70fce3a250.m3u8
-Телеканал Старт,https://epg.pw/stream/fce6cafb29962d4503fd484c41b3e17c4321ecedbdc8b3852e16c08bd84081c4.m3u8
-Телеканал Старт,https://epg.pw/stream/97f6be93846cca5da97fee717ac946d537507dc3ad4f7fb51aa5b661faf6bbd3.m3u8
-
-
-
-
-
-
-
-
-DIVA通用,https://epg.pw/stream/9968f4d687fc4a3211a3fc44561254f6c953c1acbbeb548f9f129c1ddad6bb9f.m3u8
-第8频道,https://epg.pw/stream/9240cc35b76b9b8ff72545ff0a5f14c3b8ef82f2c6187263ef315997f62ab040.m3u8
-HBO（新加坡）,https://epg.pw/stream/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.m3u8
-历史频道,https://epg.pw/stream/dcda1c68bf96b22ee5e68b4b241d433b1fb1ad85931d6b4b35e5f59b93798033.ctv
-MOB电视,https://epg.pw/stream/ada97b1864e2f6b948f92196d9c59e6644b6c6f9c956f5e66cfc440917b0e08a.m3u8
-A&E 巴西 1,https://epg.pw/stream/44b6012f501c8938266af9dc8983611a1c2ec8f5e95f6ee2f01a9896897e52d1.m3u8
-HBO Xtreme,https://epg.pw/stream/9443c5ca1c6bcedd1ee4f88fe8d888d1715e6023b26117e92f4f68555e3d77f7.ctv
-HBO Xtreme,https://epg.pw/stream/8b5f64409da60a9deabbc3bfa8f863e5ba81312715d74ebadd3604c83cc486d8.m3u8
-环球报,https://epg.pw/stream/13f25e3b9f3ddd37998780477f7c2250cfa0b511afe4a76302309f8ce985d5f9.ctv
-环球报,https://epg.pw/stream/7c665a6318930c52c7b3da0086f67ad578a3eb5abf66fab7ae0f87d722c175cb.m3u8
-环球报,https://epg.pw/stream/97d4a1f596c10382ef2dbb6741ce3bbed89e167c7764724f9e144ff329e6df4a.m3u8
-环球报,https://epg.pw/stream/088475e79e9baf70709f7dc958ed33ffad05583a5868320d2483db573f7caca6.m3u8
-运行时动作！ [巴西],https://epg.pw/stream/b9c6bde401b0710f5fa17c65fb6ddaa6203d4be784324bcc746cc6a631392a3e.m3u8
-Telecine Action Plus 巴西,https://epg.pw/stream/afd2ffafad12c705d5cf89422cd9f7bca05de070e3bae438bdb0375988a394a8.m3u8
-巴西华纳频道[高清],https://epg.pw/stream/8739be297a3d6cad10c1cc2a40042057e9dd769830547fdd5742150b7eb144ce.ctv
-跳频频道,https://epg.pw/stream/38a967322df96f5d1a525b105f0a760533fa6220861bbcd7bd50a37ca2002b50.ctv
-北京淘直播,https://epg.pw/stream/6a4d00df7e820e3e344d3fbf0323a207c5e3e2560b1f7cd7a6fc3fd46fa0cd8f.ctv
-北京淘电影,https://epg.pw/stream/0163d007c5f88cc778ce4b753afb81eb14f6ed35db2f1fb8f04b72b08a46eec4.ctv
-奇诺电视,https://epg.pw/stream/2353a9deec5cb7b68ef49edee0121b59d40a473f7fb136913845c02f0ddfdc90.m3u8
-奇诺电视,https://epg.pw/stream/bb777f44d28dc4287327e7eb61879148439fc65dab637932e54eb76bb627fd67.m3u8
-奇诺电视,https://epg.pw/stream/49941653a8a898dd0fd8d5e4d7d214dfe96a743eaf50ac4ff2c8781838bb3251.m3u8
-13 Eme Rue SD 法国,https://epg.pw/stream/fe88b66619c9223b5ef5df90619d9b6265b05f6985179788611beaefdcc77931.m3u8
-明星电影高清,https://epg.pw/stream/97db7f94589195cf68eb0f60d8efb393e60aa481f04aac6cfd355864a867841d.ctv
-印度太阳电视台,https://epg.pw/stream/755611bf9f53bc5e0e7b46d3ac85f12f12a2d7d4608c8672999fefc1cb7af6a6.m3u8
-印度太阳电视台,https://epg.pw/stream/2c57822fd50466dbd7208fa5cea61ff3a1cc11ab473346530718a94263fab10b.m3u8
-英成剧目,https://epg.pw/stream/46ce2ecb8fbda691a429acb6bc8ba2a1ea1014becbbfe39de306551b5bce585d.m3u8
-电影加,https://epg.pw/stream/287870ec1af6e2f0c82dc60d40b083c83bfb7317da44a1f8eca9e592e8056813.m3u8
-电影加,https://epg.pw/stream/01b1456c11e358b2aac287a7e243ab1ac5c7786a5ff068d001706b0ece44411d.m3u8
-电影加,https://epg.pw/stream/dbe2aa3fd92fb0b58a84016605b6886a3d77960d2f7d9b3998ce17c32c2d42f5.m3u8
-WOWOW希内玛,https://epg.pw/stream/5cba30e719a0dc4b712dc368a3e7b9745892418a3927ac9cd61a8dfaa74345b7.m3u8
-WOWOW希内玛,https://epg.pw/stream/0e95390c218d7e503c4ba7ec9226e4568988284676a4d598afc3bc499eb4d33f.m3u8
-哇哇莱布,https://epg.pw/stream/b06a4f6f042c1c0e65d4b35653b5b01348012ca01b3e3efba0cfd56b7cd1e36d.m3u8
-哇哇莱布,https://epg.pw/stream/2c55e18abd09c4b968a51e7cc3878f45fc165cd45e62c1e2ef0b8acb4dd9b2c1.m3u8
-卫星,https://epg.pw/stream/3aae72355b3b2629a17241bd5791c1cfbbadda4c642a4c7e88b7eda2abd95878.m3u8
-卫星,https://epg.pw/stream/6a2cb8f7acc767af9e589606e4c938421de9c4735ce941f38ee7a2a042f0a5dd.m3u8
-Virtual TV (720p),https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
-VV8 TV (720p),https://video01.kshost.com.br/seap8272/seap8272/playlist
+欧洲华文教育,http://hatu-video.oss-cn-hangzhou.aliyuncs.com/live-stream/20111114W.m3u8
+欧洲华文8套,https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 
 历届春晚,#genre#
