@@ -451,6 +451,47 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 
+🌍山东联通,#genre#
+CCTV1-综合,http://fangke.blueswords.com:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://fangke.blueswords.com:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://fangke.blueswords.com:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://fangke.blueswords.com:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://fangke.blueswords.com:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://fangke.blueswords.com:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://fangke.blueswords.com:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://fangke.blueswords.com:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://fangke.blueswords.com:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://fangke.blueswords.com:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://fangke.blueswords.com:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://fangke.blueswords.com:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://fangke.blueswords.com:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://fangke.blueswords.com:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://fangke.blueswords.com:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://fangke.blueswords.com:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://fangke.blueswords.com:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://fangke.blueswords.com:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://fangke.blueswords.com:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://fangke.blueswords.com:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://fangke.blueswords.com:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://fangke.blueswords.com:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://fangke.blueswords.com:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://fangke.blueswords.com:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://fangke.blueswords.com:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://fangke.blueswords.com:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://fangke.blueswords.com:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://fangke.blueswords.com:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://fangke.blueswords.com:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://fangke.blueswords.com:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://fangke.blueswords.com:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://fangke.blueswords.com:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://fangke.blueswords.com:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://fangke.blueswords.com:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://fangke.blueswords.com:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://fangke.blueswords.com:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://fangke.blueswords.com:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://fangke.blueswords.com:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
