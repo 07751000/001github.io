@@ -1,19 +1,48 @@
-朝阳融媒HD,http://111.202.12.159:8080/rtp/239.3.1.163:8001
-CCTV-1 HD,http://111.202.12.159:8080/rtp/239.3.1.129:8008
-CCTV-2 HD,http://111.202.12.159:8080/rtp/239.3.1.60:8084
-CCTV-3 HD,http://111.202.12.159:8080/rtp/239.3.1.172:8001
-CCTV-4 HD,http://111.202.12.159:8080/rtp/239.3.1.105:8092
-CCTV-5 HD,http://111.202.12.159:8080/rtp/239.3.1.173:8001
-CCTV-5+ HD,http://111.202.12.159:8080/rtp/239.3.1.130:8004
-CCTV-6 HD,http://111.202.12.159:8080/rtp/239.3.1.174:8001
-CCTV-7 HD,http://111.202.12.159:8080/rtp/239.3.1.61:8104
-CCTV-8 HD,http://111.202.12.159:8080/rtp/239.3.1.175:8001
-CCTV-9 HD,http://111.202.12.159:8080/rtp/239.3.1.62:8112
-CCTV-10 HD,http://111.202.12.159:8080/rtp/239.3.1.63:8116
-CCTV-11 HD,http://111.202.12.159:8080/rtp/239.3.1.152:8120
-CCTV-12 HD,http://111.202.12.159:8080/rtp/239.3.1.64:8124
-CCTV-13 HD,http://111.202.12.159:8080/rtp/239.3.1.124:8128
-CCTV-14 HD,http://111.202.12.159:8080/rtp/239.3.1.65:8132
-CCTV-15 HD,http://111.202.12.159:8080/rtp/239.3.1.153:8136
-CCTV-16 奥林匹克[HDR],http://111.202.12.159:8080/rtp/239.3.1.183:8001
-CCTV-16 奥林匹克HD,http://111.202.12.159:8080/rtp/239.3.1.184:8001
+CCTV1-综合,http://222.244.147.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV2-财经,http://222.244.147.16:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV3-综艺,http://222.244.147.16:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV4-国际,http://222.244.147.16:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV5-体育,http://222.244.147.16:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV6-电影,http://222.244.147.16:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV7-军农,http://222.244.147.16:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV8-电视剧,http://222.244.147.16:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV9-纪录,http://222.244.147.16:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV10-科教,http://222.244.147.16:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV11-戏曲,http://222.244.147.16:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV12-社会与法,http://222.244.147.16:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV13-新闻,http://222.244.147.16:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV14-少儿,http://222.244.147.16:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV15-音乐,http://222.244.147.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV5+体育频道,http://222.244.147.16:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&down=1
+湖南卫视,http://222.244.147.16:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&down=1
+湖南经视,http://222.244.147.16:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
+湖南都市,http://222.244.147.16:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
+湖南电视剧,http://222.244.147.16:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
+湖南电影,http://222.244.147.16:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
+金鹰卡通,http://222.244.147.16:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+湖南娱乐,http://222.244.147.16:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
+金鹰纪实,http://222.244.147.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1
+湖南公共,http://222.244.147.16:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+江苏卫视,http://222.244.147.16:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&down=1
+北京卫视,http://222.244.147.16:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&down=1
+天津卫视,http://222.244.147.16:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&down=1
+深圳卫视,http://222.244.147.16:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&down=1
+湖北卫视,http://222.244.147.16:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&down=1
+山东卫视,http://222.244.147.16:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&down=1
+黑龙江卫视,http://222.244.147.16:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&down=1
+浙江卫视,http://222.244.147.16:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&down=1
+安徽卫视,http://222.244.147.16:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&down=1
+东方卫视,http://222.244.147.16:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&down=1
+江西卫视,http://222.244.147.16:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&down=1
+辽宁卫视,http://222.244.147.16:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&down=1
+云南卫视,http://222.244.147.16:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&down=1
+吉林卫视,http://222.244.147.16:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&down=1
+广东卫视,http://222.244.147.16:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&down=1
+广西卫视,http://222.244.147.16:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&down=1
+四川卫视,http://222.244.147.16:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&down=1
+重庆卫视,http://222.244.147.16:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&down=1
+贵州卫视,http://222.244.147.16:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&down=1
+河南卫视,http://222.244.147.16:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&down=1
+河北卫视,http://222.244.147.16:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&down=1
+山西卫视,http://222.244.147.16:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&down=1
+优漫卡通,http://222.244.147.16:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
