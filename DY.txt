@@ -1585,8 +1585,77 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 
-
-
+🌍广西北海,#genre#
+珠江台 高清,http://219.159.194.219:8181/tsfile/live/1000_1.m3u8?key=txiptv
+广东体育 高清,http://219.159.194.219:8181/tsfile/live/1001_1.m3u8?key=txiptv
+广东公共 高清,http://219.159.194.219:8181/tsfile/live/1002_1.m3u8?key=txiptv
+广东科教 高清,http://219.159.194.219:8181/tsfile/live/1003_1.m3u8?key=txiptv
+广东影视 高清,http://219.159.194.219:8181/tsfile/live/1004_1.m3u8?key=txiptv
+广东少儿 高清,http://219.159.194.219:8181/tsfile/live/1005_1.m3u8?key=txiptv
+岭南戏剧 高清,http://219.159.194.219:8181/tsfile/live/1006_1.m3u8?key=txiptv
+广东新闻 高清,http://219.159.194.219:8181/tsfile/live/1007_1.m3u8?key=txiptv
+广西影视 高清,http://219.159.194.219:8181/tsfile/live/1009_1.m3u8?key=txiptv
+广西综艺 高清,http://219.159.194.219:8181/tsfile/live/1010_1.m3u8?key=txiptv
+广西都市 高清,http://219.159.194.219:8181/tsfile/live/1011_1.m3u8?key=txiptv
+广西新闻 高清,http://219.159.194.219:8181/tsfile/live/1012_1.m3u8?key=txiptv
+南宁影视 高清,http://219.159.194.219:8181/tsfile/live/1013_1.m3u8?key=txiptv
+南宁公共 高清,http://219.159.194.219:8181/tsfile/live/1014_1.m3u8?key=txiptv
+CCTV1-综合 高清,http://219.159.194.219:8181/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV5+体育赛事,http://219.159.194.219:8181/tsfile/live/0016_1.m3u8?key=txiptv
+CCTV2-财经 高清,http://219.159.194.219:8181/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV7-军农 高清,http://219.159.194.219:8181/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV10-科教 高清,http://219.159.194.219:8181/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV12-社会与法 高清,http://219.159.194.219:8181/tsfile/live/0012_1.m3u8?key=txiptv
+北京卫视 高清,http://219.159.194.219:8181/tsfile/live/0122_1.m3u8?key=txiptv
+东南卫视 高清,http://219.159.194.219:8181/tsfile/live/0137_1.m3u8?key=txiptv
+山东卫视 高清,http://219.159.194.219:8181/tsfile/live/0131_1.m3u8?key=txiptv
+江西卫视 高清,http://219.159.194.219:8181/tsfile/live/0138_1.m3u8?key=txiptv
+贵州卫视 高清,http://219.159.194.219:8181/tsfile/live/0120_1.m3u8?key=txiptv
+四川卫视 高清,http://219.159.194.219:8181/tsfile/live/0123_1.m3u8?key=txiptv
+CCTV14-少儿 高清,http://219.159.194.219:8181/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV4-国际 高清,http://219.159.194.219:8181/tsfile/live/0004_1.m3u8?key=txiptv
+湖南卫视 高清,http://219.159.194.219:8181/tsfile/live/0128_1.m3u8?key=txiptv
+金鹰纪实 高清,http://219.159.194.219:8181/tsfile/live/1016_1.m3u8?key=txiptv
+教育一套高清,http://219.159.194.219:8181/tsfile/live/1017_1.m3u8?key=txiptv
+CCTV5-体育,http://219.159.194.219:8181/tsfile/live/0005_1.m3u8?key=txiptv
+广西卫视 高清,http://219.159.194.219:8181/tsfile/live/0113_1.m3u8?key=txiptv
+CCTV8-电视剧,http://219.159.194.219:8181/tsfile/live/0008_1.m3u8?key=txiptv
+家庭影院,http://219.159.194.219:8181/tsfile/live/1018_1.m3u8?key=txiptv
+动作电影 高清,http://219.159.194.219:8181/tsfile/live/1019_1.m3u8?key=txiptv
+高清电影,http://219.159.194.219:8181/tsfile/live/1020_1.m3u8?key=txiptv
+南宁综合 高清,http://219.159.194.219:8181/tsfile/live/0143_1.m3u8?key=txiptv
+CCTV16 高清,http://219.159.194.219:8181/tsfile/live/1021_1.m3u8?key=txiptv
+安徽卫视 高清,http://219.159.194.219:8181/tsfile/live/0130_1.m3u8?key=txiptv
+辽宁卫视 高清,http://219.159.194.219:8181/tsfile/live/0121_1.m3u8?key=txiptv
+CCTV3-综艺,http://219.159.194.219:8181/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV6-电影,http://219.159.194.219:8181/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV9-纪录,http://219.159.194.219:8181/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV11-戏曲,http://219.159.194.219:8181/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV13-新闻,http://219.159.194.219:8181/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV15-音乐,http://219.159.194.219:8181/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV17,http://219.159.194.219:8181/tsfile/live/0019_1.m3u8?key=txiptv
+上海卫视,http://219.159.194.219:8181/tsfile/live/0107_1.m3u8?key=txiptv
+浙江卫视,http://219.159.194.219:8181/tsfile/live/0124_1.m3u8?key=txiptv
+深圳卫视,http://219.159.194.219:8181/tsfile/live/0126_1.m3u8?key=txiptv
+天津卫视,http://219.159.194.219:8181/tsfile/live/0135_1.m3u8?key=txiptv
+湖北卫视,http://219.159.194.219:8181/tsfile/live/0132_1.m3u8?key=txiptv
+黑龙江卫视+,http://219.159.194.219:8181/tsfile/live/0143_2.m3u8?key=txiptv
+广东卫视,http://219.159.194.219:8181/tsfile/live/0125_1.m3u8?key=txiptv
+江苏卫视,http://219.159.194.219:8181/tsfile/live/0127_1.m3u8?key=txiptv
+吉林卫视,http://219.159.194.219:8181/tsfile/live/0116_1.m3u8?key=txiptv
+河北卫视,http://219.159.194.219:8181/tsfile/live/0117_1.m3u8?key=txiptv
+经典电影,http://219.159.194.219:8181/tsfile/live/1008_1.m3u8?key=txiptv
+甘肃卫视,http://219.159.194.219:8181/tsfile/live/0141_1.m3u8?key=txiptv
+中国气象,http://219.159.194.219:8181/tsfile/live/1015_1.m3u8?key=txiptv
+陕西卫视,http://219.159.194.219:8181/tsfile/live/0136_1.m3u8?key=txiptv
+云南卫视,http://219.159.194.219:8181/tsfile/live/0119_1.m3u8?key=txiptv
+康巴卫视,http://219.159.194.219:8181/tsfile/live/0134_1.m3u8?key=txiptv
+重庆卫视,http://219.159.194.219:8181/tsfile/live/0142_1.m3u8?key=txiptv
+旅游卫视,http://219.159.194.219:8181/tsfile/live/0114_1.m3u8?key=txiptv
+西藏卫视,http://219.159.194.219:8181/tsfile/live/0111_1.m3u8?key=txiptv
+内蒙古卫视,http://219.159.194.219:8181/tsfile/live/0109_1.m3u8?key=txiptv
+兵团卫视,http://219.159.194.219:8181/tsfile/live/0115_1.m3u8?key=txiptv
+青海卫视,http://219.159.194.219:8181/tsfile/live/0140_1.m3u8?key=txiptv
 
 
 
