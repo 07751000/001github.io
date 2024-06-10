@@ -2595,6 +2595,9 @@ VIP频道_1,#genre#
 愛爾達體育3台,http://154.9.228.245:741/smt.php?id=eltasport3_twn
 好萊塢電影台,http://154.9.228.245:741/smt.php?id=hollywoodmovies_twn
 翡翠台,http://154.9.228.245:741/smt.php?id=jade_twn
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS新闻,http://194.87.101.118/live.m3u8?c=5
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 
