@@ -3777,6 +3777,9 @@ VIP频道_1,#genre#
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大综合,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS新闻,http://194.87.101.118/live.m3u8?c=5
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 
