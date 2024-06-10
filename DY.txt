@@ -1225,6 +1225,8 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 未来体育,rtmp://220.130.201.73/sat/tv721
 未来体育,rtmp://f13h.mine.nu/sat/tv721
 未来体育,rtmp://f13h.mine.nu/sat/tv721
+广东珠江,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+好訊息,https://epg.pw/stream/7e863d41fbb20975775323c59644b5d46c3a28b9c2f01e4b574a14761e01641e.m3u8
 
 
 
