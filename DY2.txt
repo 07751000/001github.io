@@ -1424,8 +1424,17 @@ CCTV-17,http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv
 
 💽山东地区,#genre#
 山东卫视,http://17e979.netsite.cc/proxy/1763730718/1763730718.m3u8
-山东体育,http://sunny2017.forver.one:4022/udp/239.21.1.141:5002
-
+山东齐鲁,http://182.46.8.161:8018/hls/17/index.m3u8
+山东综艺,http://182.46.8.161:8018/hls/18/index.m3u8
+山东影视,http://182.46.8.161:8018/hls/19/index.m3u8
+山东卫视,http://182.46.8.161:8018/hls/20/index.m3u8
+山东少儿,http://182.46.8.161:8018/hls/21/index.m3u8
+山东体育,http://182.46.8.161:8018/hls/22/index.m3u8
+山东公共,http://182.46.8.161:8018/hls/23/index.m3u8
+山东农科,http://182.46.8.161:8018/hls/24/index.m3u8
+山东生活,http://182.46.8.161:8018/hls/26/index.m3u8
+潍坊新闻,http://182.46.8.161:8018/hls/27/index.m3u8
+潍坊都市,http://182.46.8.161:8018/hls/28/index.m3u8
 
 
 
