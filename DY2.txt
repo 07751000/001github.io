@@ -645,6 +645,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 
+
 🌍央卫综合-2,#genre#
 CCTV1,http://175.10.228.235:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://175.10.228.235:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -981,57 +982,6 @@ CCTV15-音乐,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8?key=txiptv
 
 
 
-🌍山东联通,#genre#
-CCTV1-综合,http://58.57.21.166:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2-财经,http://58.57.21.166:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3-综艺,http://58.57.21.166:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4-中文国际,http://58.57.21.166:9901/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5-体育,http://58.57.21.166:9901/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6-电影,http://58.57.21.166:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV7-国防军事,http://58.57.21.166:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8-电视剧,http://58.57.21.166:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9-纪录,http://58.57.21.166:9901/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV10-科教,http://58.57.21.166:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV11-戏曲,http://58.57.21.166:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12-社会与法,http://58.57.21.166:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13-新闻,http://58.57.21.166:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14-少儿,http://58.57.21.166:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15-音乐,http://58.57.21.166:9901/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV5+体育赛事,http://58.57.21.166:9901/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV17-农业农村,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8?key=txiptv
-山东卫视,http://58.57.21.166:9901/tsfile/live/0131_1.m3u8?key=txiptv
-重庆卫视,http://58.57.21.166:9901/tsfile/live/0142_1.m3u8?key=txiptv
-陕西卫视,http://58.57.21.166:9901/tsfile/live/0136_1.m3u8?key=txiptv
-四川卫视,http://58.57.21.166:9901/tsfile/live/0123_1.m3u8?key=txiptv
-河南卫视,http://58.57.21.166:9901/tsfile/live/0139_1.m3u8?key=txiptv
-云南卫视,http://58.57.21.166:9901/tsfile/live/0119_1.m3u8?key=txiptv
-吉林卫视,http://58.57.21.166:9901/tsfile/live/0116_1.m3u8?key=txiptv
-北京卫视,http://58.57.21.166:9901/tsfile/live/0122_1.m3u8?key=txiptv
-江苏卫视,http://58.57.21.166:9901/tsfile/live/0127_1.m3u8?key=txiptv
-浙江卫视,http://58.57.21.166:9901/tsfile/live/0124_1.m3u8?key=txiptv
-湖南卫视,http://58.57.21.166:9901/tsfile/live/0128_1.m3u8?key=txiptv
-新疆卫视,http://58.57.21.166:9901/tsfile/live/0110_1.m3u8?key=txiptv
-内蒙古卫视,http://58.57.21.166:9901/tsfile/live/0109_1.m3u8?key=txiptv
-安徽卫视,http://58.57.21.166:9901/tsfile/live/0130_1.m3u8?key=txiptv
-湖北卫视,http://58.57.21.166:9901/tsfile/live/0132_1.m3u8?key=txiptv
-辽宁卫视,http://58.57.21.166:9901/tsfile/live/0121_1.m3u8?key=txiptv
-天津卫视,http://58.57.21.166:9901/tsfile/live/0135_1.m3u8?key=txiptv
-河北卫视,http://58.57.21.166:9901/tsfile/live/0117_1.m3u8?key=txiptv
-东方卫视,http://58.57.21.166:9901/tsfile/live/0107_1.m3u8?key=txiptv
-东南卫视,http://58.57.21.166:9901/tsfile/live/0137_1.m3u8?key=txiptv
-广西卫视,http://58.57.21.166:9901/tsfile/live/0113_1.m3u8?key=txiptv
-山西卫视,http://58.57.21.166:9901/tsfile/live/0118_1.m3u8?key=txiptv
-广东卫视,http://58.57.21.166:9901/tsfile/live/0125_1.m3u8?key=txiptv
-黑龙江卫视,http://58.57.21.166:9901/tsfile/live/0143_1.m3u8?key=txiptv
-深圳卫视,http://58.57.21.166:9901/tsfile/live/0126_1.m3u8?key=txiptv
-江西卫视,http://58.57.21.166:9901/tsfile/live/0138_1.m3u8?key=txiptv
-贵州卫视,http://58.57.21.166:9901/tsfile/live/0120_1.m3u8?key=txiptv
-青海卫视,http://58.57.21.166:9901/tsfile/live/0140_1.m3u8?key=txiptv
-宁夏卫视,http://58.57.21.166:9901/tsfile/live/0112_1.m3u8?key=txiptv
-甘肃卫视,http://58.57.21.166:9901/tsfile/live/0141_1.m3u8?key=txiptv
-海南卫视,http://58.57.21.166:9901/tsfile/live/1000_1.m3u8?key=txiptv
-西藏卫视,http://58.57.21.166:9901/tsfile/live/0111_1.m3u8?key=txiptv
-山东影视,http://58.57.21.166:9901/tsfile/live/1004_1.m3u8?key=txiptv
 
 
 
@@ -1040,90 +990,6 @@ CCTV17-农业农村,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8?key=txiptv
 
 
 
-
-
-
-
-
-🌍河北电信,#genre#
-CCTV-1,http://111.177.107.69:20000/hls/11/index.m3u8
-CCTV-2,http://111.177.107.69:20000/hls/12/index.m3u8
-CCTV-3,http://111.177.107.69:20000/hls/6/index.m3u8
-CCTV-NEWS,http://111.177.107.69:20000/hls/64/index.m3u8
-CCTV-5,http://111.177.107.69:20000/hls/2/index.m3u8
-CCTV-6,http://111.177.107.69:20000/hls/3/index.m3u8
-CCTV-7,http://111.177.107.69:20000/hls/40/index.m3u8
-CCTV-8,http://111.177.107.69:20000/hls/7/index.m3u8
-CCTV-9纪录,http://111.177.107.69:20000/hls/52/index.m3u8
-CCTV-10,http://111.177.107.69:20000/hls/8/index.m3u8
-CCTV-11,http://111.177.107.69:20000/hls/9/index.m3u8
-CCTV-12,http://111.177.107.69:20000/hls/10/index.m3u8
-CCTV-新闻,http://111.177.107.69:20000/hls/1/index.m3u8
-CCTV-少儿,http://111.177.107.69:20000/hls/4/index.m3u8
-CCTV-音乐,http://111.177.107.69:20000/hls/63/index.m3u8
-湖北公共,http://111.177.107.69:20000/hls/17/index.m3u8
-湖北垄上,http://111.177.107.69:20000/hls/35/index.m3u8
-湖北经视,http://111.177.107.69:20000/hls/54/index.m3u8
-湖北影视,http://111.177.107.69:20000/hls/55/index.m3u8
-湖北生活,http://111.177.107.69:20000/hls/57/index.m3u8
-湖北广电网络导视,http://111.177.107.69:20000/hls/16/index.m3u8
-湖北教育,http://111.177.107.69:20000/hls/56/index.m3u8
-XY-1,http://111.177.107.69:20000/hls/13/index.m3u8
-XY-2,http://111.177.107.69:20000/hls/14/index.m3u8
-XY-3,http://111.177.107.69:20000/hls/15/index.m3u8
-兵团卫视,http://111.177.107.69:20000/hls/27/index.m3u8
-内蒙古卫视,http://111.177.107.69:20000/hls/28/index.m3u8
-山东教育卫视,http://111.177.107.69:20000/hls/62/index.m3u8
-天津卫视,http://111.177.107.69:20000/hls/30/index.m3u8
-贵州卫视,http://111.177.107.69:20000/hls/32/index.m3u8
-四川卫视,http://111.177.107.69:20000/hls/33/index.m3u8
-北京卫视,http://111.177.107.69:20000/hls/34/index.m3u8
-黑龙江卫视,http://111.177.107.69:20000/hls/25/index.m3u8
-河北卫视,http://111.177.107.69:20000/hls/26/index.m3u8
-山西卫视,http://111.177.107.69:20000/hls/36/index.m3u8
-甘肃卫视,http://111.177.107.69:20000/hls/37/index.m3u8
-吉林卫视,http://111.177.107.69:20000/hls/38/index.m3u8
-宁夏卫视,http://111.177.107.69:20000/hls/39/index.m3u8
-山东卫视,http://111.177.107.69:20000/hls/42/index.m3u8
-东方卫视,http://111.177.107.69:20000/hls/43/index.m3u8
-浙江卫视,http://111.177.107.69:20000/hls/44/index.m3u8
-湖南卫视,http://111.177.107.69:20000/hls/45/index.m3u8
-河南卫视,http://111.177.107.69:20000/hls/46/index.m3u8
-辽宁卫视,http://111.177.107.69:20000/hls/47/index.m3u8
-广东卫视,http://111.177.107.69:20000/hls/48/index.m3u8
-深圳卫视,http://111.177.107.69:20000/hls/49/index.m3u8
-广西卫视,http://111.177.107.69:20000/hls/50/index.m3u8
-陕西卫视,http://111.177.107.69:20000/hls/23/index.m3u8
-江苏卫视,http://111.177.107.69:20000/hls/61/index.m3u8
-新疆卫视,http://111.177.107.69:20000/hls/19/index.m3u8
-上海纪实,http://111.177.107.69:20000/hls/24/index.m3u8
-冬奥纪实,http://111.177.107.69:20000/hls/22/index.m3u8
-凤凰中文高清,http://111.177.107.69:20000/hls/58/index.m3u8
-梨园高清,http://111.177.107.69:20000/hls/59/index.m3u8
-风云足球HD,http://111.177.107.69:20000/hls/71/index.m3u8
-高尔夫网球HD,http://111.177.107.69:20000/hls/72/index.m3u8
-先锋乒羽,http://111.177.107.69:20000/hls/86/index.m3u8
-兵器科技HD,http://111.177.107.69:20000/hls/68/index.m3u8
-武术世界HD,http://111.177.107.69:20000/hls/76/index.m3u8
-汽摩,http://111.177.107.69:20000/hls/90/index.m3u8
-茶HD,http://111.177.107.69:20000/hls/69/index.m3u8
-文物宝库HD,http://111.177.107.69:20000/hls/75/index.m3u8
-四海钓鱼,http://111.177.107.69:20000/hls/84/index.m3u8
-快乐垂钓HD,http://111.177.107.69:20000/hls/73/index.m3u8
-爱上4K,http://111.177.107.69:20000/hls/81/index.m3u8
-CHC动作电影HD,http://111.177.107.69:20000/hls/66/index.m3u8
-第一剧场HD,http://111.177.107.69:20000/hls/70/index.m3u8
-CHC高清电影HD,http://111.177.107.69:20000/hls/67/index.m3u8
-怀旧剧场,http://111.177.107.69:20000/hls/83/index.m3u8
-新动漫,http://111.177.107.69:20000/hls/88/index.m3u8
-嘉佳卡通,http://111.177.107.69:20000/hls/18/index.m3u8
-风云音乐,http://111.177.107.69:20000/hls/82/index.m3u8
-国学频道,http://111.177.107.69:20000/hls/21/index.m3u8
-环球奇观,http://111.177.107.69:20000/hls/20/index.m3u8
-爱生活,http://111.177.107.69:20000/hls/92/index.m3u8
-中视购物,http://111.177.107.69:20000/hls/5/index.m3u8
-家家购物,http://111.177.107.69:20000/hls/29/index.m3u8
-湖北卫视,http://111.177.107.69:20000/hls/41/index.m3u8
 
 
 
@@ -1474,7 +1340,6 @@ CGTN,http://116.131.173.194:809/hls/69/index.m3u8
 
 
 
-
 🌍河北联通2,#genre#
 CCTV-1综合,http://116.131.173.130:809/hls/1/index.m3u8
 CCTV-2财经,http://116.131.173.130:809/hls/2/index.m3u8
@@ -1541,6 +1406,7 @@ CCTV5,http://116.131.173.130:809/hls/105/index.m3u8
 
 
 
+
 🌍南宁电信,#genre#
 天等台,http://219.159.147.195:9901/tsfile/live/1000_1.m3u8?key=txiptv
 崇左综合,http://219.159.147.195:9901/tsfile/live/1001_1.m3u8?key=txiptv
@@ -1589,17 +1455,6 @@ CCTV-17,http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv
 
 
 💽辽宁地区,#genre#
-辽宁卫视,http://123.245.64.53:4040/udp/239.33.5.1:22570
-辽宁生活,http://123.245.64.53:4040/udp/239.33.5.201:24570
-辽宁北方,http://123.245.64.53:4040/udp/239.33.5.202:24580
-辽宁都市,http://123.245.64.53:4040/udp/239.33.4.236:22360
-辽宁经济,http://123.245.64.53:4040/udp/239.33.4.121:21210
-辽宁体育,http://123.245.64.53:4040/udp/239.33.4.237:22370
-辽宁公共,http://123.245.64.53:4040/udp/239.33.4.122:21220
-辽宁移动,http://123.245.64.53:4040/udp/239.33.4.235:22350
-辽宁青少,http://123.245.64.53:4040/udp/239.33.4.233:22330
-沈阳新闻综合,http://123.245.64.53:4040/udp/239.33.4.123:21230
-
 
 
 
@@ -1779,10 +1634,6 @@ CETV4,http://114.252.229.26:9876/rtp/239.3.1.56:4120
 
 
 
-
-
-
-
 💽广东地区,#genre#
 广东卫视,http://183.6.110.241:9901/hls/1017/index.m3u8
 广东珠江,http://183.6.110.241:9901/hls/1050/index.m3u8
@@ -1841,13 +1692,10 @@ CCTV14少儿,http://14.29.76.30:9901/tsfile/live/1018_1.m3u8?key=txiptv
 
 
 
-
-
 💽游戏直播,#genre#
 「B站」CS_2,http://live.iill.top/bilibili.php?id=21622811
 「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
 「虎牙」英雄联盟_𝟙,http://live.iill.top/huya.php?id=660000
-
 「斗鱼」英雄联盟_𝟙,http://live.iill.top/douyu.php?id=288016
 “斗鱼”英雄联盟_𝟚,http://live.iill.top/douyu.php?id=424559
 「B站」英雄联盟•手游,http://live.iill.top/bilibili.php?id=23138275
@@ -1889,6 +1737,14 @@ CCTV14少儿,http://14.29.76.30:9901/tsfile/live/1018_1.m3u8?key=txiptv
 「斗鱼」火影忍者,http://live.iill.top/douyu.php?id=1997723
 「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
 「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
+
+
+
+
+
+
+
+
 
 
 
@@ -3201,17 +3057,11 @@ WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
-生命電視,https://epg.pw/stream/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8
-生命電視臺,https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
-人間衛視,https://epg.pw/stream/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
-人間衛視,https://epg.pw/stream/42db7d21271f321cdd59f552ed6de00b634a389edf2db56e1f2b59852f9551db.ctv
-人間衛視,https://epg.pw/stream/0564673a0690bebfb356c23ffcf670a26caeb679e1edd4fd6ee80e2246064383.m3u8
-人間衛視,https://epg.pw/stream/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
-唯心電視,https://epg.pw/stream/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8
-唯心電視,https://epg.pw/stream/e0de516e5f3d27316191a2f08953b9cc3fbc396694e2969a3401b2e07ea50e95.m3u8
-
-
-
+生命电视台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+佛陀教育,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+人间卫视,http://dfkj.live/index.m3u8?user=r5p38&channel=taiwanTV&id=3799 
 
 
 
