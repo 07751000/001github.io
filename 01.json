@@ -1,0 +1,154 @@
+{
+  "channels": [
+    {
+      "name": "CCTV1",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8"
+      ],
+      "category": "综合"
+    },
+    {
+      "name": "CCTV2",
+      "urls": [
+        "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI"
+      ],
+      "category": "财经"
+    },
+    {
+      "name": "CCTV3",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
+      ],
+      "category": "综艺"
+    },
+    {
+      "name": "CCTV4",
+      "urls": [
+        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
+      ],
+      "category": "中文国际"
+    },
+    {
+      "name": "CCTV5",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
+      ],
+      "category": "体育"
+    },
+    {
+      "name": "CCTV5+",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
+      ],
+      "category": "体育"
+    },
+    {
+      "name": "CCTV6",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225814/index.m3u8"
+      ],
+      "category": "电影"
+    },
+    {
+      "name": "CCTV7",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+      ],
+      "category": "国防军事"
+    },
+    {
+      "name": "CCTV8",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+      ],
+      "category": "电视剧"
+    },
+    {
+      "name": "CCTV9",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
+      ],
+      "category": "纪录"
+    },
+    {
+      "name": "CCTV10",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8"
+      ],
+      "category": "科教"
+    },
+    {
+      "name": "CCTV11",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8"
+      ],
+      "category": "戏曲"
+    },
+    {
+      "name": "CCTV12",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8"
+      ],
+      "category": "社会与法"
+    },
+    {
+      "name": "CCTV13",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8"
+      ],
+      "category": "新闻"
+    },
+    {
+      "name": "CCTV14",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8"
+      ],
+      "category": "少儿"
+    },
+    {
+      "name": "CCTV15",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8"
+      ],
+      "category": "音乐"
+    },
+    {
+      "name": "CCTV16",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
+      ],
+      "category": "奥林匹克"
+    },
+    {
+      "name": "CCTV17",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226115/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226300/index.m3u8"
+      ],
+      "category": "农业农村"
+    },
+    {
+      "name": "CGTN",
+      "urls": [
+        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8",
+        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225679/index.m3u8"
+      ],
+   
+    }
+  ]
+}
