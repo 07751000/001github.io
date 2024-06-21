@@ -3662,6 +3662,34 @@ CCTV14少儿,http://14.29.76.30:9901/tsfile/live/1018_1.m3u8?key=txiptv
 
 
 
+🎤短短短,#genre#
+短视频01,https://mi.gx10086.us.kg/file/18998d1afec54f5d1b40d.mp4
+短视频02,https://mi.gx10086.us.kg/file/60d1f697f71641f651e0a.mp4
+短视频03,https://mi.gx10086.us.kg/file/a26bc342becfd862c42c4.mp4
+短视频04,https://mi.gx10086.us.kg/file/76596176a8735ef5ba4ce.mp4
+短视频05,https://mi.gx10086.us.kg/file/203dac4797a0acbcf56f5.mp4
+短视频06,https://mi.gx10086.us.kg/file/32313937ac07b462c0960.mp4
+短视频07,https://mi.gx10086.us.kg/file/982c188851b3f2975793a.mp4
+短视频08,https://mi.gx10086.us.kg/file/9ad7890647a94aae940a8.mp4
+短视频09,https://mi.gx10086.us.kg/file/67de75b26626ef21b56a3.mp4
+短视频10,https://mi.gx10086.us.kg/file/0ff6a4dfb0a912afd58a9.mp4
+短视频11,https://mi.gx10086.us.kg/file/1582caf7955b2fd4e00b6.mp4
+短视频12,https://mi.gx10086.us.kg/file/559314eab7e09741956bc.mp4
+短视频13,https://mi.gx10086.us.kg/file/a7710e5ab1063806ac049.mp4
+短视频14,https://mi.gx10086.us.kg/file/618ae991a94203045048b.mp4
+短视频15,https://mi.gx10086.us.kg/file/43c6c03fb91cfa67b00bb.mp4
+短视频16,https://mi.gx10086.us.kg/file/0070ad78345cc60df847f.mp4
+短视频17,https://mi.gx10086.us.kg/file/02ae116af7b30edfa30c7.mp4
+
+
+
+
+
+
+
+
+
+
 
 
 🎤MTV现代,#genre#
