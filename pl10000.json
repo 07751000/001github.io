@@ -1,0 +1,96 @@
+const PASSWORD = '8525';
+
+addEventListener('fetch', event => {
+  event.respondWith(handleRequest(event.request))
+})
+
+async function handleRequest(request) {
+  const url = new URL(request.url)
+  const password = url.searchParams.get('password')
+
+  if (password !== PASSWORD) {
+    return new Response('Unauthorized', {
+      status: 401,
+      statusText: 'Unauthorized',
+      headers: {
+        'Content-Type': 'text/plain'
+      }
+    })
+  }
+
+  // JSON内容
+  const jsonResponse = {
+    "sites": [
+      {
+        "key": "暴风❀6526",
+        "name": "暴风❀6526",
+        "type": 1,
+        "api": "https://bfzyapi.com/api.php/provide/vod/",
+        "playUrl": "",
+        "categories": [
+          "国产剧",
+          "国产动漫",
+          "大陆综艺",
+          "港台综艺",
+          "香港剧",
+          "台湾剧",
+          "日本剧",
+          "欧美剧",
+          "泰国剧",
+          "日本动漫",
+          "日本综艺",
+          "综艺频道",
+          "新马泰综艺",
+          "纪录片",
+          "科幻片",
+          "喜剧片",
+          "战争片"
+        ]
+      },
+      {
+        "key": "卧龙❀7199",
+        "name": "卧龙❀7199",
+        "type": 1,
+        "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+      },
+      {
+        "key": "量子❀微信联系",
+        "name": "量子❀微信联系",
+        "type": 1,
+        "api": "http://cj.lziapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+      },
+      {
+        "key": "红牛❀免费接口",
+        "name": "红牛❀免费接口",
+        "type": 1,
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+        "searchable": 0,
+        "quickSearch": 0
+      },
+      {
+        "key": "索尼❀禁止贩卖",
+        "name": "索尼❀禁止贩卖",
+        "type": 1,
+        "api": "https://suoniapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+      },
+      {
+        "key": "非凡❀接口定制",
+        "name": "非凡❀接口定制",
+        "type": 1,
+        "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+      }
+    ]
+  };
+
+  return new Response(JSON.stringify(jsonResponse), {
+    headers: { 'Content-Type': 'application/json' }
+  });
+}
