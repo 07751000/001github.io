@@ -1,0 +1,296 @@
+{
+    "channels": [
+        {
+            "name": "CCTV-1 综合",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8"
+        },
+        {
+            "name": "CCTV-2 财经",
+            "genre": "财经",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8"
+        },
+        {
+            "name": "CCTV-3 综艺",
+            "genre": "综艺",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
+        },
+        {
+            "name": "CCTV-4 中文国际",
+            "genre": "中文国际",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
+        },
+        {
+            "name": "CCTV-5 体育",
+            "genre": "体育",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
+        },
+        {
+            "name": "CCTV-5+ 体育赛事",
+            "genre": "体育赛事",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
+        },
+        {
+            "name": "CCTV-6 电影",
+            "genre": "电影",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
+        },
+        {
+            "name": "CCTV-7 国防军事",
+            "genre": "国防军事",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+        },
+        {
+            "name": "CCTV-8 电视剧",
+            "genre": "电视剧",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+        },
+        {
+            "name": "CCTV-9 纪录",
+            "genre": "纪录",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
+        },
+        {
+            "name": "CCTV-10 科教",
+            "genre": "科教",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8"
+        },
+        {
+            "name": "CCTV-11 戏曲",
+            "genre": "戏曲",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8"
+        },
+        {
+            "name": "CCTV-12 社会与法",
+            "genre": "社会与法",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8"
+        },
+        {
+            "name": "CCTV-13 新闻",
+            "genre": "新闻",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8"
+        },
+        {
+            "name": "CCTV-14 少儿",
+            "genre": "少儿",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8"
+        },
+        {
+            "name": "CCTV-15 音乐",
+            "genre": "音乐",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8"
+        },
+        {
+            "name": "CCTV-16 奥林匹克",
+            "genre": "奥林匹克",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
+        },
+        {
+            "name": "CCTV-17 农业农村",
+            "genre": "农业农村",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
+        },
+        {
+            "name": "安徽卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8"
+        },
+        {
+            "name": "兵团卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8"
+        },
+        {
+            "name": "北京卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8"
+        },
+        {
+            "name": "卡酷少儿",
+            "genre": "少儿",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8"
+        },
+        {
+            "name": "BTV纪实",
+            "genre": "纪实",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8"
+        },
+        {
+            "name": "CETV-1",
+            "genre": "教育",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8"
+        },
+        {
+            "name": "CETV-2",
+            "genre": "教育",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8"
+        },
+        {
+            "name": "CETV-4",
+            "genre": "教育",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8"
+        },
+        {
+            "name": "重庆卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8"
+        },
+        {
+            "name": "东方卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8"
+        },
+        {
+            "name": "东南卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8"
+        },
+        {
+            "name": "甘肃卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8"
+        },
+        {
+            "name": "广东卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8"
+        },
+        {
+            "name": "广西卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8"
+        },
+        {
+            "name": "贵州卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8"
+        },
+        {
+            "name": "河北卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8"
+        },
+        {
+            "name": "黑龙江卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8"
+        },
+        {
+                    {
+            "name": "河南卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8"
+        },
+        {
+            "name": "湖北卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8"
+        },
+        {
+            "name": "湖南卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8"
+        },
+        {
+            "name": "江苏卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8"
+        },
+        {
+            "name": "江西卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8"
+        },
+        {
+            "name": "吉林卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8"
+        },
+        {
+            "name": "辽宁卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8"
+        },
+        {
+            "name": "内蒙古卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8"
+        },
+        {
+            "name": "宁夏卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8"
+        },
+        {
+            "name": "青海卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8"
+        },
+        {
+            "name": "山东教育电视台",
+            "genre": "教育",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8"
+        },
+        {
+            "name": "山东卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8"
+        },
+        {
+            "name": "山西卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8"
+        },
+        {
+            "name": "陕西卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8"
+        },
+        {
+            "name": "深圳卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8"
+        },
+        {
+            "name": "四川卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8"
+        },
+        {
+            "name": "天津卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8"
+        },
+        {
+            "name": "海南卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"
+        },
+        {
+            "name": "新疆卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8"
+        },
+        {
+            "name": "西藏卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8"
+        },
+        {
+            "name": "延边卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8"
+        },
+        {
+            "name": "云南卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8"
+        },
+        {
+            "name": "浙江卫视",
+            "genre": "综合",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8"
+        }
+    ]
+}
+
