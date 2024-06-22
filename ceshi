@@ -30,7 +30,6 @@ CCTV14,http://118.248.172.59:8088/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&
 CCTV15,http://223.159.8.219:8099/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://118.248.172.59:8088/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://223.151.51.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视频道,#genre#
 上海卫视,http://223.159.8.219:8099/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 上海卫视,http://223.151.51.74:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://118.248.172.59:8088/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -85,7 +84,6 @@ CCTV17,http://223.151.51.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&a
 青海卫视,http://223.159.8.219:8099/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://223.159.8.219:8099/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://223.151.51.74:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南频道,#genre#
 湖南公共,http://223.159.8.219:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://223.151.51.74:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://223.159.8.219:8099/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
