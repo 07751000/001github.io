@@ -4952,4 +4952,4 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 后台维护请联系1,https://mi.gx10086.us.kg/file/d3579ecf43073b4fe9740.mp4
 后台维护请联系2,https://mi.gx10086.us.kg/file/aedbfb40bf41abeb23cc1.mp4
 安卓播放异常,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRiNm91Z3I5WF9idGJ5TVk_ZT16empmNHo.mp4
-苹果播放异常,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRjS3VFRnJ6Ty1jNmNXRTg_ZT15c093eTk.mp4
+苹果播放异常,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRjWVRsY2VKQ0lLa2FlZzg_ZT1UMzloT3A.mp4
