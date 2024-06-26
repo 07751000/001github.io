@@ -1190,6 +1190,7 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 广东珠江,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
 好訊息,https://epg.pw/stream/7e863d41fbb20975775323c59644b5d46c3a28b9c2f01e4b574a14761e01641e.m3u8
 咪咕24小时,http://123.139.99.144/mgsp-tx.live.miguvideo.com/wd_r2/virtuallive/tysy201903/150/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+天空体育MOTOGP高清,https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
 
 1CCTV-16,http://117.12.148.183:12345/udp/225.1.2.237:5002
@@ -4664,6 +4665,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
+日本新闻世界,http://61.221.215.25:8800/hls/51/index.m3u8
 
 
 
