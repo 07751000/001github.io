@@ -1171,33 +1171,6 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-🏀体育IPV4,#genre#
-风云足球,https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8
-风云足球,https://epg.pw/stream/2d6613a4624da0846ee8414ea2bc90f845a5cce72d08600abf3926cb2978a54f.m3u8
-五星体育*,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
-五星体育*,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
-五星体育*,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
-五星体育*,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.ctv
-劲爆体育,https://epg.pw/stream/025b9a77daa84361d1c77d49c7136339ff3f9e3b2da922f09fb9468c026e4867.ctv
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
-魅力足球,https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.ctv
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
-未来体育,rtmp://220.130.201.73/sat/tv721
-未来体育,rtmp://f13h.mine.nu/sat/tv721
-未来体育,rtmp://f13h.mine.nu/sat/tv721
-广东珠江,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
-好訊息,https://epg.pw/stream/7e863d41fbb20975775323c59644b5d46c3a28b9c2f01e4b574a14761e01641e.m3u8
-咪咕24小时,http://123.139.99.144/mgsp-tx.live.miguvideo.com/wd_r2/virtuallive/tysy201903/150/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-天空体育MOTOGP高清,https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-
-
-1CCTV-16,http://117.12.148.183:12345/udp/225.1.2.237:5002
-
-2CCTV-16,http://123.116.128.173:4022/rtp/239.3.1.184:8001
-
-3CCTV-16,http://www.unraidd.top:8282/udp/239.29.1.146:5000
-
 
 
 
@@ -2472,6 +2445,50 @@ CETV4,http://120.7.85.152:8088/hls/100/index.m3u8
 第一剧场,http://120.7.85.152:8088/hls/106/index.m3u8
 风云剧场,http://120.7.85.152:8088/hls/107/index.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🏀体育IPV4,#genre#
+风云足球,https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8
+风云足球,https://epg.pw/stream/2d6613a4624da0846ee8414ea2bc90f845a5cce72d08600abf3926cb2978a54f.m3u8
+五星体育*,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
+五星体育*,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
+五星体育*,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
+五星体育*,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.ctv
+劲爆体育,https://epg.pw/stream/025b9a77daa84361d1c77d49c7136339ff3f9e3b2da922f09fb9468c026e4867.ctv
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+魅力足球,https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.ctv
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+未来体育,rtmp://220.130.201.73/sat/tv721
+未来体育,rtmp://f13h.mine.nu/sat/tv721
+未来体育,rtmp://f13h.mine.nu/sat/tv721
+广东珠江,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+好訊息,https://epg.pw/stream/7e863d41fbb20975775323c59644b5d46c3a28b9c2f01e4b574a14761e01641e.m3u8
+咪咕24小时,http://123.139.99.144/mgsp-tx.live.miguvideo.com/wd_r2/virtuallive/tysy201903/150/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+天空体育MOTOGP高清,https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+
+1CCTV-16,http://117.12.148.183:12345/udp/225.1.2.237:5002
+
+2CCTV-16,http://123.116.128.173:4022/rtp/239.3.1.184:8001
+
+3CCTV-16,http://www.unraidd.top:8282/udp/239.29.1.146:5000
 
 
 
