@@ -4785,6 +4785,6 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 安卓播放异常,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRiNm91Z3I5WF9idGJ5TVk_ZT16empmNHo.mp4
 苹果播放异常,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRjb3loVHZ2aFRESWFTTlE_ZT10a3FuSzI.mp4
 用AI协助搭建网页,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRjNU9YeEJOcDMxa1h5Z0k_ZT1wdVBHSDI.mp4
-苹果XPTV,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRkSTU2dmZDbEZnTU1DckE_ZT1VTWNpcFk.mp4
+苹果设备也可以用影视仓接口了,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRkSTU2dmZDbEZnTU1DckE_ZT1VTWNpcFk.mp4
 闲置手机做NAS,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRkWURmMW9qRW1VbFpKWXc_ZT1tMGNMTzY.mp4
 苹果infuse挂载云盘,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRkdFZKRlhMUzBIb0ZpNXM_ZT1mMER4ZlY.mp4
