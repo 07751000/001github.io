@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Data from Cloudflare Workers</title>
+</head>
+<body>
+    <h1>JSON Data from Cloudflare Workers</h1>
+    <button id="fetchData">Fetch Data</button>
+    <pre id="dataDisplay"></pre>
+
+    <script>
+        document.getElementById('fetchData').addEventListener('click', () => {
+            fetch('https://vod.pl10000.top/')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('dataDisplay').textContent = JSON.stringify(data, null, 2);
+                })
+                .catch(error => {
+                    console.error('Error fetching data:', error);
+                });
+        });
+    </script>
+</body>
+</html>
