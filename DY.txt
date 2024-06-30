@@ -2605,7 +2605,6 @@ CHC电影,http://58.17.48.228:808/hls/30/index.m3u8
 朝阳新闻,http://xyt.186738613.xyz/lngd.php?id=282&Cf.m3u8
 辽宁体育,http://xyt.186738613.xyz/lngd.php?id=611&Cf.m3u8
 辽宁影视剧,http://xyt.186738613.xyz/lngd.php?id=070&Cf.m3u8
-辽宁新动漫,http://xyt.186738613.xyz/lngd.php?id=140&Cf.m3u8
 连山区综合,http://xyt.186738613.xyz/lngd.php?id=491&Cf.m3u8
 龙港区综合,http://xyt.186738613.xyz/lngd.php?id=490&Cf.m3u8
 陕西电视台,http://xyt.186738613.xyz/lngd.php?id=512&Cf.m3u8
