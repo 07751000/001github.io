@@ -266,20 +266,6 @@
       "changeable": 1
     },
     {
-      "key": "无忧短剧",
-      "name": "🌈无忧┃短剧",
-      "type": 3,
-      "api": "csp_Duanj",
-      "jar": "https://git.acwing.com/qlkj2024/qlkj/-/raw/master/jar/okjpg1.txt",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "timeout": 10
-    },
-    {
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
