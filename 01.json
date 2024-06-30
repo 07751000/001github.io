@@ -1,154 +1,448 @@
 {
-  "channels": [
+  "sites": [
     {
-      "name": "CCTV1",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8"
-      ],
-      "category": "综合"
+      "key": "暴风❀点播",
+      "name": "暴风❀点播",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "港台综艺",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "日本综艺",
+        "综艺频道",
+        "新马泰综艺",
+        "纪录片",
+        "科幻片",
+        "喜剧片",
+        "战争片"
+      ]
     },
     {
-      "name": "CCTV2",
-      "urls": [
-        "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI"
-      ],
-      "category": "财经"
+      "key": "卧龙❀点播",
+      "name": "卧龙❀点播",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
-      "name": "CCTV3",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
-      ],
-      "category": "综艺"
+      "key": "量子❀点播",
+      "name": "量子❀点播",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
-      "name": "CCTV4",
-      "urls": [
-        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
-      ],
-      "category": "中文国际"
+      "key": "红牛❀点播",
+      "name": "红牛❀点播",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
-      "name": "CCTV5",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
-      ],
-      "category": "体育"
+      "key": "索尼❀点播",
+      "name": "索尼❀4 K",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
-      "name": "CCTV5+",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
-      ],
-      "category": "体育"
+      "key": "非凡❀点播",
+      "name": "非凡❀点播",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
-      "name": "CCTV6",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225814/index.m3u8"
-      ],
-      "category": "电影"
+      "key": "黑木耳资源",
+      "name": "木耳🥑蓝光",
+      "type": 1,
+      "api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "动画电影",
+        "网络电影",
+        "动作",
+        "冒险",
+        "爱情",
+        "虐恋",
+        "逆袭",
+        "穿越",
+        "重生",
+        "港剧",
+        "泰剧",
+        "日剧",
+        "欧美剧",
+        "国产综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺"
+      ]
     },
     {
-      "name": "CCTV7",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
-      ],
-      "category": "国防军事"
+      "key": "csp_xml_ikun",
+      "name": "爱坤🐔蓝光",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "泰国剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "犯罪片",
+        "惊悚片",
+        "古装片",
+        "灾难片",
+        "历史片",
+        "其他片",
+        "悬疑片",
+        "奇幻片",
+        "动画片",
+        "欧美综艺"
+      ]
     },
     {
-      "name": "CCTV8",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
-      ],
-      "category": "电视剧"
+      "key": "乐视",
+      "name": "乐视🏜蓝光",
+      "type": 1,
+      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "短剧",
+        "泰国剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日剧",
+        "海外剧",
+        "记录片",
+        "反转爽剧",
+        "女频恋爱",
+        "古装仙侠",
+        "年代穿越",
+        "脑洞悬疑",
+        "现代都市",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "电影解说",
+        "动作片",
+        "冒险片",
+        "动画片",
+        "喜剧片",
+        "爱情片",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "其他片"
+      ]
     },
     {
-      "name": "CCTV9",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
-      ],
-      "category": "纪录"
+      "key": "量子资源",
+      "name": "量子🥑蓝光",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "韩国剧",
+        "短剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "动作片",
+        "冒险片",
+        "爱情片",
+        "奇幻片",
+        "灾难片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片"
+      ]
     },
     {
-      "name": "CCTV10",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8"
-      ],
-      "category": "科教"
+      "key": "土豆网盘弹幕",
+      "name": "土豆😺4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "https://git.acwing.com/qlkj2024/qlkj/-/raw/master/jar/okjpg1.txt",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top/",
+        "danmu": true
+      },
+      "timeout": 25
     },
     {
-      "name": "CCTV11",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8"
-      ],
-      "category": "戏曲"
+      "key": "贱贱",
+      "name": "贱贱🐭P2P",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
     {
-      "name": "CCTV12",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8"
-      ],
-      "category": "社会与法"
+      "key": "酷看",
+      "name": "酷看💡秒播",
+      "type": 3,
+      "api": "csp_Kkys",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718523928408/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
-      "name": "CCTV13",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8"
-      ],
-      "category": "新闻"
+      "key": "无忧短剧",
+      "name": "🌈无忧┃短剧",
+      "type": 3,
+      "api": "csp_Duanj",
+      "jar": "https://git.acwing.com/qlkj2024/qlkj/-/raw/master/jar/okjpg1.txt",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "timeout": 10
     },
     {
-      "name": "CCTV14",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8"
-      ],
-      "category": "少儿"
+      "key": "酷奇",
+      "name": "🎤酷奇┃MV",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
-      "name": "CCTV15",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8"
-      ],
-      "category": "音乐"
+      "key": "飞刀",
+      "name": "飞刀🏂蓝光",
+      "type": 1,
+      "api": "http://www.feidaozy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "欧美剧",
+        "泰剧",
+        "纪录片",
+        "国产综艺",
+        "国产动漫",
+        "韩国综艺",
+        "日本动漫",
+        "动画电影",
+        "网络电影",
+        "动作片",
+        "喜剧片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "韩国动漫"
+      ]
     },
     {
-      "name": "CCTV16",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
-      ],
-      "category": "奥林匹克"
+      "key": "360",
+      "name": "🛝360┃秒播┃采集",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "女频恋爱",
+        "成长逆袭",
+        "反转爽剧"
+      ]
     },
     {
-      "name": "CCTV17",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226115/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226300/index.m3u8"
-      ],
-      "category": "农业农村"
+      "key": "爱坤",
+      "name": "🛝爱坤┃秒播┃采集",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "爽文短剧"
+      ]
     },
     {
-      "name": "CGTN",
-      "urls": [
-        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8",
-        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225679/index.m3u8"
-      ],
-   
+      "key": "cctv",
+      "name": "📺央视｜大全",
+      "type": 3,
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "filterable": 0,
+      "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar",
+      "ext": "http://rihou.vip:88/hccx/央视大全.json"
+    },
+    {
+      "key": "央视经典",
+      "name": "📺央视｜经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar",
+      "ext": "http://rihou.vip:88/hccx/哔哩经典.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_多多",
+      "name": "V信65267199",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./lib/dongchen.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/duoduo.json"
     }
   ]
 }
