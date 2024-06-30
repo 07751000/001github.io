@@ -369,7 +369,7 @@ IPTV5+,http://171.8.247.154:808/hls/75/index.m3u8
 
 
 
-🌍央卫综合-2,#genre#
+🌍央卫综合,#genre#
 CCTV1,http://113.218.229.25:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://223.159.9.176:8099/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://223.159.9.176:8099/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
