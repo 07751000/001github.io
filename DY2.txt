@@ -1166,7 +1166,7 @@ CETV-4,http://123.183.78.235:808/hls/92/index.m3u8
 
 
 🏀体育IPV4,#genre#
-风云足球,http://202.102.201.244:40022/rtp/238.1.79.57:4592
+风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8
 风云足球,https://epg.pw/stream/2d6613a4624da0846ee8414ea2bc90f845a5cce72d08600abf3926cb2978a54f.m3u8
 五星体育*,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
 五星体育*,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
