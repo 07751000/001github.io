@@ -3931,7 +3931,7 @@ CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 播放异常请进,#genre#
 后台维护请联系1,https://mi.gx10086.us.kg/file/d3579ecf43073b4fe9740.mp4
-后台维护请联系2,https://mi.gx10086.us.kg/file/aedbfb40bf41abeb23cc1.mp4
+家庭KTV软件,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRnUWtfeVd3Tm5aaEhJeHp3P2U9ck5rS2k1.mp4
 安卓播放异常,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRiNm91Z3I5WF9idGJ5TVk_ZT16empmNHo.mp4
 苹果播放异常,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRjb3loVHZ2aFRESWFTTlE_ZT10a3FuSzI.mp4
 用AI协助搭建网页,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRjNU9YeEJOcDMxa1h5Z0k_ZT1wdVBHSDI.mp4
