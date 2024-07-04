@@ -2390,19 +2390,6 @@ CETV4,http://114.252.229.26:9876/rtp/239.3.1.56:4120
 龙州电视台,https://live.gxrb.com.cn/gx/longzhou/index.m3u8
 北海新闻综合频道,https://live.gxrb.com.cn/gx/beihai/index.m3u8
 
-贵州台,#genre#
-贵州2频道公共频道,http://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=3dfe3da8c919285ff41ade4c4bb12b7a&txTime=6683CBAE
-贵州3频道影视文艺频道,http://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=4f8fc640b497b9843346782aeddba585&txTime=6683CFFE
-贵州4频道大众生活频道,http://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=889a0e828c3bd721efa39ee5969cda17&txTime=6683D005
-贵州5频道,http://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=bef8e13791ab42ceef60b4c9e0644cda&txTime=6683D00C
-贵州6频道科教健康频道,http://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=42fe164a2fdba98e013b8ba36f682c5c&txTime=6683D013
-贵州移动电视频道,https://9bwaz8y2.gzstv.com/live/CH13_lo.m3u8?txSecret=0ed89cb380928476d04b0d3712599673&txTime=6683D020
-遵义新闻综合频道,http://pluslive.zunyifb.com/xwpd/playlist.m3u8?_upt=0c3f8d441719921374
-遵义都市频道,http://pluslive.zunyifb.com/dspd/playlist.m3u8?_upt=fa6b45c01719921477
-遵义公共频道,http://pluslive.zunyifb.com/ggpd/playlist.m3u8?_upt=157d97af1719921561
-
-
-
 
 
 
