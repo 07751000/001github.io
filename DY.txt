@@ -1376,17 +1376,10 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 武陟新闻,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
-禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 杞县新闻,http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
-鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
 太康综合,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
-永城新闻,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
-
-
-淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-
 舞阳新闻,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
 
 淇县,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
@@ -1394,7 +1387,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
 
 封丘新闻,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
-获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
 卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
 原阳新闻,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
 
@@ -1425,7 +1417,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 灵宝新闻综合频道,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 开封公共频道,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
 尉氏新闻综合频道,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-永城新闻综合频道,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 襄城新闻综合频道,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 禹州新闻综合频道,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 郏县新闻综合频道,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
