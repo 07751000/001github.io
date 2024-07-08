@@ -1,67 +1,321 @@
-CCTV1HD,http://115.171.216.195:4000/udp/225.1.8.1:8008
-CCTV2HD,http://115.171.216.195:4000/udp/225.1.8.2:8084
-CCTV3HD,http://115.171.216.195:4000/udp/225.1.8.88:8000
-CCTV4HD,http://115.171.216.195:4000/udp/225.1.8.4:8092
-CCTV5HD,http://115.171.216.195:4000/udp/225.1.8.89:8000
-CCTV5⁺HD,http://115.171.216.195:4000/udp/225.1.8.20:8004
-CCTV6HD,http://115.171.216.195:4000/udp/225.1.8.84:8000
-CCTV7HD,http://115.171.216.195:4000/udp/225.1.8.7:8104
-CCTV8HD,http://115.171.216.195:4000/udp/225.1.8.85:8000
-CCTV9HD,http://115.171.216.195:4000/udp/225.1.8.9:8112
-CCTV10HD,http://115.171.216.195:4000/udp/225.1.8.10:8116
-CCTV11HD,http://115.171.216.195:4000/udp/225.1.8.73:8120
-CCTV12HD,http://115.171.216.195:4000/udp/225.1.8.12:8124
-CCTV13HD,http://115.171.216.195:4000/udp/225.1.8.168:8130
-CCTV14HD,http://115.171.216.195:4000/udp/225.1.8.14:8132
-CCTV15HD,http://115.171.216.195:4000/udp/225.1.8.74:8136
-CCTV17HD,http://115.171.216.195:4000/udp/225.1.8.17:8144
-CETV1,http://115.171.216.195:4000/udp/225.1.8.32:8152
-北京卫视,http://115.171.216.195:4000/udp/225.1.8.21:8002
-北京文艺,http://115.171.216.195:4000/udp/225.1.8.22:8002
-北京科教,http://115.171.216.195:4000/udp/225.1.8.105:8002
-北京影视,http://115.171.216.195:4000/udp/225.1.8.82:8000
-北京财经,http://115.171.216.195:4000/udp/225.1.8.106:8002
-北京冬奥纪实,http://115.171.216.195:4000/udp/225.1.8.23:8002
-北京生活,http://115.171.216.195:4000/udp/225.1.8.108:8002
-北京青年,http://115.171.216.195:4000/udp/225.1.8.118:8002
-北京新闻,http://115.171.216.195:4000/udp/225.1.8.83:8000
-北京卡酷少儿,http://115.171.216.195:4000/udp/225.1.8.35:8000
-房山,http://115.171.216.195:4000/udp/225.1.8.68:8002
-朝阳融媒,http://115.171.216.195:4000/udp/225.1.8.69:8002
-密云,http://115.171.216.195:4000/udp/225.1.8.75:8002
-深圳卫视,http://115.171.216.195:4000/udp/225.1.8.145:9244
-深圳卫视,http://115.171.216.195:4000/udp/225.1.8.43:8020
-湖南卫视,http://115.171.216.195:4000/udp/225.1.8.41:8012
-黑龙江卫视,http://115.171.216.195:4000/udp/225.1.8.42:8016
-江苏卫视,http://115.171.216.195:4000/udp/225.1.8.44:8028
-东方卫视,http://115.171.216.195:4000/udp/225.1.8.45:8032
-浙江卫视,http://115.171.216.195:4000/udp/225.1.8.46:8036
-湖北卫视,http://115.171.216.195:4000/udp/225.1.8.47:8044
-天津卫视,http://115.171.216.195:4000/udp/225.1.8.48:8044
-广东卫视,http://115.171.216.195:4000/udp/225.1.8.49:8048
-山东卫视,http://115.171.216.195:4000/udp/225.1.8.50:8052
-辽宁卫视,http://115.171.216.195:4000/udp/225.1.8.51:8056
-安徽卫视,http://115.171.216.195:4000/udp/225.1.8.52:8064
-河北卫视,http://115.171.216.195:4000/udp/225.1.8.76:8002
-贵州卫视,http://115.171.216.195:4000/udp/225.1.8.77:8076
-东南卫视,http://115.171.216.195:4000/udp/225.1.8.79:8148
-江西卫视,http://115.171.216.195:4000/udp/225.1.8.171:8166
-重庆卫视,http://115.171.216.195:4000/udp/225.1.8.172:8162
-金鹰纪实,http://115.171.216.195:4000/udp/225.1.8.31:8156
-纪实人文,http://115.171.216.195:4000/udp/225.1.8.53:8060
-快乐垂钓,http://115.171.216.195:4000/udp/225.1.8.71:8002
-茶频道,http://115.171.216.195:4000/udp/225.1.8.72:8002
-每日影院,http://115.171.216.195:4000/udp/225.1.8.97:8002
-幸福剧场,http://115.171.216.195:4000/udp/225.1.8.98:8002
-幸福娱乐,http://115.171.216.195:4000/udp/225.1.8.99:8002
-风尚生活,http://115.171.216.195:4000/udp/225.1.8.103:8002
-中国足协杯,http://115.171.216.195:4000/udp/225.1.8.40:8184
-体育赛事,http://115.171.216.195:4000/udp/225.1.8.81:8176
-爱上4K,http://115.171.216.195:4000/udp/225.1.8.80:2000
-北京IPTV淘精彩,http://115.171.216.195:4000/udp/225.1.8.33:8002
-北京IPTV淘BABY,http://115.171.216.195:4000/udp/225.1.8.36:8002
-北京IPTV淘剧场,http://115.171.216.195:4000/udp/225.1.8.37:8002
-北京IPTV淘电影,http://115.171.216.195:4000/udp/225.1.8.38:8002
-北京IPTV淘娱乐,http://115.171.216.195:4000/udp/225.1.8.61:8002
-北京IPTV萌宠TV,http://115.171.216.195:4000/udp/225.1.8.63:8002
-北京IPTV4K,http://115.171.216.195:4000/udp/225.1.8.211:8002
+|UK| SKY SPORTS NEWS ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10512
+|UK| SKY SPORTS CRICKET ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303266
+|UK| SKY SPORTS CRICKET ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10527
+|UK| SKY SPORTS CRICKET ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10526
+|UK| SKY SPORTS F1 HD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10525
+|UK| SKY SPORTS ARENA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303263
+|UK| SKY SPORTS ARENA ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10528
+|UK| SKY SPORTS NFL ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10529
+|UK| SKY SPORTS PREMIER LEAUGE 50FPS,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303269
+|UK| SKY SPORTS PREMIER LEAGUE ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10511
+|UK| SKY SPORTS MAIN EVENT ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10514
+|UK| SKY SPORTS GOLF 50FPS,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303267
+|UK| SKY SPORTS ACTION / NFL  ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303264
+|UK| SKY SPORTS NFL,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/91620
+|UK| SKY SPORTS MIX ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303262
+|UK| SKY SPORTS MIX ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10513
+UK Sky Sports Tennis ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605469
+UK Sky Sports Tennis ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605470
+UK Sky Sports Tennis 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605472
+UK Sky Sports Tennis ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605471
+beIN Sports 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/1
+beIN Sports 1ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534831
+BEIN SPORTS 1 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272468
+beIN Sports ᴴᴰ 1,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624321
+beIN Sports 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108161
+beIN Sports 1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114053
+beIN Sports 1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3854
+beIN Sports 1 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2541
+beIN SPORTS 1 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245836
+beIN Sports 2 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2
+beIN Sports 2ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534830
+BEIN SPORTS 2 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272467
+beIN Sports ᴴᴰ 2,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624322
+beIN Sports 2 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108162
+beIN Sports 2 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114052
+beIN Sports 2 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3853
+beIN Sports 2 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2540
+beIN SPORTS 2 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245835
+beIN Sports 3 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/4
+beIN Sports 3ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534829
+BEIN SPORTS 3 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272465
+beIN Sports ᴴᴰ 3,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624323
+beIN Sports 3 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108164
+beIN Sports 3 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114050
+beIN Sports 3 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3851
+beIN Sports 3 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2538
+beIN SPORTS 3 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245833
+beIN Sports 4 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/5
+beIN Sports 4ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534828
+BEIN SPORTS 4 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272464
+beIN Sports ᴴᴰ 4,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624324
+beIN Sports 4 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108165
+beIN Sports 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114049
+beIN Sports 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3850
+beIN Sports 4 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10795
+beIN SPORTS 4 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245832
+beIN Sports 5 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/6
+beIN Sports 5ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534827
+BEIN SPORTS 5 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272463
+beIN Sports ᴴᴰ 5,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624325
+beIN Sports 5 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108166
+beIN Sports 5 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114048
+beIN Sports 5 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3849
+beIN Sports 5 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2536
+beIN SPORTS 5 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245831
+beIN Sports 6 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/7
+beIN Sports 6ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534826
+BEIN SPORTS 6 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272462
+beIN Sports ᴴᴰ 6,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624326
+beIN Sports 6 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108167
+beIN Sports 6 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114047
+beIN Sports 6 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3848
+beIN Sports 6 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2535
+beIN SPORTS 6 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245830
+beIN Sports 7 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/8
+beIN Sports 7ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578834
+BEIN SPORTS 7 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272461
+beIN Sports ᴴᴰ 7,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624327
+beIN Sports 7 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108168
+beIN Sports 7 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114046
+beIN Sports 7 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3847
+beIN Sports 7 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2534
+beIN SPORTS 7 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245829
+beIN Sports 8 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/9
+beIN Sports 8ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578835
+BEIN SPORTS 8 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272460
+beIN Sports ᴴᴰ 8,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624328
+beIN Sports 8 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108169
+beIN Sports 8 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114045
+beIN Sports 8 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10361
+beIN Sports 8 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2533
+beIN SPORTS 8 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245828
+beIN Sports 9 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10
+beIN Sports 9ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578836
+BEIN SPORTS 9 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272459
+beIN Sports ᴴᴰ 9,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624329
+beIN Sports 9 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108170
+beIN Sports 9 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114044
+beIN Sports 9 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10362
+beIN Sports 9 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2532
+|UK| TNT SPORT 1 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138145
+|UK| TNT SPORT 2 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138146
+|UK| TNT SPORT 3  ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138147
+|UK| TNT SPORT 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138148
+|UK| TNT SPORTS 1 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309614
+|UK| TNT SPORTS 2 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309613
+|UK| TNT SPORTS 3 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309612
+|UK| TNT SPORTS 4 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309611
+|UK| TNT SPORTS 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190957
+|UK| EUROSPORT  1 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22226
+|UK| EUROSPORT 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309462
+|UK| EUROSPORTS ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10503
+|UK| EUROSPORT 2 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22225
+|UK| EUROSPORT 2 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309461
+|UK| EUROSPORTS ᴴᴰ 2,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10502
+|UK| PREMIER SPORTS ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10506
+supersport_motosport-fhd,https://epg.pw/stream/a3dc42ad0c9a74c9ba5c6e51a29884e79914602c5e38b284567f64eef68ffe23.ctv
+supersport_action,https://epg.pw/stream/7ef71244c47a4e63a17f5087ff77d499985f059eb6d97f8c2e5e3dcea5ade6f9.ctv
+supersport_golf,https://epg.pw/stream/b2f05e99cbb12268487ccb3fb6cc47baa63b97bb41277886d0e7af347bb9bcea.ctv
+supersport_football,https://epg.pw/stream/0206a2c0da2cd863631fdc665a7f8e2be93586e33e837196259ac94508e39363.ctv
+premiersports1,https://epg.pw/stream/a0f9c1f7038352194c7817ecdd04a78c87cac7976c844bde81531c543b927716.ctv
+supersport_premier_league,https://epg.pw/stream/74941299bb4cbcc30cc7a78f9e5372638bd80b20f747a17641a48b52ae7d7081.ctv
+digi-4k,https://epg.pw/stream/2630e0dfd64418d3d64337e1ce301bae69cede220c9670a816f9cb1b3d45fe8b.ctv
+国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+Астрахань.Ru Sport,http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
+Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+红牛电视,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+红牛电视,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+beIN SPORTS-2,https://live.9528.eu.org/783281f456d82f5fbb.m3u8
+Awapa Sports TV (1080p) [Not 24/7],https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+CAF TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8
+CampusLore (720p),https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+Canal 11 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
+Canal do Inter (720p) [Not 24/7],https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+CazéTV (1080p) [Geo-blocked],https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+DD Sports (576p),http://103.199.161.254/Content/ddsports/Live/Channel%28DDSPORTS%29/index.m3u8
+DeporTV (1080p) [Not 24/7],https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+DSTV (720p),http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+Fight Network (1080p),https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+FightBox,http://stream01.vnet.am/Fightbox/mono.m3u8
+fubo Sports Network (720p),https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+FUEL TV (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+Gaora Sports (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+J Sports 1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+J Sports 2 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+J Sports 3 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+J Sports 4 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+M-Net Sport (720p),http://ares.mnet.mk/hls/mnet-sport.m3u8
+Ovacion TV (720p) [Not 24/7],http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+Pac 12 Insider (1080p),https://pac12-roku-us.amagi.tv/playlist.m3u8
+Racing.com (720p),https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+Real Madrid,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+Red Bull TV (1080p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+San Marino RTV Sport (720p),https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+Ski TV (1080p) [Not 24/7],https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+Swerve Sports (1080p),https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+Teledeporte (1080p) [Geo-blocked],https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+Teletrak (720p),https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
+Unbeaten (1080p),https://unbeaten-tcl.amagi.tv/playlist.m3u8
+Бокс ТВ,http://stream01.vnet.am/BoksTv/mono.m3u8
+Старт (1080p) [Geo-blocked],https://strm.yandex.ru/kal/start/start0.m3u8
+Старт Триумф (1080p) [Geo-blocked],https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+NBA-01,http://129.226.149.79:4785/html/SPlive.php?access_token=Star-Fairy&id=mgline01
+NBA-02,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline02
+NBA-03,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline03
+NBA-04,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline04
+NBA-05,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline05
+NBA-06,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline06
+NBA-07,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline07
+NBA-08,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline08
+NBA-09,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline09
+NBA-10,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline10
+NBA-11,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline11
+NBA-12,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline12
+腾讯NBA-01,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline01
+腾讯NBA-02,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline02
+腾讯NBA-03,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline03
+腾讯NBA-04,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline04
+腾讯NBA-05,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline05
+腾讯NBA-06,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline06
+腾讯NBA-07,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline07
+腾讯NBA-08,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline08
+腾讯NBA-09,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline09
+腾讯NBA-10,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline10
+腾讯NBA-11,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline11
+腾讯NBA-12,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline12
+帧享NBA-01,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline01
+帧享NBA-02,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline02
+帧享NBA-03,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline03
+帧享NBA-04,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline04
+帧享NBA-05,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline05
+帧享NBA-06,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline06
+帧享NBA-07,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline07
+帧享NBA-08,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline08
+帧享NBA-09,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline09
+帧享NBA-10,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline10
+帧享NBA-11,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline11
+帧享NBA-12,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline12
+英超-01,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline01
+英超-02,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline02
+英超-03,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline03
+英超-04,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline04
+英超-05,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline05
+英超-06,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline06
+英超-07,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline07
+英超-08,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline08
+英超-09,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline09
+英超-10,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline10
+体育赛事-01,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline01
+体育赛事-02,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline02
+体育赛事-03,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline03
+体育赛事-04,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline04
+体育赛事-05,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline05
+体育赛事-06,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline06
+体育赛事-07,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline07
+体育赛事-08,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline08
+体育赛事-09,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline09
+体育赛事-10,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline10
+游戏赛事-01,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game01
+游戏赛事-02,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game02
+游戏赛事-03,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game03
+游戏赛事-04,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game04
+游戏赛事-05,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game05
+咪咕Live-1-4K,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg14k1
+咪咕Live-2-4K,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg14k2
+咪咕综合,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1tyzh
+咪咕足球,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zq
+咪咕健身,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1js
+咪咕Live-1,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb01
+咪咕Live-2,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb02
+咪咕Live-3,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb03
+咪咕Live-4,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb04
+咪咕Live-5,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb05
+咪咕Live-6,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb06
+咪咕Live-7,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb07
+咪咕Live-8,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb08
+咪咕Live-9,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb09
+咪咕Live-10,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb10
+咪咕Live-11,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb11
+咪咕Live-12,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb12
+咪咕Live-13,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb13
+咪咕Live-14,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb14
+咪咕Live-15,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb15
+咪咕Live-16,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb16
+咪咕Live-17,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb17
+咪咕Live-18,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb18
+咪咕Live-19,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb19
+咪咕Live-20,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb20
+咪咕Live-21,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb21
+咪咕Live-22,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb22
+咪咕Live-23,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb23
+咪咕Live-24,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb24
+咪咕Live-25,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb25
+咪咕Live-26,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb26
+咪咕Live-27,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb27
+咪咕Live-28,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb28
+咪咕Live-29,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb29
+咪咕Live-30,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb30
+咪咕Live-31,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb31
+咪咕Live-32,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb32
+咪咕Live-33,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb33
+咪咕Live-34,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb34
+咪咕Live-35,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb35
+咪咕Live-36,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb36
+咪咕Live-37,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb37
+咪咕Live-38,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb38
+咪咕Live-39,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb39
+咪咕Live-40,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb40
+咪咕Live-41,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb41
+咪咕Live-42,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb42
+咪咕Live-43,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb43
+咪咕Live-44,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb44
+咪咕Live-45,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb45
+咪咕Live-46,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb46
+咪咕Live-47,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb47
+咪咕Live-48,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb48
+咪咕Live-49,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb49
+咪咕Live-50,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb50
+咪咕Live-51,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb51
+咪咕Live-52,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb52
+咪咕Live-53,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb53
+咪咕Live-54,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb54
+咪咕Live-55,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb55
+咪咕Live-56,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb56
+咪咕Live-57,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb57
+咪咕Live-58,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb58
+咪咕Live-59,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb59
+咪咕Live-60,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb60
+咪咕Live-61,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb61
+Live-6134,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb01
+Live-6137,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb02
+Live-6140,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb03
+Live-6143,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb04
+Live-6146,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb05
+Live-6149,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb06
+Live-6151,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb07
+Live-6152,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb08
+Live-6154,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb09
+Live-6157,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb10
+Live-6160,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb11
+Live-6177,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb12
+Live-6183,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb13
+Live-6186,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb14
+Live-6223,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb15
+Live-6227,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb16
+Live-6226,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb17
+Live-6229,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb18
+Live-6230,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb19
+Live-6233,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb20
+Live-6236,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb21
+Live-6258,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb22
+Live-6261,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb23
+Live-6264,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb24
+Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb25
