@@ -4862,19 +4862,16 @@ dj新歌句句理,https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_delo
 
 
 测试测试,#genre#
-TVB翡翠,http://ali.hlspull.yximgs.com/live/pa_chong_bo_feicui.flv
-東森電影,http://ali.hlspull.yximgs.com/live/pa_chong_bo_dongsendianying.flv
-東森洋片,http://ali.hlspull.yximgs.com/live/pa_chong_bo_dongsenyangpian.flv
-龍翔時代,http://ali.hlspull.yximgs.com/live/pa_chong_bo_longxiangshidai.flv
-龍華洋片,http://ali.hlspull.yximgs.com/live/pa_chong_bo_longhuayangpian.flv
-天映經典,http://ali.hlspull.yximgs.com/live/pa_chong_bo_tianying.flv
-極限電影,http://ali.hlspull.yximgs.com/live/pa_chong_bo_JStar.flv
-
-
-
-
-
-
+广州台 高清,http://180.143.82.217:8181/tsfile/live/0115_1.m3u8?key=txiptv
+佛山影视 高清,http://180.143.82.217:8181/tsfile/live/0139_1.m3u8?key=txiptv
+广州影视 高清,http://180.143.82.217:8181/tsfile/live/0131_1.m3u8?key=txiptv
+广东珠江,http://180.143.82.217:8181/tsfile/live/1039_1.m3u8?key=txiptv
+广东新闻,http://180.143.82.217:8181/tsfile/live/1040_1.m3u8?key=txiptv
+广东体育,http://180.143.82.217:8181/tsfile/live/1041_1.m3u8?key=txiptv
+本港台,http://180.143.82.217:8181/tsfile/live/1070_1.m3u8?key=txiptv
+凤凰资讯 高清,http://180.143.82.217:8181/tsfile/live/1000_1.m3u8?key=txiptv
+凤凰中文 高清,http://180.143.82.217:8181/tsfile/live/1001_1.m3u8?key=txiptv
+凤凰香港 高清,http://180.143.82.217:8181/tsfile/live/1002_1.m3u8?key=txiptv
 
 
 
