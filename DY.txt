@@ -4924,44 +4924,6 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 
 
-VIP频道3_1,#genre#
-🇨🇳中国港澳👉春盈,#genre#
-凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文频道,http://113.64.147.19:8081/hls/37/index.m3u8
-凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯频道,http://113.64.147.19:8081/hls/36/index.m3u8
-
-無綫新聞频道,http://119.136.123.34:8001/bysid/83
-香港卫视频道,http://119.136.123.34:8001/bysid/85
-TVB Plus频道,http://119.136.123.34:8001/bysid/82
-香港翡翠频道,http://119.136.123.34:8000/bysid/1
-香港明珠频道,http://119.136.123.34:8001/bysid/2
-ViuTVsix频道,http://119.136.123.34:8000/bysid/96
-ViuTV香港频道,http://119.136.123.34:8000/bysid/99
-
-香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视频道,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-香港凤凰频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-香港凤凰频道,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
-香港凤凰频道,http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
-香港凤凰频道,http://hikvision.city:880/fhxgt.m3u8
-香港凤凰频道,http://113.64.147.85:8081/hls/38/index.m3u8
-香港凤凰频道,http://113.64.147.19:8081/hls/38/index.m3u8
-TVB PLUS频道,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-TVB 香港武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-香港星空卫视,http://171.221.34.45:4022/udp/239.93.0.156:2193
-无线娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-耀才财经频道,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-香港面包频道,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
-4k👉修复全网,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
--8K北京纪实台,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
--8K北京纪实台,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-
-CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 
 
