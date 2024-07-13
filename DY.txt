@@ -1273,6 +1273,15 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 
+🌍代理测试频道,#genre#
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 
 
 
