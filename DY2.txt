@@ -2288,19 +2288,13 @@ IPTV足球,http://171.107.72.19:4000/udp/239.81.0.97:4056
 
 
 🏀体育IPV4,#genre#
-风云足球,https://epg.pw/stream/2d6613a4624da0846ee8414ea2bc90f845a5cce72d08600abf3926cb2978a54f.m3u8
 五星体育*,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
 五星体育*,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
 五星体育*,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
 五星体育*,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.ctv
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 魅力足球,https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.ctv
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
-未来体育,rtmp://220.130.201.73/sat/tv721
-未来体育,rtmp://f13h.mine.nu/sat/tv721
-未来体育,rtmp://f13h.mine.nu/sat/tv721
-天空体育MOTOGP高清,https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 CCTV-16,http://www.unraidd.top:8282/udp/239.29.1.146:5000
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
@@ -2316,10 +2310,8 @@ CCTV-16,http://www.unraidd.top:8282/udp/239.29.1.146:5000
 晴彩羽毛,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.127:8001
 晴彩篮球,http://drive.mxmy.net:8888/rtp/239.3.1.126:8001
 晴彩羽毛,http://drive.mxmy.net:8888/rtp/239.3.1.127:8001
-晴彩竞技,http://114.254.185.206:9999/rtp/239.3.1.125:8001
 晴彩篮球,http://114.254.185.206:9999/rtp/239.3.1.126:8001
 晴彩羽毛,http://114.254.185.206:9999/rtp/239.3.1.127:8001
-先锋乒羽,http://202.103.213.44:8888/udp/239.81.0.236:4056
 CCTV-05,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-05,http://hikvision.city:880/CCTV-5.m3u8
 CCTV+5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
