@@ -1053,6 +1053,47 @@ CCTV5+体育赛事,http://171.13.118.38:808/hls/18/index.m3u8
 浉河广电中心,http://171.13.118.38:808/hls/102/index.m3u8
 平桥广电中心,http://171.13.118.38:808/hls/103/index.m3u8
 
+CCTV1-综合,http://123.160.173.165:85/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2-财经,http://123.160.173.165:85/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3-综艺,http://123.160.173.165:85/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4-国际,http://123.160.173.165:85/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5-体育,http://123.160.173.165:85/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV6-电影,http://123.160.173.165:85/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7-军农,http://123.160.173.165:85/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8-电视剧,http://123.160.173.165:85/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9-纪录,http://123.160.173.165:85/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10-科教,http://123.160.173.165:85/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11-戏曲,http://123.160.173.165:85/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12-社会与法,http://123.160.173.165:85/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13-新闻,http://123.160.173.165:85/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14-少儿,http://123.160.173.165:85/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15-音乐,http://123.160.173.165:85/tsfile/live/0015_1.m3u8?key=txiptv
+河南卫视,http://123.160.173.165:85/tsfile/live/0139_1.m3u8?key=txiptv
+北京卫视,http://123.160.173.165:85/tsfile/live/0122_1.m3u8?key=txiptv
+山东卫视,http://123.160.173.165:85/tsfile/live/0131_1.m3u8?key=txiptv
+广东卫视,http://123.160.173.165:85/tsfile/live/0125_1.m3u8?key=txiptv
+辽宁卫视,http://123.160.173.165:85/tsfile/live/0121_1.m3u8?key=txiptv
+江西卫视,http://123.160.173.165:85/tsfile/live/0138_1.m3u8?key=txiptv
+深圳卫视,http://123.160.173.165:85/tsfile/live/0126_1.m3u8?key=txiptv
+广西卫视,http://123.160.173.165:85/tsfile/live/0113_1.m3u8?key=txiptv
+天津卫视,http://123.160.173.165:85/tsfile/live/0135_1.m3u8?key=txiptv
+云南卫视,http://123.160.173.165:85/tsfile/live/0119_1.m3u8?key=txiptv
+东南卫视,http://123.160.173.165:85/tsfile/live/0137_1.m3u8?key=txiptv
+山西卫视,http://123.160.173.165:85/tsfile/live/0118_1.m3u8?key=txiptv
+青海卫视,http://123.160.173.165:85/tsfile/live/0140_1.m3u8?key=txiptv
+新疆卫视,http://123.160.173.165:85/tsfile/live/0110_1.m3u8?key=txiptv
+都市频道,http://123.160.173.165:85/tsfile/live/1000_1.m3u8?key=txiptv
+民生频道,http://123.160.173.165:85/tsfile/live/1001_1.m3u8?key=txiptv
+法制频道,http://123.160.173.165:85/tsfile/live/1002_1.m3u8?key=txiptv
+新闻频道,http://123.160.173.165:85/tsfile/live/1003_1.m3u8?key=txiptv
+公共频道,http://123.160.173.165:85/tsfile/live/1004_1.m3u8?key=txiptv
+移动戏曲,http://123.160.173.165:85/tsfile/live/1005_1.m3u8?key=txiptv
+梨园频道,http://123.160.173.165:85/tsfile/live/1006_1.m3u8?key=txiptv
+湖南卫视,http://123.160.173.165:85/tsfile/live/0128_1.m3u8?key=txiptv
+浙江卫视,http://123.160.173.165:85/tsfile/live/0124_1.m3u8?key=txiptv
+东方卫视,http://123.160.173.165:85/tsfile/live/0107_1.m3u8?key=txiptv
+重庆卫视,http://123.160.173.165:85/tsfile/live/0142_1.m3u8?key=txiptv
+
 
 
 
