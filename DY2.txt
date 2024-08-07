@@ -2954,7 +2954,6 @@ SLTV,http://111.227.173.43:4022/rtp/239.254.201.100:5179
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 魅力足球,https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.ctv
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
-CCTV-16,http://www.unraidd.top:8282/udp/239.29.1.146:5000
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
@@ -2982,45 +2981,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 穿越火线,http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 穿越火线,http://112.83.136.141:80/live/605964rzzgGEOZHr.flv?302_type=cold_aggr&_session_id=2376164747.n.cn-069f7p.14re_26504&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv1%2F605964rzzgGEOZHr.flv%3FwsAuth%3D43ef2d796067cbec9c238c73235a1005%26token%3Dcpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964%26logo%3D0%26expire%3D0%26did%3Dd010b07dcb997ada9934081c873542f0%26origin%3Dtct%26vhost%3Dplay1&logo=0&manage_ip=&mir=true&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-069f7p.14re.nss&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&vhost=tc-tct.douyucdn2.cn&wsAuth=43ef2d796067cbec9c238c73235a1005
-|UK| SKY SPORTS CRICKET,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10527
-|UK| SKY SPORTS CRICKET,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10526
-|UK| SKY SPORTS F1 HD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10525
-|UK| SKY SPORTS ARENA,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303263
-|UK| SKY SPORTS ARENA,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10528
-|UK| SKY SPORTS NFL ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10529
-|UK| SKY SPORTS PREMIER LEAUGE 50FPS,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303269
-|UK| SKY SPORTS PREMIER LEAGUE ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10511
-|UK| SKY SPORTS MAIN EVENT ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10514
-|UK| SKY SPORTS GOLF 50FPS,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303267
-|UK| SKY SPORTS ACTION / NFL  ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303264
-|UK| SKY SPORTS NFL,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/91620
-|UK| SKY SPORTS MIX ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303262
-|UK| SKY SPORTS MIX ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10513
-UK Sky Sports Tennis ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605469
-UK Sky Sports Tennis ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605470
-UK Sky Sports Tennis 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605472
-UK Sky Sports Tennis ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605471
-BEIN SPORTS 1 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272468
-beIN Sports ᴴᴰ 1,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624321
-beIN Sports 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108161
-beIN Sports 1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3854
-beIN Sports 2 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3853
-BEIN SPORTS 3 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272465
-BEIN SPORTS 4 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272464
-BEIN SPORTS 5 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272463
-BEIN SPORTS 6 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272462
-BEIN SPORTS 7 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272461
-BEIN SPORTS 8 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272460
-BEIN SPORTS 9 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272459
-|UK| TNT SPORT 1 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138145
-|UK| TNT SPORT 2 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138146
-|UK| TNT SPORT 3  ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138147
-|UK| TNT SPORT 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138148
-|UK| EUROSPORT  1 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22226
-|UK| EUROSPORT 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309462
-|UK| EUROSPORT 2 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309461
-|UK| EUROSPORTS ᴴᴰ 2,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10502
-|UK| PREMIER SPORTS ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10506
 
 
 
