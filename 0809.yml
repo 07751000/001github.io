@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2024-08-09 11:58:05
+# 创建时间：2024-08-09 14:05:36
 # 使用模版：V2RaySE 默认模版
 # 节点数量：58
 ####################################
@@ -86,445 +86,445 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"加入我的频道t.me/CMLiussss解锁更多优选节点","type":"vless","server":"cf.090227.xyz","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇦🇺 AU","type":"vless","server":"192.9.177.204","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇺🇸 US","type":"vless","server":"184.95.40.67","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"IE","type":"vless","server":"52.213.11.150","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇬🇧 GB","type":"vless","server":"35.189.99.124","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇸🇬 SG","type":"vless","server":"47.236.167.231","port":2083,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.sg.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇳🇱 NL","type":"vless","server":"185.92.221.70","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇨🇦 CA","type":"vless","server":"15.222.245.142","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇺🇸 US 2","type":"vless","server":"152.70.155.147","port":2087,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇯🇵 JP","type":"vless","server":"52.193.4.149","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.jp.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇺🇸 US 3","type":"vless","server":"52.53.250.40","port":80,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇸🇬 SG 2","type":"vless","server":"8.219.194.170","port":2083,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.sg.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇰🇷 KR","type":"vless","server":"129.154.202.4","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇺🇸 US 4","type":"vless","server":"152.70.155.147","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇭🇰 HK","type":"vless","server":"8.210.119.11","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇺🇸 US 5","type":"vless","server":"150.136.241.40","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇭🇰 HK 2","type":"vless","server":"8.210.174.156","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇭🇰 HK 3","type":"vless","server":"18.167.20.205","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇭🇰 HK 4","type":"vless","server":"47.238.5.0","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇭🇰 HK 5","type":"vless","server":"141.11.125.215","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇯🇵 JP 2","type":"vless","server":"138.3.217.41","port":8890,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.jp.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇯🇵 JP 3","type":"vless","server":"152.69.205.37","port":54322,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.jp.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇸🇬 SG 3","type":"vless","server":"138.2.91.98","port":9711,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.sg.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇸🇬 SG 4","type":"vless","server":"138.2.85.8","port":22604,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.sg.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇭🇰 HK 6","type":"vless","server":"223.18.129.85","port":34913,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇭🇰 HK 7","type":"vless","server":"223.18.129.85","port":11524,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇰🇷 KR 2","type":"vless","server":"146.56.136.39","port":10099,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇰🇷 KR 3","type":"vless","server":"119.202.158.65","port":10909,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇰🇷 KR 4","type":"vless","server":"1.213.221.171","port":30001,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇰🇷 KR 5","type":"vless","server":"121.164.146.175","port":20002,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇺🇸 US 6","type":"vless","server":"192.9.248.209","port":60000,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇺🇸 US 7","type":"vless","server":"23.224.97.85","port":32554,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇺🇸 US 8","type":"vless","server":"209.141.46.53","port":10095,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"🇺🇸 US 9","type":"vless","server":"173.249.202.215","port":8086,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6","type":"vless","server":"162.159.152.251","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 2","type":"vless","server":"162.159.153.104","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 3","type":"vless","server":"162.159.153.38","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 4","type":"vless","server":"162.159.153.113","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 5","type":"vless","server":"162.159.153.92","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 6","type":"vless","server":"162.159.152.218","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 7","type":"vless","server":"162.159.152.76","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 8","type":"vless","server":"162.159.152.243","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 9","type":"vless","server":"104.17.124.127","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 10","type":"vless","server":"104.17.153.201","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 11","type":"vless","server":"104.18.1.97","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 12","type":"vless","server":"104.19.33.112","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 13","type":"vless","server":"104.19.229.188","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 14","type":"vless","server":"198.41.208.205","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 15","type":"vless","server":"104.16.194.77","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 16","type":"vless","server":"104.16.174.245","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 17","type":"vless","server":"2606:4700:3036:581c:2d57:42b3:ca79:bb09","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 18","type":"vless","server":"2606:4700:3036:f89a:2ccd:3c5c:f6d5:31d6","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 19","type":"vless","server":"2606:4700:3036:d5:942f:258:c630:e3d2","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 20","type":"vless","server":"2606:4700:3036:587a:5835:d9d4:5a98:ae34","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 21","type":"vless","server":"2606:4700:3036:581c:2d57:42b3:9c8d:9d0","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 22","type":"vless","server":"2606:4700:3036:d5:e1b9:fdc5:cdaa:8a84","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 23","type":"vless","server":"2606:4700:3036:581c:2d57:9ad1:c91c:ae84","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
-  - {"name":"CMCC-IPV6 24","type":"vless","server":"2606:4700:3036:d5:e1ab:2b63:e741:edd2","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"skip-cert-verify":true,"servername":"10.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{}},"client-fingerprint":"chrome"}
+  - {"name":"加入我的频道t.me/CMLiussss解锁更多优选节点\r","type":"vless","server":"cf.090227.xyz","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"SG\r_1","type":"vless","server":"47.236.165.25","port":2083,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.sg.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"JP\r_1","type":"vless","server":"52.193.4.149","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.jp.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"GB\r_1","type":"vless","server":"78.129.226.76","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"HK\r_1","type":"vless","server":"8.210.118.122","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"HK\r_2","type":"vless","server":"47.243.91.58","port":2083,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"GB\r_2","type":"vless","server":"141.147.95.8","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"GB\r_3","type":"vless","server":"143.47.228.48","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"KR\r_1","type":"vless","server":"129.154.202.4","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"HK\r_3","type":"vless","server":"18.167.20.205","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"SG\r_2","type":"vless","server":"8.222.193.65","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.sg.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"RU\r","type":"vless","server":"109.71.246.196","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"DE\r","type":"vless","server":"138.2.143.233","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"HK\r_4","type":"vless","server":"8.210.9.129","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"SG\r_3","type":"vless","server":"47.236.168.17","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.sg.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"US\r_1","type":"vless","server":"107.175.1.47","port":8443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"US\r_2","type":"vless","server":"154.17.21.134","port":18446,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"US\r_3","type":"vless","server":"47.76.225.255","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"HK\r_5","type":"vless","server":"8.218.211.17","port":2053,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"HK\r_6","type":"vless","server":"8.210.21.65","port":8443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"JP\r_2","type":"vless","server":"138.3.217.41","port":8890,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.jp.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"JP\r_3","type":"vless","server":"152.69.205.37","port":54322,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.jp.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"SG\r_4","type":"vless","server":"138.2.91.98","port":9711,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.sg.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"SG\r_5","type":"vless","server":"138.2.85.8","port":22604,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.sg.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"HK\r_7","type":"vless","server":"223.18.129.85","port":34913,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"HK\r_8","type":"vless","server":"223.18.129.85","port":11524,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"KR\r_2","type":"vless","server":"146.56.136.39","port":10099,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"KR\r_3","type":"vless","server":"119.202.158.65","port":10909,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"KR\r_4","type":"vless","server":"1.213.221.171","port":30001,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"KR\r_5","type":"vless","server":"121.164.146.175","port":20002,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"US\r_4","type":"vless","server":"192.9.248.209","port":60000,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"US\r_5","type":"vless","server":"23.224.97.85","port":32554,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"US\r_6","type":"vless","server":"209.141.46.53","port":10095,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"US\r_7","type":"vless","server":"173.249.202.215","port":8086,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.us.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_1","type":"vless","server":"162.159.153.41","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_2","type":"vless","server":"162.159.153.53","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_3","type":"vless","server":"162.159.153.92","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_4","type":"vless","server":"162.159.152.76","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_5","type":"vless","server":"162.159.152.241","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_6","type":"vless","server":"162.159.153.43","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_7","type":"vless","server":"162.159.153.104","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_8","type":"vless","server":"162.159.152.218","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_9","type":"vless","server":"104.17.124.127","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_10","type":"vless","server":"104.17.156.16","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_11","type":"vless","server":"104.16.194.77","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_12","type":"vless","server":"104.17.151.129","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_13","type":"vless","server":"104.16.176.178","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_14","type":"vless","server":"104.17.123.135","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_15","type":"vless","server":"104.19.229.188","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_16","type":"vless","server":"104.16.24.180","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_17","type":"vless","server":"2606:4700:3036:d5:9439:b3e9:83f3:b8fd","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_18","type":"vless","server":"2606:4700:3036:d5:e1ab:2b63:e741:edd2","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_19","type":"vless","server":"2606:4700:3036:581c:2d57:9ad1:c91c:ae84","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_20","type":"vless","server":"2606:4700:3036:f89a:2ccd:3c5c:f6d5:31d6","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_21","type":"vless","server":"2606:4700:3036::289a:e43d:4a65","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_22","type":"vless","server":"2606:4700:3036:d5:e1b9:fdc5:cdaa:8a84","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_23","type":"vless","server":"2606:4700:3036::88a5:1fb7:70f5","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
+  - {"name":"CT\r_24","type":"vless","server":"2606:4700:3036:581c:2dd3:2996:ae99:671f","port":443,"uuid":"4f8db94d-2b68-4b19-8039-0de72052c30e","tls":true,"servername":"ss0011.gx10086.us.kg","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.oracle.fxxk.dedyn.io","headers":{"host":"ss0011.gx10086.us.kg"}},"alpn":["h3"]}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 加入我的频道t.me/CMLiussss解锁更多优选节点
-      - 🇦🇺 AU
-      - 🇺🇸 US
-      - IE
-      - 🇬🇧 GB
-      - 🇸🇬 SG
-      - 🇳🇱 NL
-      - 🇨🇦 CA
-      - 🇺🇸 US 2
-      - 🇯🇵 JP
-      - 🇺🇸 US 3
-      - 🇸🇬 SG 2
-      - 🇰🇷 KR
-      - 🇺🇸 US 4
-      - 🇭🇰 HK
-      - 🇺🇸 US 5
-      - 🇭🇰 HK 2
-      - 🇭🇰 HK 3
-      - 🇭🇰 HK 4
-      - 🇭🇰 HK 5
-      - 🇯🇵 JP 2
-      - 🇯🇵 JP 3
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
-      - 🇭🇰 HK 6
-      - 🇭🇰 HK 7
-      - 🇰🇷 KR 2
-      - 🇰🇷 KR 3
-      - 🇰🇷 KR 4
-      - 🇰🇷 KR 5
-      - 🇺🇸 US 6
-      - 🇺🇸 US 7
-      - 🇺🇸 US 8
-      - 🇺🇸 US 9
-      - CMCC-IPV6
-      - CMCC-IPV6 2
-      - CMCC-IPV6 3
-      - CMCC-IPV6 4
-      - CMCC-IPV6 5
-      - CMCC-IPV6 6
-      - CMCC-IPV6 7
-      - CMCC-IPV6 8
-      - CMCC-IPV6 9
-      - CMCC-IPV6 10
-      - CMCC-IPV6 11
-      - CMCC-IPV6 12
-      - CMCC-IPV6 13
-      - CMCC-IPV6 14
-      - CMCC-IPV6 15
-      - CMCC-IPV6 16
-      - CMCC-IPV6 17
-      - CMCC-IPV6 18
-      - CMCC-IPV6 19
-      - CMCC-IPV6 20
-      - CMCC-IPV6 21
-      - CMCC-IPV6 22
-      - CMCC-IPV6 23
-      - CMCC-IPV6 24
+      - "加入我的频道t.me/CMLiussss解锁更多优选节点\r"
+      - "SG\r_1"
+      - "JP\r_1"
+      - "GB\r_1"
+      - "HK\r_1"
+      - "HK\r_2"
+      - "GB\r_2"
+      - "GB\r_3"
+      - "KR\r_1"
+      - "HK\r_3"
+      - "SG\r_2"
+      - "RU\r"
+      - "DE\r"
+      - "HK\r_4"
+      - "SG\r_3"
+      - "US\r_1"
+      - "US\r_2"
+      - "US\r_3"
+      - "HK\r_5"
+      - "HK\r_6"
+      - "JP\r_2"
+      - "JP\r_3"
+      - "SG\r_4"
+      - "SG\r_5"
+      - "HK\r_7"
+      - "HK\r_8"
+      - "KR\r_2"
+      - "KR\r_3"
+      - "KR\r_4"
+      - "KR\r_5"
+      - "US\r_4"
+      - "US\r_5"
+      - "US\r_6"
+      - "US\r_7"
+      - "CT\r_1"
+      - "CT\r_2"
+      - "CT\r_3"
+      - "CT\r_4"
+      - "CT\r_5"
+      - "CT\r_6"
+      - "CT\r_7"
+      - "CT\r_8"
+      - "CT\r_9"
+      - "CT\r_10"
+      - "CT\r_11"
+      - "CT\r_12"
+      - "CT\r_13"
+      - "CT\r_14"
+      - "CT\r_15"
+      - "CT\r_16"
+      - "CT\r_17"
+      - "CT\r_18"
+      - "CT\r_19"
+      - "CT\r_20"
+      - "CT\r_21"
+      - "CT\r_22"
+      - "CT\r_23"
+      - "CT\r_24"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 加入我的频道t.me/CMLiussss解锁更多优选节点
-      - 🇦🇺 AU
-      - 🇺🇸 US
-      - IE
-      - 🇬🇧 GB
-      - 🇸🇬 SG
-      - 🇳🇱 NL
-      - 🇨🇦 CA
-      - 🇺🇸 US 2
-      - 🇯🇵 JP
-      - 🇺🇸 US 3
-      - 🇸🇬 SG 2
-      - 🇰🇷 KR
-      - 🇺🇸 US 4
-      - 🇭🇰 HK
-      - 🇺🇸 US 5
-      - 🇭🇰 HK 2
-      - 🇭🇰 HK 3
-      - 🇭🇰 HK 4
-      - 🇭🇰 HK 5
-      - 🇯🇵 JP 2
-      - 🇯🇵 JP 3
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
-      - 🇭🇰 HK 6
-      - 🇭🇰 HK 7
-      - 🇰🇷 KR 2
-      - 🇰🇷 KR 3
-      - 🇰🇷 KR 4
-      - 🇰🇷 KR 5
-      - 🇺🇸 US 6
-      - 🇺🇸 US 7
-      - 🇺🇸 US 8
-      - 🇺🇸 US 9
-      - CMCC-IPV6
-      - CMCC-IPV6 2
-      - CMCC-IPV6 3
-      - CMCC-IPV6 4
-      - CMCC-IPV6 5
-      - CMCC-IPV6 6
-      - CMCC-IPV6 7
-      - CMCC-IPV6 8
-      - CMCC-IPV6 9
-      - CMCC-IPV6 10
-      - CMCC-IPV6 11
-      - CMCC-IPV6 12
-      - CMCC-IPV6 13
-      - CMCC-IPV6 14
-      - CMCC-IPV6 15
-      - CMCC-IPV6 16
-      - CMCC-IPV6 17
-      - CMCC-IPV6 18
-      - CMCC-IPV6 19
-      - CMCC-IPV6 20
-      - CMCC-IPV6 21
-      - CMCC-IPV6 22
-      - CMCC-IPV6 23
-      - CMCC-IPV6 24
+      - "加入我的频道t.me/CMLiussss解锁更多优选节点\r"
+      - "SG\r_1"
+      - "JP\r_1"
+      - "GB\r_1"
+      - "HK\r_1"
+      - "HK\r_2"
+      - "GB\r_2"
+      - "GB\r_3"
+      - "KR\r_1"
+      - "HK\r_3"
+      - "SG\r_2"
+      - "RU\r"
+      - "DE\r"
+      - "HK\r_4"
+      - "SG\r_3"
+      - "US\r_1"
+      - "US\r_2"
+      - "US\r_3"
+      - "HK\r_5"
+      - "HK\r_6"
+      - "JP\r_2"
+      - "JP\r_3"
+      - "SG\r_4"
+      - "SG\r_5"
+      - "HK\r_7"
+      - "HK\r_8"
+      - "KR\r_2"
+      - "KR\r_3"
+      - "KR\r_4"
+      - "KR\r_5"
+      - "US\r_4"
+      - "US\r_5"
+      - "US\r_6"
+      - "US\r_7"
+      - "CT\r_1"
+      - "CT\r_2"
+      - "CT\r_3"
+      - "CT\r_4"
+      - "CT\r_5"
+      - "CT\r_6"
+      - "CT\r_7"
+      - "CT\r_8"
+      - "CT\r_9"
+      - "CT\r_10"
+      - "CT\r_11"
+      - "CT\r_12"
+      - "CT\r_13"
+      - "CT\r_14"
+      - "CT\r_15"
+      - "CT\r_16"
+      - "CT\r_17"
+      - "CT\r_18"
+      - "CT\r_19"
+      - "CT\r_20"
+      - "CT\r_21"
+      - "CT\r_22"
+      - "CT\r_23"
+      - "CT\r_24"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 加入我的频道t.me/CMLiussss解锁更多优选节点
-      - 🇦🇺 AU
-      - 🇺🇸 US
-      - IE
-      - 🇬🇧 GB
-      - 🇸🇬 SG
-      - 🇳🇱 NL
-      - 🇨🇦 CA
-      - 🇺🇸 US 2
-      - 🇯🇵 JP
-      - 🇺🇸 US 3
-      - 🇸🇬 SG 2
-      - 🇰🇷 KR
-      - 🇺🇸 US 4
-      - 🇭🇰 HK
-      - 🇺🇸 US 5
-      - 🇭🇰 HK 2
-      - 🇭🇰 HK 3
-      - 🇭🇰 HK 4
-      - 🇭🇰 HK 5
-      - 🇯🇵 JP 2
-      - 🇯🇵 JP 3
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
-      - 🇭🇰 HK 6
-      - 🇭🇰 HK 7
-      - 🇰🇷 KR 2
-      - 🇰🇷 KR 3
-      - 🇰🇷 KR 4
-      - 🇰🇷 KR 5
-      - 🇺🇸 US 6
-      - 🇺🇸 US 7
-      - 🇺🇸 US 8
-      - 🇺🇸 US 9
-      - CMCC-IPV6
-      - CMCC-IPV6 2
-      - CMCC-IPV6 3
-      - CMCC-IPV6 4
-      - CMCC-IPV6 5
-      - CMCC-IPV6 6
-      - CMCC-IPV6 7
-      - CMCC-IPV6 8
-      - CMCC-IPV6 9
-      - CMCC-IPV6 10
-      - CMCC-IPV6 11
-      - CMCC-IPV6 12
-      - CMCC-IPV6 13
-      - CMCC-IPV6 14
-      - CMCC-IPV6 15
-      - CMCC-IPV6 16
-      - CMCC-IPV6 17
-      - CMCC-IPV6 18
-      - CMCC-IPV6 19
-      - CMCC-IPV6 20
-      - CMCC-IPV6 21
-      - CMCC-IPV6 22
-      - CMCC-IPV6 23
-      - CMCC-IPV6 24
+      - "加入我的频道t.me/CMLiussss解锁更多优选节点\r"
+      - "SG\r_1"
+      - "JP\r_1"
+      - "GB\r_1"
+      - "HK\r_1"
+      - "HK\r_2"
+      - "GB\r_2"
+      - "GB\r_3"
+      - "KR\r_1"
+      - "HK\r_3"
+      - "SG\r_2"
+      - "RU\r"
+      - "DE\r"
+      - "HK\r_4"
+      - "SG\r_3"
+      - "US\r_1"
+      - "US\r_2"
+      - "US\r_3"
+      - "HK\r_5"
+      - "HK\r_6"
+      - "JP\r_2"
+      - "JP\r_3"
+      - "SG\r_4"
+      - "SG\r_5"
+      - "HK\r_7"
+      - "HK\r_8"
+      - "KR\r_2"
+      - "KR\r_3"
+      - "KR\r_4"
+      - "KR\r_5"
+      - "US\r_4"
+      - "US\r_5"
+      - "US\r_6"
+      - "US\r_7"
+      - "CT\r_1"
+      - "CT\r_2"
+      - "CT\r_3"
+      - "CT\r_4"
+      - "CT\r_5"
+      - "CT\r_6"
+      - "CT\r_7"
+      - "CT\r_8"
+      - "CT\r_9"
+      - "CT\r_10"
+      - "CT\r_11"
+      - "CT\r_12"
+      - "CT\r_13"
+      - "CT\r_14"
+      - "CT\r_15"
+      - "CT\r_16"
+      - "CT\r_17"
+      - "CT\r_18"
+      - "CT\r_19"
+      - "CT\r_20"
+      - "CT\r_21"
+      - "CT\r_22"
+      - "CT\r_23"
+      - "CT\r_24"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 加入我的频道t.me/CMLiussss解锁更多优选节点
-      - 🇦🇺 AU
-      - 🇺🇸 US
-      - IE
-      - 🇬🇧 GB
-      - 🇸🇬 SG
-      - 🇳🇱 NL
-      - 🇨🇦 CA
-      - 🇺🇸 US 2
-      - 🇯🇵 JP
-      - 🇺🇸 US 3
-      - 🇸🇬 SG 2
-      - 🇰🇷 KR
-      - 🇺🇸 US 4
-      - 🇭🇰 HK
-      - 🇺🇸 US 5
-      - 🇭🇰 HK 2
-      - 🇭🇰 HK 3
-      - 🇭🇰 HK 4
-      - 🇭🇰 HK 5
-      - 🇯🇵 JP 2
-      - 🇯🇵 JP 3
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
-      - 🇭🇰 HK 6
-      - 🇭🇰 HK 7
-      - 🇰🇷 KR 2
-      - 🇰🇷 KR 3
-      - 🇰🇷 KR 4
-      - 🇰🇷 KR 5
-      - 🇺🇸 US 6
-      - 🇺🇸 US 7
-      - 🇺🇸 US 8
-      - 🇺🇸 US 9
-      - CMCC-IPV6
-      - CMCC-IPV6 2
-      - CMCC-IPV6 3
-      - CMCC-IPV6 4
-      - CMCC-IPV6 5
-      - CMCC-IPV6 6
-      - CMCC-IPV6 7
-      - CMCC-IPV6 8
-      - CMCC-IPV6 9
-      - CMCC-IPV6 10
-      - CMCC-IPV6 11
-      - CMCC-IPV6 12
-      - CMCC-IPV6 13
-      - CMCC-IPV6 14
-      - CMCC-IPV6 15
-      - CMCC-IPV6 16
-      - CMCC-IPV6 17
-      - CMCC-IPV6 18
-      - CMCC-IPV6 19
-      - CMCC-IPV6 20
-      - CMCC-IPV6 21
-      - CMCC-IPV6 22
-      - CMCC-IPV6 23
-      - CMCC-IPV6 24
+      - "加入我的频道t.me/CMLiussss解锁更多优选节点\r"
+      - "SG\r_1"
+      - "JP\r_1"
+      - "GB\r_1"
+      - "HK\r_1"
+      - "HK\r_2"
+      - "GB\r_2"
+      - "GB\r_3"
+      - "KR\r_1"
+      - "HK\r_3"
+      - "SG\r_2"
+      - "RU\r"
+      - "DE\r"
+      - "HK\r_4"
+      - "SG\r_3"
+      - "US\r_1"
+      - "US\r_2"
+      - "US\r_3"
+      - "HK\r_5"
+      - "HK\r_6"
+      - "JP\r_2"
+      - "JP\r_3"
+      - "SG\r_4"
+      - "SG\r_5"
+      - "HK\r_7"
+      - "HK\r_8"
+      - "KR\r_2"
+      - "KR\r_3"
+      - "KR\r_4"
+      - "KR\r_5"
+      - "US\r_4"
+      - "US\r_5"
+      - "US\r_6"
+      - "US\r_7"
+      - "CT\r_1"
+      - "CT\r_2"
+      - "CT\r_3"
+      - "CT\r_4"
+      - "CT\r_5"
+      - "CT\r_6"
+      - "CT\r_7"
+      - "CT\r_8"
+      - "CT\r_9"
+      - "CT\r_10"
+      - "CT\r_11"
+      - "CT\r_12"
+      - "CT\r_13"
+      - "CT\r_14"
+      - "CT\r_15"
+      - "CT\r_16"
+      - "CT\r_17"
+      - "CT\r_18"
+      - "CT\r_19"
+      - "CT\r_20"
+      - "CT\r_21"
+      - "CT\r_22"
+      - "CT\r_23"
+      - "CT\r_24"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 加入我的频道t.me/CMLiussss解锁更多优选节点
-      - 🇦🇺 AU
-      - 🇺🇸 US
-      - IE
-      - 🇬🇧 GB
-      - 🇸🇬 SG
-      - 🇳🇱 NL
-      - 🇨🇦 CA
-      - 🇺🇸 US 2
-      - 🇯🇵 JP
-      - 🇺🇸 US 3
-      - 🇸🇬 SG 2
-      - 🇰🇷 KR
-      - 🇺🇸 US 4
-      - 🇭🇰 HK
-      - 🇺🇸 US 5
-      - 🇭🇰 HK 2
-      - 🇭🇰 HK 3
-      - 🇭🇰 HK 4
-      - 🇭🇰 HK 5
-      - 🇯🇵 JP 2
-      - 🇯🇵 JP 3
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
-      - 🇭🇰 HK 6
-      - 🇭🇰 HK 7
-      - 🇰🇷 KR 2
-      - 🇰🇷 KR 3
-      - 🇰🇷 KR 4
-      - 🇰🇷 KR 5
-      - 🇺🇸 US 6
-      - 🇺🇸 US 7
-      - 🇺🇸 US 8
-      - 🇺🇸 US 9
-      - CMCC-IPV6
-      - CMCC-IPV6 2
-      - CMCC-IPV6 3
-      - CMCC-IPV6 4
-      - CMCC-IPV6 5
-      - CMCC-IPV6 6
-      - CMCC-IPV6 7
-      - CMCC-IPV6 8
-      - CMCC-IPV6 9
-      - CMCC-IPV6 10
-      - CMCC-IPV6 11
-      - CMCC-IPV6 12
-      - CMCC-IPV6 13
-      - CMCC-IPV6 14
-      - CMCC-IPV6 15
-      - CMCC-IPV6 16
-      - CMCC-IPV6 17
-      - CMCC-IPV6 18
-      - CMCC-IPV6 19
-      - CMCC-IPV6 20
-      - CMCC-IPV6 21
-      - CMCC-IPV6 22
-      - CMCC-IPV6 23
-      - CMCC-IPV6 24
+      - "加入我的频道t.me/CMLiussss解锁更多优选节点\r"
+      - "SG\r_1"
+      - "JP\r_1"
+      - "GB\r_1"
+      - "HK\r_1"
+      - "HK\r_2"
+      - "GB\r_2"
+      - "GB\r_3"
+      - "KR\r_1"
+      - "HK\r_3"
+      - "SG\r_2"
+      - "RU\r"
+      - "DE\r"
+      - "HK\r_4"
+      - "SG\r_3"
+      - "US\r_1"
+      - "US\r_2"
+      - "US\r_3"
+      - "HK\r_5"
+      - "HK\r_6"
+      - "JP\r_2"
+      - "JP\r_3"
+      - "SG\r_4"
+      - "SG\r_5"
+      - "HK\r_7"
+      - "HK\r_8"
+      - "KR\r_2"
+      - "KR\r_3"
+      - "KR\r_4"
+      - "KR\r_5"
+      - "US\r_4"
+      - "US\r_5"
+      - "US\r_6"
+      - "US\r_7"
+      - "CT\r_1"
+      - "CT\r_2"
+      - "CT\r_3"
+      - "CT\r_4"
+      - "CT\r_5"
+      - "CT\r_6"
+      - "CT\r_7"
+      - "CT\r_8"
+      - "CT\r_9"
+      - "CT\r_10"
+      - "CT\r_11"
+      - "CT\r_12"
+      - "CT\r_13"
+      - "CT\r_14"
+      - "CT\r_15"
+      - "CT\r_16"
+      - "CT\r_17"
+      - "CT\r_18"
+      - "CT\r_19"
+      - "CT\r_20"
+      - "CT\r_21"
+      - "CT\r_22"
+      - "CT\r_23"
+      - "CT\r_24"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 加入我的频道t.me/CMLiussss解锁更多优选节点
-      - 🇦🇺 AU
-      - 🇺🇸 US
-      - IE
-      - 🇬🇧 GB
-      - 🇸🇬 SG
-      - 🇳🇱 NL
-      - 🇨🇦 CA
-      - 🇺🇸 US 2
-      - 🇯🇵 JP
-      - 🇺🇸 US 3
-      - 🇸🇬 SG 2
-      - 🇰🇷 KR
-      - 🇺🇸 US 4
-      - 🇭🇰 HK
-      - 🇺🇸 US 5
-      - 🇭🇰 HK 2
-      - 🇭🇰 HK 3
-      - 🇭🇰 HK 4
-      - 🇭🇰 HK 5
-      - 🇯🇵 JP 2
-      - 🇯🇵 JP 3
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
-      - 🇭🇰 HK 6
-      - 🇭🇰 HK 7
-      - 🇰🇷 KR 2
-      - 🇰🇷 KR 3
-      - 🇰🇷 KR 4
-      - 🇰🇷 KR 5
-      - 🇺🇸 US 6
-      - 🇺🇸 US 7
-      - 🇺🇸 US 8
-      - 🇺🇸 US 9
-      - CMCC-IPV6
-      - CMCC-IPV6 2
-      - CMCC-IPV6 3
-      - CMCC-IPV6 4
-      - CMCC-IPV6 5
-      - CMCC-IPV6 6
-      - CMCC-IPV6 7
-      - CMCC-IPV6 8
-      - CMCC-IPV6 9
-      - CMCC-IPV6 10
-      - CMCC-IPV6 11
-      - CMCC-IPV6 12
-      - CMCC-IPV6 13
-      - CMCC-IPV6 14
-      - CMCC-IPV6 15
-      - CMCC-IPV6 16
-      - CMCC-IPV6 17
-      - CMCC-IPV6 18
-      - CMCC-IPV6 19
-      - CMCC-IPV6 20
-      - CMCC-IPV6 21
-      - CMCC-IPV6 22
-      - CMCC-IPV6 23
-      - CMCC-IPV6 24
+      - "加入我的频道t.me/CMLiussss解锁更多优选节点\r"
+      - "SG\r_1"
+      - "JP\r_1"
+      - "GB\r_1"
+      - "HK\r_1"
+      - "HK\r_2"
+      - "GB\r_2"
+      - "GB\r_3"
+      - "KR\r_1"
+      - "HK\r_3"
+      - "SG\r_2"
+      - "RU\r"
+      - "DE\r"
+      - "HK\r_4"
+      - "SG\r_3"
+      - "US\r_1"
+      - "US\r_2"
+      - "US\r_3"
+      - "HK\r_5"
+      - "HK\r_6"
+      - "JP\r_2"
+      - "JP\r_3"
+      - "SG\r_4"
+      - "SG\r_5"
+      - "HK\r_7"
+      - "HK\r_8"
+      - "KR\r_2"
+      - "KR\r_3"
+      - "KR\r_4"
+      - "KR\r_5"
+      - "US\r_4"
+      - "US\r_5"
+      - "US\r_6"
+      - "US\r_7"
+      - "CT\r_1"
+      - "CT\r_2"
+      - "CT\r_3"
+      - "CT\r_4"
+      - "CT\r_5"
+      - "CT\r_6"
+      - "CT\r_7"
+      - "CT\r_8"
+      - "CT\r_9"
+      - "CT\r_10"
+      - "CT\r_11"
+      - "CT\r_12"
+      - "CT\r_13"
+      - "CT\r_14"
+      - "CT\r_15"
+      - "CT\r_16"
+      - "CT\r_17"
+      - "CT\r_18"
+      - "CT\r_19"
+      - "CT\r_20"
+      - "CT\r_21"
+      - "CT\r_22"
+      - "CT\r_23"
+      - "CT\r_24"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -547,64 +547,64 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 加入我的频道t.me/CMLiussss解锁更多优选节点
-      - 🇦🇺 AU
-      - 🇺🇸 US
-      - IE
-      - 🇬🇧 GB
-      - 🇸🇬 SG
-      - 🇳🇱 NL
-      - 🇨🇦 CA
-      - 🇺🇸 US 2
-      - 🇯🇵 JP
-      - 🇺🇸 US 3
-      - 🇸🇬 SG 2
-      - 🇰🇷 KR
-      - 🇺🇸 US 4
-      - 🇭🇰 HK
-      - 🇺🇸 US 5
-      - 🇭🇰 HK 2
-      - 🇭🇰 HK 3
-      - 🇭🇰 HK 4
-      - 🇭🇰 HK 5
-      - 🇯🇵 JP 2
-      - 🇯🇵 JP 3
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
-      - 🇭🇰 HK 6
-      - 🇭🇰 HK 7
-      - 🇰🇷 KR 2
-      - 🇰🇷 KR 3
-      - 🇰🇷 KR 4
-      - 🇰🇷 KR 5
-      - 🇺🇸 US 6
-      - 🇺🇸 US 7
-      - 🇺🇸 US 8
-      - 🇺🇸 US 9
-      - CMCC-IPV6
-      - CMCC-IPV6 2
-      - CMCC-IPV6 3
-      - CMCC-IPV6 4
-      - CMCC-IPV6 5
-      - CMCC-IPV6 6
-      - CMCC-IPV6 7
-      - CMCC-IPV6 8
-      - CMCC-IPV6 9
-      - CMCC-IPV6 10
-      - CMCC-IPV6 11
-      - CMCC-IPV6 12
-      - CMCC-IPV6 13
-      - CMCC-IPV6 14
-      - CMCC-IPV6 15
-      - CMCC-IPV6 16
-      - CMCC-IPV6 17
-      - CMCC-IPV6 18
-      - CMCC-IPV6 19
-      - CMCC-IPV6 20
-      - CMCC-IPV6 21
-      - CMCC-IPV6 22
-      - CMCC-IPV6 23
-      - CMCC-IPV6 24
+      - "加入我的频道t.me/CMLiussss解锁更多优选节点\r"
+      - "SG\r_1"
+      - "JP\r_1"
+      - "GB\r_1"
+      - "HK\r_1"
+      - "HK\r_2"
+      - "GB\r_2"
+      - "GB\r_3"
+      - "KR\r_1"
+      - "HK\r_3"
+      - "SG\r_2"
+      - "RU\r"
+      - "DE\r"
+      - "HK\r_4"
+      - "SG\r_3"
+      - "US\r_1"
+      - "US\r_2"
+      - "US\r_3"
+      - "HK\r_5"
+      - "HK\r_6"
+      - "JP\r_2"
+      - "JP\r_3"
+      - "SG\r_4"
+      - "SG\r_5"
+      - "HK\r_7"
+      - "HK\r_8"
+      - "KR\r_2"
+      - "KR\r_3"
+      - "KR\r_4"
+      - "KR\r_5"
+      - "US\r_4"
+      - "US\r_5"
+      - "US\r_6"
+      - "US\r_7"
+      - "CT\r_1"
+      - "CT\r_2"
+      - "CT\r_3"
+      - "CT\r_4"
+      - "CT\r_5"
+      - "CT\r_6"
+      - "CT\r_7"
+      - "CT\r_8"
+      - "CT\r_9"
+      - "CT\r_10"
+      - "CT\r_11"
+      - "CT\r_12"
+      - "CT\r_13"
+      - "CT\r_14"
+      - "CT\r_15"
+      - "CT\r_16"
+      - "CT\r_17"
+      - "CT\r_18"
+      - "CT\r_19"
+      - "CT\r_20"
+      - "CT\r_21"
+      - "CT\r_22"
+      - "CT\r_23"
+      - "CT\r_24"
 
 rules:
 # 本地/局域网地址
