@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 ,澳门卫星
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
