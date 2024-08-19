@@ -678,7 +678,36 @@ SDETV,http://171.8.245.73:808/hls/79/index.m3u8
 
 
 
-🌍河南广电,#genre#
+🌍代理测试0819,#genre#
+新时代电视二台,https://test.zapi.us.kg/?id=fairchildtv2
+CI 罪案侦查频道,https://test.zapi.us.kg/?id=ci
+Astro AOD 311 粤语,https://test.zapi.us.kg/?id=astro-aod-311-hk
+TVB千禧经典台,https://test.zapi.us.kg/?id=tvb-classic
+Asian Food Network,https://test.zapi.us.kg/?id=asian-food-network
+TVB娱乐新闻台,https://test.zapi.us.kg/?id=TVB ylxw
+Now HBO Signature,https://test.zapi.us.kg/?id=now-hbo-signature
+Astro Vellithirai,https://test.zapi.us.kg/?id=astro-vellithirai
+TVB 华语剧台,https://test.zapi.us.kg/?id=tvb-drama
+VOA 美国之音,https://test.zapi.us.kg/?id=voa
+无线新闻台,https://test.zapi.us.kg/?id=tvb-news
+HOY国际财经,https://test.zapi.us.kg/?id=hoy-ibc
+三立都会台,https://test.zapi.us.kg/?id=settv-city
+Astro 爱奇艺,https://test.zapi.us.kg/?id=astro-iqiyi
+龙祥电影台,https://test.zapi.us.kg/?id=lstime
+NowViu剧集台,https://test.zapi.us.kg/?id=now-viu-drama
+中视菁采台,https://test.zapi.us.kg/?id=bravo
+新时代电视,https://test.zapi.us.kg/?id=fairchildtv
+好莱坞电影,https://test.zapi.us.kg/?id=hollywood-movie
+日本电视台,https://test.zapi.us.kg/?id=nippon-tv
+朝日电视台,https://test.zapi.us.kg/?id=tv-asahi
+东京电视台,https://test.zapi.us.kg/?id=tv-tokyo
+History 频道,https://test.zapi.us.kg/?id=history
+ELTA体育4台,https://test.zapi.us.kg/?id=elta-sport4
+HOY 资讯台,https://test.zapi.us.kg/?id=hoy-info
+Now 爆谷台,https://test.zapi.us.kg/?id=baogu-movies
+Now 新闻台,https://test.zapi.us.kg/?id=now-news
+EYE 旅游台,https://test.zapi.us.kg/?id=eye-travel
+ARIRANG 阿里郎频道,https://test.zapi.us.kg/?id=arirang
 
 
 
