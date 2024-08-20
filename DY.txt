@@ -4468,21 +4468,10 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 📡云南专线👉移动,#genre#
-云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8?$云南昆明移动
-云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8?$云南昆明移动
-云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8?$云南昆明移动
-云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8?$云南昆明移动
-云南国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8?$云南昆明移动
-镇雄电视,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
 麻栗坡电视,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund?$云南红河双线
 文山州新闻,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
-新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
 彝良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
-镇雄电视,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
-宾川电视,http://live.bcrmtzx.com/tv01/sd/live.m3u8
-
-
 
 
 
@@ -4555,32 +4544,17 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 🎬豆瓣评分9.0电影,#genre#
-阴山守陵人,https://172.80.104.109:11301/data6/files/hls/dhz/29/28721/24072013/1021130/1280/index.m3u8?appId=kkdy&sign=d28c3c466d1bd8749d80ef865fd28bab&timestamp=1721703487
 太空鲨鱼,https://svip.high24-playback.com/20240718/1327_f049e153/2000k/hls/mixed.m3u8
 恐龙世界,https://vip.ffzy-play.com/20221017/1665_93f8d6d1/2000k/hls/mixed.m3u8
-狄仁杰·通天人偶,https://104.224.248.217:11301/data7/files/hls/dhz/28/27849/24071318/996064/1280/index.m3u8?appId=kkdy&sign=711260acce8d391474d1f61646a61cc7&timestamp=1721703809
 
-极地反击,https://leshiyuncdn.36s.top/20240111/VeaF5is5/2429kb/hls/index.m3u8
 哨兵行动,https://leshiyuncdn.36s.top/20230905/hYwougvV/hls/index.m3u8
-鬼吹灯之精绝古城,https://leshiyuncdn.36s.top/20230810/2ejGl6bH/hls/index.m3u8
-鬼吹灯之湘西密藏,https://leshiyuncdn.36s.top/20230802/kZxA84Oa/hls/index.m3u8
 鬼吹灯之龙岭迷窟,https://vip.kuaikan-play1.com/20230308/YIHUHM9s/1760kb/hls/index.m3u8
 鬼吹灯之寻龙诀,https://s1.bfzycdn.com/video/guichuidengzhixunlongjue/HD%E5%9B%BD%E8%AF%AD/index.m3u8
-鬼吹灯之昆仑神宫,https://leshiyuncdn.36s.top/20230717/ajqP4T8P/hls/index.m3u8
-撼龙天棺,https://leshiyuncdn.36s.top/20230718/338z1mab/hls/index.m3u8
-周处除三害,https://leshiyuncdn.36s.top/20240301/hnVs2QC7/2000kb/hls/index.m3u8
 九龙城寨之围城,https://vip.kuaikan-cdn4.com/20240506/Jl95ROZG/3200kb/hls/index.m3u8
-反贪风暴1,https://hn.bfvvs.com/play/1aKo4naQ/index.m3u8
-反贪风暴2,https://leshiyuncdn.36s.top/20230717/4P5k9LkG/hls/index.m3u8
-反贪风暴3,https://leshiyuncdn.36s.top/20230718/o0McLem2/hls/index.m3u8
-反贪风暴4,https://leshiyuncdn.36s.top/20230718/D5Ol7zcF/hls/index.m3u8
-反贪风暴5,https://leshiyuncdn.36s.top/20231224/0I1Anjqu/hls/index.m3u8
 猎毒风云,https://v.cdnlz2.com/20240428/30676_4e3fad55/2000k/hls/mixed.m3u8
 破毒行动,https://v10.dious.cc/20240410/0MiZquLW/2000kb/hls/index.m3u8
 猩球崛起新世界,https://vv.jisuzyv.com/play/9av0Rnnd/index.m3u8
 猩球崛起新世界,https://play.hhuus.com/play/YerDBjLb/index.m3u8
-花月杀手,https://leshiyuncdn.36s.top/20231215/wVNK18gT/2000kb/hls/index.m3u8
-花月杀手,https://svipsvip.ffzy-online5.com/20231205/20486_1e3f0e55/2000k/hls/mixed.m3u8
 复仇岛,https://vip.ffzy-online1.com/20230614/41396_4008fa0f/2000k/hls/mixed.m3u8
 复仇岛,https://leshiyuncdn.36s.top/20230717/PBScC8YT/hls/index.m3u8
 决战帝国,https://hn.bfvvs.com/play/DbDxNqbl/index.m3u8
@@ -4597,21 +4571,14 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 惊天营救2,https://leshiyuncdn.36s.top/20240506/gFG7cEKB/2000kb/hls/index.m3u8
 惊天魔盗团,https://vip.ffzy-play6.com/20221019/172_ab70dfdd/2000k/hls/mixed.m3u8
 惊天魔盗团,https://223.111.202.82:11300/vods/hls/dhz/15/14388/24042718/679947/1920/index.m3u8?appId=kkdy&sign=52548a87f0754201f514bfdec8172ed3&timestamp=1715409787
-哥斯拉大战金刚2,https://223.111.150.97:10970/vods/hls/dhz/15/14679/24051310/690049/1920/index.m3u8?appId=kkdy&sign=9785d45c408b00980b2a60ccce7a0e54&timestamp=1715736111
-哥斯拉大战金刚2,https://leshiyuncdn.36s.top/20240514/meW3YnX3/2000kb/hls/index.m3u8
 猩球崛起新世界,https://vip.ffzy-online1.com/20240510/49130_d626384c/2000k/hls/mixed.m3u8
 猩球崛起新世界,https://223.111.202.73:11300/vods/hls/dhz/16/15949/24051312/762749/1920/index.m3u8?appId=kkdy&sign=70649418b15c1023e334f93773112a64&timestamp=1715737970
-人猿星球,https://leshiyuncdn.36s.top/20240501/htoUEL3K/2000kb/hls/index.m3u8
-猩球崛起3终极之战,https://leshiyuncdn.36s.top/20240504/qFUkOIgm/2000kb/hls/index.m3u8
 决战帝国,https://hn.bfvvs.com/play/DbDxNqbl/index.m3u8
 决战帝国,https://vip.kuaikan-play1.com/20230308/A1KV0kyH/658kb/hls/index.m3u8
 哨兵行动,https://vip.ffzy-play7.com/20221226/9859_97ede369/2000k/hls/mixed.m3u8
 哨兵行动,https://vip.kuaikan-cdn3.com/20230330/AlkV4rlO/hls/index.m3u8
 热辣滚烫,https://svipsvip.ffzyread1.com/20240418/26209_829902db/2000k/hls/mixed.m3u8
 热辣滚烫,https://223.111.202.73:11300/vods/hls/dhz/5/4096/24041820/13046/1920/index.m3u8?appId=kkdy&sign=0ef7d789331445eaaadd5672c49e0f63&timestamp=1715736715
-第二十条,https://svipsvip.ffzy-online5.com/20240426/26560_596f7554/2000k/hls/mixed.m3u8
-第二十条,https://223.111.202.78:11300/vods/hls/dhz/5/4112/24042614/13179/1920/index.m3u8?appId=kkdy&sign=548d1d86dbbbf5f06dc5f7a3a0f21f7b&timestamp=1715738539
-飞驰人生2,https://svipsvip.ffzy-online5.com/20240428/26643_6d4f92ab/2000k/hls/mixed.m3u8
 周处除三害,https://svipsvip.ffzy-online5.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
 孤注一掷,https://vip.ffzy-online1.com/20240430/48811_221dd2ee/2000k/hls/mixed.m3u8
 唐山大地震,https://vip.ffzy-play6.com/20221022/979_c2c7cf9a/2000k/hls/mixed.m3u8
@@ -4621,7 +4588,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 临时劫案 (2024),https://s10.fsvod1.com/20240306/6ojWInsL/2000kb/hls/index.m3u8
 僵尸先生,https://vip.ffzy-play7.com/20230507/24165_799a7b4a/2000k/hls/mixed.m3u8
 僵尸至尊,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/2000k/hls/mixed.m3u8
-倚天屠龙记之九阳神功,https://vip.ffzy-play.com/20221015/964_2b9df10c/5000k/hls/mixed.m3u8
 尸家重地,https://vip.ffzy-play6.com/20221112/6051_a60c9433/2000k/hls/mixed.m3u8
 极速僵尸,https://vip.ffzy-play6.com/20221022/1127_e10a4a23/2000k/hls/mixed.m3u8
 驱魔道长,https://vip.ffzy-play7.com/20221112/3670_136b232e/2000k/hls/mixed.m3u8
@@ -4629,13 +4595,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/2000k/hls/mixed.m3u8
 僵尸先生5驱魔警察,https://vip.ffzy-play6.com/20221205/9856_18a53055/2000k/hls/mixed.m3u8
 侏罗纪崛起,https://vip.ffzy-play6.com/20221122/7883_e46af164/2000k/hls/mixed.m3u8
-职业杀手,https://hn.bfvvs.com/play/RdGm2y0a/index.m3u8
-生化危机复仇,https://leshiyuncdn.36s.top/20240509/LMwMo4Ku/2000kb/hls/index.m3u8
-绝命海岛,https://svipsvip.ffzy-online5.com/20240508/27006_7c8740b2/2000k/hls/mixed.m3u8
-极限特工3,https://leshiyuncdn.36s.top/20240510/EbJqRewh/2000kb/hls/index.m3u8
-省港旗兵3逃出香港粤语,https://leshiyuncdn.36s.top/20240510/gRBSkmBi/2000kb/hls/index.m3u8
-斯莱思狩猎传奇,https://svipsvip.ffzy-online5.com/20240508/27003_3f5291ff/2000k/hls/mixed.m3u8
-高压重犯,https://leshiyuncdn.36s.top/20240504/JYwh0E7n/2000kb/hls/index.m3u8
 灰影人,https://vip.ffzy-play7.com/20221225/9793_976ebee6/2000k/hls/mixed.m3u8
 极线杀手,https://vip.ffzy-play6.com/20221126/8509_df155574/2000k/hls/mixed.m3u8
 首尔大作战,https://vip.ffzy-play7.com/20221224/9666_a61bd3aa/2000k/hls/mixed.m3u8
