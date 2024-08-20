@@ -1807,32 +1807,11 @@ CCTV-17,http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv
 
 🌍广东地区,#genre#
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
+
 深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
-深圳龙岗广播,http://liveplay.sznews.com/66_showto_live/2648.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-
-
-广东珠江高清,http://113.110.72.52:8090/hls/105/index.m3u8
-湛江公共,http://113.110.72.52:8090/hls/3/index.m3u8
-广东经济科教,http://113.110.72.52:8090/hls/129/index.m3u8
-岭南戏曲,http://113.110.72.52:8090/hls/22/index.m3u8
-广东新闻,http://113.110.72.52:8090/hls/106/index.m3u8
-广东公共,http://113.110.72.52:8090/hls/107/index.m3u8
-南方卫视,http://113.110.72.52:8090/hls/109/index.m3u8
-广东卫视,http://113.110.72.52:8090/hls/152/index.m3u8
-浙江卫视,http://113.110.72.52:8090/hls/131/index.m3u8
-广东体育,http://113.110.72.52:8090/hls/108/index.m3u8
-广东影视,http://113.110.72.52:8090/hls/110/index.m3u8
-广东少儿,http://113.110.72.52:8090/hls/111/index.m3u8
-
-
-
-
-
-
-
-
 
 
 
