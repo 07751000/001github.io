@@ -3308,6 +3308,9 @@ SLTV,http://27.190.24.36:11001/rtp/239.254.201.100:5179
 
 
 🏀体育IPV4,#genre#
+五星体育,https://test.zapi.us.kg/?id=wxty
+
+
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 魅力足球,https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.ctv
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
