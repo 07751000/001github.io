@@ -2,32 +2,20 @@
 
 QQ65267199,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 国冡地理野生,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8
-好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
-TVBS欢乐台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
 年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
 年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 民视新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
-海峡卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8570/.m3u8
 中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 纬来电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
 东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
-东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
-纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
-东森戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
 环宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
-东森幼幼,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8515/.m3u8
-卫视中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8523/.m3u8
-东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
-三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
-三立都会,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8
-卫视电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8578/.m3u8
 壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 TVBS HD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 中视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
+
 
 
 
@@ -51,7 +39,6 @@ TVB星河,http://r.jdshipin.com/sXuuD
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
 TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
-
 
 
 
