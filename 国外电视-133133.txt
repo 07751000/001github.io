@@ -1,45 +1,27 @@
 1+1 (1080p),https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 1TV (720p),https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-1Twente TV (1080p),https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
-1Yes News (720p) [Not 24/7],https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
-002 Radio TV (720p),https://cdn.002radio.com:3909/live/radio002live.m3u8
-2A TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCh57LRfcD3Z4TK6WrzL39GA.m3u8
 2M Monde (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-2S TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8
 2TV (720p),https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 4DmásNoticias TV (1080p) [Not 24/7],https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 4E (720p),http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 5AAB TV (720p) [Not 24/7],http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-5Días TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
 5TV Corrientes (480p) [Not 24/7],http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 5 канал,http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 6 ТВ Горловка,http://91.237.3.3:4022/udp/224.2.2.4:10000
-7ALimoges (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
-7 Info (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
 7 TV,http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
 8 La Marina TV (576p),https://streaming005.gestec-video.com/hls/canal24.m3u8
 8NTV (1080p),https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-9XM (480p),https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-9 Волна (Черкесск),http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8
-10 TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8
-11 Канал (720p) [Not 24/7],https://ythls.armelin.one/channel/UCwALNfmBX8f2XKt2xe4PMBA.m3u8
 12 TV Parma (540p) [Not 24/7],https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 12 канал,https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 13Max Televisión (1080p),http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-15tv Sabinas (XHSDD-TDT) (360p),https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 16tv Budapest (360p),https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
-23 ABC Bakersfield CA (KERO) (720p),https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTVLCOPT:http-referrer=https://cn247.tv/,https://panel.host-live.com:19360/cn247tv/passthru.m3u8
-24 Horas (720p) [Not 24/7],https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
+EXTVLCOPT,https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 24 Horas Internacional [Geo-blocked],https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 24 Hour Free Movies (720p),https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
-24 News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
-24 News HD (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8
 30A Darcizzle Offshore (720p),https://30a-tv.com/darcizzle.m3u8
 30A Georgia Hollywood Review TV,https://30a-tv.com/gh.m3u8
 30A Golf Kingdom,https://30a-tv.com/feeds/vidaa/golf.m3u8
 30A Investment Pitch,https://www.30a-tv.com/InvPit.m3u8
-30A Lionel Nation TV,https://30a-tv.com/ln.m3u8
 30A Loomered TV,https://30a-tv.com/loomer.m3u8
 30A Luxe Life Discovered,https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 30A Music Channel,https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
@@ -53,54 +35,28 @@
 49 канал (Новосибирск),https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8
 51 Radio TV (480p) [Geo-blocked],http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 88 Stereo (720p) [Not 24/7],http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-92 News HD (720p),http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-96.3 Easy Rock (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCZTlGPEnQ66TFG0m6Wa3KFQ.m3u8
 98.1 Pearl FM (720p),https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-99TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
-100% Auto Moto TV (406p) [Not 24/7],http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 100% News (576p),http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTVLCOPT:http-referrer=https://www.101tv.es/antequera/,https://www.streaming101tv.es:19360/antequera/antequera.m3u8
+EXTVLCOPT,https://www.streaming101tv.es:19360/antequera/antequera.m3u8
 101tv Málaga (1080p),https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-312 Кино (406p),http://176.126.166.43:1935/live/312kino/playlist.m3u8
-312 ТВ (406p),http://176.126.166.43:1935/live/312musik/playlist.m3u8
-313 Digital (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCkfPKgTSJljrXmwm1m0iY8Q.m3u8
 360°,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 360° Новости,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 360 TV (720p) [Not 24/7],https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 504 TV (720p),https://mediacp.us:8081/504tvhn/index.m3u8
-947 Joburg (720p) [Not 24/7],https://ythls.armelin.one/channel/UCYTTndlEZ-zBvVAxtayuNEA.m3u8
 @TV (720p),http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#КТОКУДА,http://camera.global-x.ru/MirUvlecheniy/index.m3u8
 A2i Music (720p) [Not 24/7],https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-A2i Religion (720p) [Not 24/7],https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 A2i TV (1080p),https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-A7TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8
-A24 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-A Haber,https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-A News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
-A Nove TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC9dfpRzwL7gyukOK0UtnYyQ.m3u8
-A Spor (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 A&R Canal Adventista (720p),http://51.222.9.192:3589/stream/play.m3u8
 A+ Ivoire (720p),http://69.64.57.208/atv/playlist.m3u8
-AACTV America's Auction Channel (1080p),https://ythls.armelin.one/channel/UCMeyWH1vyb1TT6Vimp4MqLA.m3u8
-Aadinath TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCY8r_lukdRi5cK5wjK_O3qw.m3u8
-Aaj News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCgBAPAcLsh_MAPvJprIz89w.m3u8
-Aastha (480p),https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
-#EXTVLCOPT:http-referrer=Aasthatv.in,https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
 AAVISIE (720p),https://d1wgur45ikj8gz.cloudfront.net/nlpo/clr-nlpo/aavisietv/index.m3u8
 Abaza TV,https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-Abb Takk (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC5mwDEzm4FzXKoHPBDnuUQQ.m3u8
-ABC 4 Seattle WA (KOMO-TV) (720p),https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p),https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
 ABC 7 Denver CO (KMGH) (720p),https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 ABC 7 Los Angeles CA (KABC-TV) (720p),https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-ABC 13 Las Vegas NV (KTNV) (720p),https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 ABC 15 Phoenix AZ (KNXV-TV) (720p),https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-ABC 25 News Central Texas,https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p),https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
 ABC (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
-ABC Me (720p),https://c.mjh.nz/abc-me.m3u8
 ABC News Australia (720p),https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
 ABC News Live 3 (720p),https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
@@ -112,39 +68,16 @@ ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/ab
 ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 ABC News New York NY (WABC-TV) (720p),https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-ABC TV Adelaide (720p),https://c.mjh.nz/abc-sa.m3u8
-ABC TV Brisbane (720p),https://c.mjh.nz/abc-qld.m3u8
-ABC TV Canberra (720p),https://c.mjh.nz/abc-act.m3u8
-ABC TV Darwin (720p),https://c.mjh.nz/abc-nt.m3u8
-ABC TV Hobart (720p),https://c.mjh.nz/abc-tas.m3u8
-ABC TV Melbourne (720p),https://c.mjh.nz/abc-vic.m3u8
-ABC TV News (YouTube) (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
-ABC TV Perth (720p),https://c.mjh.nz/abc-wa.m3u8
-ABC TV Plus (720p),https://c.mjh.nz/abc-tv-plus.m3u8
-ABC TV Sydney (720p),https://c.mjh.nz/abc-nsw.m3u8
-ABC WWAY 3,https://wway.akamaized.net/hls/live/2029583/wway_ingest/master.m3u8
-ABC-TV Paraguay (720p),https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-ABJ TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC82ZYZirnzkJ4Spek8Z8T6w.m3u8
-ABN Andhra Jyoti (720p) [Not 24/7],https://ythls.armelin.one/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8
-ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
-ABP Ananda (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8
-ABP Asmita (720p) [Not 24/7],https://ythls.armelin.one/channel/UC3C6_1ETXfE807LltDbKYxg.m3u8
 ABP Ganga (1080p),https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
 ABP Majha (720p),https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
 ABP News (720p),https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-ABP Sanjha (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCYGZ0qW3w_dWExE3QzMkwZA.m3u8
 Abya Yala TV (720p),https://master.tucableip.com/abyayalatv/playlist.m3u8
-Access Sacramento Channel 17,https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
-Access Sacramento Channel 18,https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
-Access Sarasota (Sarasota County FL) (1080p),https://ythls.armelin.one/channel/UCqHDwKPPOhzLmtb4TvwIZZQ.m3u8
 Accion Mexicana,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 AccuWeather Now (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 Ace TV (1080p),https://lte.wiseplayout.com/WiseM3U8_30/master.m3u8
-Acequia TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
 ACS Network (480p),https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 Action 24 (1080p),http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 Action Hollywood Movies,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-Activa TV (720p),https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
 Ada Derana News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCCK3OZi788Ok44K97WAhLKQ.m3u8
 Addis TV (720p),https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 ADH TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCtzTaKI8AkiSjyzm1_JbMUg.m3u8
