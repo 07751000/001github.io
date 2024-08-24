@@ -3372,11 +3372,6 @@ SLTV,http://27.190.24.36:11001/rtp/239.254.201.100:5179
 晴彩羽毛,http://drive.mxmy.net:8888/rtp/239.3.1.127:8001
 晴彩篮球,http://114.254.185.206:9999/rtp/239.3.1.126:8001
 晴彩羽毛,http://114.254.185.206:9999/rtp/239.3.1.127:8001
-JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
-JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-穿越火线,http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-穿越火线,http://112.83.136.141:80/live/605964rzzgGEOZHr.flv?302_type=cold_aggr&_session_id=2376164747.n.cn-069f7p.14re_26504&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv1%2F605964rzzgGEOZHr.flv%3FwsAuth%3D43ef2d796067cbec9c238c73235a1005%26token%3Dcpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964%26logo%3D0%26expire%3D0%26did%3Dd010b07dcb997ada9934081c873542f0%26origin%3Dtct%26vhost%3Dplay1&logo=0&manage_ip=&mir=true&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-069f7p.14re.nss&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&vhost=tc-tct.douyucdn2.cn&wsAuth=43ef2d796067cbec9c238c73235a1005
 
 
 
@@ -3391,6 +3386,27 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 
+👪动画片,#genre#
+枫枫玩具01集,https://vip.ffzy-online1.com/20240412/46899_da98d18d/index.m3u8
+枫枫玩具02集,https://vip.ffzy-online1.com/20240412/46898_d092af54/index.m3u8
+枫枫玩具03集,https://vip.ffzy-online1.com/20240412/46901_b2cec1e9/index.m3u8
+枫枫玩具04集,https://vip.ffzy-online1.com/20240412/46900_a44c77fd/index.m3u8
+枫枫玩具05集,https://vip.ffzy-online1.com/20240412/46902_9b607f8b/index.m3u8
+枫枫玩具06集,https://vip.ffzy-online1.com/20240412/46903_5f752f36/index.m3u8
+枫枫玩具07集,https://vip.ffzy-online1.com/20240412/46905_9c12fc73/index.m3u8
+枫枫玩具08集,https://vip.ffzy-online1.com/20240412/46904_efcde00a/index.m3u8
+枫枫玩具09集,https://vip.ffzy-online1.com/20240412/46906_734db1c6/index.m3u8
+枫枫玩具10集,https://vip.ffzy-online1.com/20240412/46907_2a398e57/index.m3u8
+枫枫玩具11集,https://vip.ffzy-online1.com/20240412/46908_a5db9672/index.m3u8
+枫枫玩具12集,https://vip.ffzy-online1.com/20240412/46909_7d1d4cce/index.m3u8
+枫枫玩具13集,https://vip.ffzy-online1.com/20240412/46923_1be7ee3f/index.m3u8
+枫枫玩具14集,https://vip.ffzy-online1.com/20240412/46925_716958cf/index.m3u8
+枫枫玩具15集,https://vip.ffzy-online1.com/20240412/46926_5efac910/index.m3u8
+枫枫玩具16集,https://vip.ffzy-online1.com/20240412/46924_0a671cbf/index.m3u8
+枫枫玩具17集,https://vip.ffzy-online1.com/20240412/46930_4bae9c60/index.m3u8
+枫枫玩具18集,https://vip.ffzy-online1.com/20240412/46929_12a02802/index.m3u8
+枫枫玩具19集,https://vip.ffzy-online1.com/20240412/46928_e0fa5c65/index.m3u8
+枫枫玩具20集,https://vip.ffzy-online1.com/20240412/46927_b431c773/index.m3u8
 
 
 
@@ -3416,17 +3432,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 
-💽辽宁地区,#genre#
-辽宁卫视,http://60.17.195.0:8888/rtp/232.0.0.126:1234
-辽宁都市,http://60.17.195.0:8888/rtp/232.0.0.154:1234
-辽宁影视剧,http://60.17.195.0:8888/rtp/232.0.0.25:1234
-辽宁体育,http://60.17.195.0:8888/rtp/232.0.0.164:1234
-辽宁生活,http://60.17.195.0:8888/rtp/232.0.0.150:1234
-辽宁教育青少,http://60.17.195.0:8888/rtp/232.0.0.241:1234
-辽宁北方,http://60.17.195.0:8888/rtp/232.0.0.151:1234
-辽宁宜佳购物,http://60.17.195.0:8888/rtp/232.0.0.30:1234
-辽宁公共,http://60.17.195.0:8888/rtp/232.0.0.168:1234
-辽宁经济,http://60.17.195.0:8888/rtp/232.0.0.156:1234
 
 
 
@@ -3442,90 +3447,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 
-
-
-
-
-
-💽山东地区,#genre#
-山东体育,http://144.52.199.11:8888/udp/239.21.1.58:5002
-山东体育,http://144.52.199.11:8888/udp/239.21.1.141:5002
-山东卫视,http://144.52.199.11:8888/udp/239.21.1.52:5002
-山东卫视,http://144.52.199.11:8888/udp/239.21.1.87:5002
-山东文旅,http://144.52.199.11:8888/udp/239.21.1.57:5002
-山东文旅,http://144.52.199.11:8888/udp/239.21.1.176:5002
-山东新闻,http://144.52.199.11:8888/udp/239.21.1.54:5002
-山东新闻,http://144.52.199.11:8888/udp/239.21.1.140:5002
-山东综艺,http://144.52.199.11:8888/udp/239.21.1.55:5002
-山东综艺,http://144.52.199.11:8888/udp/239.21.1.177:5002
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-💽游戏直播,#genre#
-「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
-「虎牙」英雄联盟_𝟙,http://live.iill.top/huya.php?id=660000
-「斗鱼」英雄联盟_𝟙,http://live.iill.top/douyu.php?id=288016
-“斗鱼”英雄联盟_𝟚,http://live.iill.top/douyu.php?id=424559
-《斗鱼》和平精英,http://live.iill.top/douyu.php?id=999
-《斗鱼》金铲铲之战,http://live.iill.top/douyu.php?id=9715241
-“斗鱼”云顶之弈,http://live.iill.top/douyu.php?id=522423
-「斗鱼」使命召唤•手游,http://live.iill.top/douyu.php?id=9223245
-《斗鱼》穿越火线_𝟙,http://live.iill.top/douyu.php?id=605964
-《斗鱼》穿越火线_𝟚,http://live.iill.top/douyu.php?id=5388537
-「B站」第五人格,http://live.iill.top/bilibili.php?id=5555
-《斗鱼》第五人格,http://live.iill.top/douyu.php?id=3226194
-“虎牙”无畏契约,http://live.iill.top/huya.php?id=660679
-“斗鱼”无畏契约,http://live.iill.top/douyu.php?id=4585645
-「B站」QQ飞车•手游,http://live.iill.top/bilibili.php?id=21743919
-「斗鱼」QQ飞车•手游,http://live.iill.top/douyu.php?id=5040227
-「B站」JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
-「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
-《斗鱼》我的世界,http://live.iill.top/douyu.php?id=738878
-「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
-「斗鱼」火影忍者,http://live.iill.top/douyu.php?id=1997723
-「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
-「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
 
 
 
