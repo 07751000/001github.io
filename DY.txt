@@ -3744,7 +3744,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 
-电台轮播,#genre#
+👪电台轮播👪,#genre#
 电台轮播01,http://159.75.85.63:35455/bilibili/26238686
 电台轮播02,http://159.75.85.63:35455/bilibili/22008785
 电台轮播03,http://159.75.85.63:35455/bilibili/1769479946
@@ -3753,7 +3753,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 
-👪动画片👪,#genre#
+👪少儿动画👪,#genre#
 枫枫玩具01集,https://vip.ffzy-online1.com/20240412/46899_da98d18d/index.m3u8
 枫枫玩具02集,https://vip.ffzy-online1.com/20240412/46898_d092af54/index.m3u8
 枫枫玩具03集,https://vip.ffzy-online1.com/20240412/46901_b2cec1e9/index.m3u8
