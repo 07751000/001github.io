@@ -2825,7 +2825,7 @@ TVB翡翠台,https://c1.rrcdnbf3.com/video/2024niandi33jiebaliaoyunhuikaimushi/H
 CCTV频道https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
 
 🏀体育IPV4,#genre#
-五星体育,https://test.zapi.us.kg/?id=wxty
+
 
 
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
