@@ -1,7 +1,6 @@
 🌍测试频道,#genre#
 QQ65267199,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 国冡地理野生,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
 年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 民视新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
@@ -3157,58 +3156,28 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 📹电影轮播,#genre#
-星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 重温经典卫星,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 经典宫庭频道,http://live.dxms.top:80/dwy/gtjc.php
 经典清剧频道,http://live.dxms.top:80/dwy/jdqj.php
 经典天龙频道,http://live.dxms.top:80/dwy/jdtl.php
-金庸剧场频道,http://cfss.cc/cdn/hy/11602082.flv
 经典金庸频道,http://live.dxms.top:80/dwy/jyjc.php
 经典三国频道,http://live.dxms.top:80/dwy/jdsg.php
-经典怀旧频道,http://live.dxms.top:80/dwy/hjjc.php
 经典喜剧频道,http://live.dxms.top:80/dwy/jdxj.php
 经典回忆频道,http://live.dxms.top:80/dwy/hyyy.php
 
 
-斗鱼电影3,http://diyp.112114.xyz/douyu/6369954
-斗鱼电影3,http://epg.112114.xyz/douyu/36337
 斗鱼电影1,http://allinone.netsite.cc/douyu/747764
 斗鱼电影3,http://allinone.netsite.cc/douyu/36337
 斗鱼电影02,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 斗鱼电影19,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼电影19,http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=21eac7e8c6f60737a5777695d7e78b65&token=cpn-androidmpro-0-20415-b6774b3b3249db1714f6a26ef1f3033367889a4abcf8fd1f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 斗鱼直播-开心麻花经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-斗鱼电影2,http://allinone.netsite.cc/douyu/6140589
 
 
-神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
-吃米滴虫✔原,http://159.75.85.63:35455/douyu/315457
-冰冰经典✔原,http://159.75.85.63:35455/douyu/74374
-星爷影院✔原,http://159.75.85.63:35455/douyu/508118
-凌儿影院✔原,http://159.75.85.63:35455/douyu/1377142
-瑶瑶恐怖✔原,http://159.75.85.63:35455/douyu/2935323
-怡寶影院✔原,http://159.75.85.63:35455/douyu/434971
-小黛兮影✔原,http://159.75.85.63:35455/douyu/11553944
-萌小鬼片✔原,http://159.75.85.63:35455/douyu/3928
-神乐影剧✔原,http://159.75.85.63:35455/douyu/122402
-可乐影院✔原,http://159.75.85.63:35455/douyu/20415
-小宇60帧✔原,http://159.75.85.63:35455/douyu/323876
 恐怖惊悚✔原,http://159.75.85.63:35455/douyu/96577
-電影劇場✔原,http://159.75.85.63:35455/douyu/7575350
-豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
-花卷陪看✔原,http://159.75.85.63:35455/douyu/52787
-漫威剧情✔原,http://159.75.85.63:35455/douyu/6140589
-霍格沃茨✔原,http://159.75.85.63:35455/douyu/8814650
-鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
 吃奶滴虫✔原,http://159.75.85.63:35455/douyu/263824
-变种人片✔原,http://159.75.85.63:35455/douyu/9651304
-喜剧电影✔原,http://159.75.85.63:35455/douyu/9292492
 女神电影✔原,http://159.75.85.63:35455/douyu/747764
-避风影院✔原,http://159.75.85.63:35455/douyu/9826611
-欧美大片✔原,http://159.75.85.63:35455/douyu/2793084
-贝爷max✔原,http://159.75.85.63:35455/douyu/4332
 贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
 凌儿影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=1377142
 小宇60帧✔原,http://maomao.kandiantv.cn/douyu1.php?id=323876
