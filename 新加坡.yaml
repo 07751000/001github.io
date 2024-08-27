@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2024-06-15 13:27:23
+# 创建时间：2024-08-27 23:02:01
 # 使用模版：V2RaySE 默认模版
-# 节点数量：7
+# 节点数量：59
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -86,6 +86,55 @@ dns:
       - 0.0.0.0/32
 
 proxies:
+  - {"name":"官方优选域名","type":"vless","server":"icook.tw","port":2053,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.vultr.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"优选官方线路","type":"vless","server":"cloudflare.cfgo.cc","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"HK_1","type":"vless","server":"16.162.37.167","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"HK_2","type":"vless","server":"47.242.176.237","port":2053,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"HK_3","type":"vless","server":"18.167.208.181","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.vultr.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"HK_4","type":"vless","server":"8.210.89.245","port":2087,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"HK_5","type":"vless","server":"8.210.174.156","port":2053,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"HK_6","type":"vless","server":"47.242.17.250","port":2053,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"HK_7","type":"vless","server":"8.217.221.165","port":2083,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"HK_8","type":"vless","server":"47.242.176.237","port":2096,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"广东省佛山市 移动","type":"vmess","server":"183.232.199.28","port":21006,"cipher":"auto","uuid":"aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"美国 CloudFlare节点","type":"vmess","server":"zula.ir","port":2082,"cipher":"auto","uuid":"d2c7b321-5e48-4d28-80e2-f64c6ddfad96","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/dashboard?ed=2048","headers":{"host":"V2ray-Vip-Ritl.xn--85-pv2cl2k5x3fipr.org.Cd3.boutiquemad.ir."}}}
+  - {"name":"ok.pl10000.org","type":"vless","server":"ok.pl10000.org","port":443,"uuid":"3d76388b-2ba4-4c22-ab81-690df7d013d0","tls":true,"servername":"ok.pl10000.org","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"ok.pl10000.org"}}}
+  - {"name":"als.pl10000.top","type":"vless","server":"als.pl10000.top","port":443,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-80_1","type":"vless","server":"als.pl10000.top","port":80,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-80_2","type":"vless","server":"als.pl10000.top","port":80,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-80_3","type":"vless","server":"als.pl10000.top","port":80,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-8080_1","type":"vless","server":"als.pl10000.top","port":8080,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-8080_2","type":"vless","server":"als.pl10000.top","port":8080,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-8880_1","type":"vless","server":"als.pl10000.top","port":8880,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-8880_2","type":"vless","server":"als.pl10000.top","port":8880,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-8880_3","type":"vless","server":"als.pl10000.top","port":8880,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-2052","type":"vless","server":"als.pl10000.top","port":2052,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-2086_1","type":"vless","server":"als.pl10000.top","port":2086,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-2086_2","type":"vless","server":"als.pl10000.top","port":2086,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-2095_1","type":"vless","server":"als.pl10000.top","port":2095,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-2095_2","type":"vless","server":"als.pl10000.top","port":2095,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-2095_3","type":"vless","server":"als.pl10000.top","port":2095,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-2082_1","type":"vless","server":"als.pl10000.top","port":2082,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTP-2082_2","type":"vless","server":"als.pl10000.top","port":2082,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":false,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-443_1","type":"vless","server":"als.pl10000.top","port":443,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-443_2","type":"vless","server":"als.pl10000.top","port":443,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-443_3","type":"vless","server":"als.pl10000.top","port":443,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-8443_1","type":"vless","server":"als.pl10000.top","port":8443,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-8443_2","type":"vless","server":"als.pl10000.top","port":8443,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-8443_3","type":"vless","server":"als.pl10000.top","port":8443,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2053_1","type":"vless","server":"als.pl10000.top","port":2053,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2053_2","type":"vless","server":"als.pl10000.top","port":2053,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2053_3","type":"vless","server":"als.pl10000.top","port":2053,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2096_1","type":"vless","server":"als.pl10000.top","port":2096,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2096_2","type":"vless","server":"als.pl10000.top","port":2096,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2096_3","type":"vless","server":"als.pl10000.top","port":2096,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2087_1","type":"vless","server":"als.pl10000.top","port":2087,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2087_2","type":"vless","server":"als.pl10000.top","port":2087,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2087_3","type":"vless","server":"als.pl10000.top","port":2087,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2083_1","type":"vless","server":"als.pl10000.top","port":2083,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2083_2","type":"vless","server":"als.pl10000.top","port":2083,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2083_3","type":"vless","server":"als.pl10000.top","port":2083,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
+  - {"name":"als.pl10000.top-HTTPS-2083_4","type":"vless","server":"als.pl10000.top","port":2083,"uuid":"d389f277-3a88-408d-9aa6-6a4bdd657bd8","tls":true,"servername":"als.pl10000.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"als.pl10000.top"}}}
   - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_1","type":"vmess","server":"104.16.60.8","port":2086,"cipher":"auto","uuid":"a1655f51-1e20-4a92-8a11-b7ca30a7a353","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/afrhms07.xfixedfloat.cfd/linkws","headers":{"host":"vpnsupportfast.vpnsuortfast.workers.dev"}}}
   - {"name":"🇨🇦_CA_加拿大","type":"trojan","server":"15.157.53.76","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp"}
   - {"name":"新加坡/阿里云","type":"vless","server":"www.visa.com","port":443,"uuid":"213fea3d-b62d-48e6-8923-5f21ce0b2c4a","tls":true,"servername":"cc.gx10000.us.kg","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cc.gx10000.us.kg"}}}
@@ -93,12 +142,64 @@ proxies:
   - {"name":"英国","type":"vless","server":"time.cloudflare.com","port":443,"uuid":"9fe486a2-c29f-4469-a4dc-7f2f95ad4885","tls":true,"servername":"yg.gx10000.us.kg","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"yg.gx10000.us.kg"}}}
   - {"name":"荷兰","type":"vless","server":"www.visa.com","port":443,"uuid":"9fe486a2-c29f-4469-a4dc-7f2f95ad4885","tls":true,"servername":"yg.gx10000.us.kg","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"yg.gx10000.us.kg"}}}
   - {"name":"新加坡AI","type":"vless","server":"www.visa.com","port":443,"uuid":"11b7714f-b353-4379-9bd6-0e3b872ea7be","tls":true,"servername":"us.gx10000.us.kg","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"us.gx10000.us.kg"}}}
+  - {"name":"oo.gx10000.us.kg","type":"vless","server":"oo.gx10000.us.kg","port":443,"uuid":"c44fb4c7-493d-44bf-8f66-9e81993f13d6","tls":true,"servername":"oo.gx10000.us.kg","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"oo.gx10000.us.kg"}},"client-fingerprint":"randomized"}
+  - {"name":"tv.gx10000.us.kg","type":"vless","server":"tv.gx10000.us.kg","port":443,"uuid":"962bcd1f-60a2-4d58-895e-dfe13dc903ee","tls":true,"servername":"tv.gx10000.us.kg","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"tv.gx10000.us.kg"}},"client-fingerprint":"randomized"}
+  - {"name":"qb.gx10000.us.kg","type":"vless","server":"qb.gx10000.us.kg","port":443,"uuid":"706a6b4b-9984-4c87-800d-88c043fe9432","tls":true,"servername":"qb.gx10000.us.kg","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"qb.gx10000.us.kg"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - 官方优选域名
+      - 优选官方线路
+      - HK_1
+      - HK_2
+      - HK_3
+      - HK_4
+      - HK_5
+      - HK_6
+      - HK_7
+      - HK_8
+      - 广东省佛山市 移动
+      - 美国 CloudFlare节点
+      - ok.pl10000.org
+      - als.pl10000.top
+      - als.pl10000.top-HTTP-80_1
+      - als.pl10000.top-HTTP-80_2
+      - als.pl10000.top-HTTP-80_3
+      - als.pl10000.top-HTTP-8080_1
+      - als.pl10000.top-HTTP-8080_2
+      - als.pl10000.top-HTTP-8880_1
+      - als.pl10000.top-HTTP-8880_2
+      - als.pl10000.top-HTTP-8880_3
+      - als.pl10000.top-HTTP-2052
+      - als.pl10000.top-HTTP-2086_1
+      - als.pl10000.top-HTTP-2086_2
+      - als.pl10000.top-HTTP-2095_1
+      - als.pl10000.top-HTTP-2095_2
+      - als.pl10000.top-HTTP-2095_3
+      - als.pl10000.top-HTTP-2082_1
+      - als.pl10000.top-HTTP-2082_2
+      - als.pl10000.top-HTTPS-443_1
+      - als.pl10000.top-HTTPS-443_2
+      - als.pl10000.top-HTTPS-443_3
+      - als.pl10000.top-HTTPS-8443_1
+      - als.pl10000.top-HTTPS-8443_2
+      - als.pl10000.top-HTTPS-8443_3
+      - als.pl10000.top-HTTPS-2053_1
+      - als.pl10000.top-HTTPS-2053_2
+      - als.pl10000.top-HTTPS-2053_3
+      - als.pl10000.top-HTTPS-2096_1
+      - als.pl10000.top-HTTPS-2096_2
+      - als.pl10000.top-HTTPS-2096_3
+      - als.pl10000.top-HTTPS-2087_1
+      - als.pl10000.top-HTTPS-2087_2
+      - als.pl10000.top-HTTPS-2087_3
+      - als.pl10000.top-HTTPS-2083_1
+      - als.pl10000.top-HTTPS-2083_2
+      - als.pl10000.top-HTTPS-2083_3
+      - als.pl10000.top-HTTPS-2083_4
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
       - 🇨🇦_CA_加拿大
       - 新加坡/阿里云
@@ -106,12 +207,64 @@ proxy-groups:
       - 英国
       - 荷兰
       - 新加坡AI
+      - oo.gx10000.us.kg
+      - tv.gx10000.us.kg
+      - qb.gx10000.us.kg
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
+      - 官方优选域名
+      - 优选官方线路
+      - HK_1
+      - HK_2
+      - HK_3
+      - HK_4
+      - HK_5
+      - HK_6
+      - HK_7
+      - HK_8
+      - 广东省佛山市 移动
+      - 美国 CloudFlare节点
+      - ok.pl10000.org
+      - als.pl10000.top
+      - als.pl10000.top-HTTP-80_1
+      - als.pl10000.top-HTTP-80_2
+      - als.pl10000.top-HTTP-80_3
+      - als.pl10000.top-HTTP-8080_1
+      - als.pl10000.top-HTTP-8080_2
+      - als.pl10000.top-HTTP-8880_1
+      - als.pl10000.top-HTTP-8880_2
+      - als.pl10000.top-HTTP-8880_3
+      - als.pl10000.top-HTTP-2052
+      - als.pl10000.top-HTTP-2086_1
+      - als.pl10000.top-HTTP-2086_2
+      - als.pl10000.top-HTTP-2095_1
+      - als.pl10000.top-HTTP-2095_2
+      - als.pl10000.top-HTTP-2095_3
+      - als.pl10000.top-HTTP-2082_1
+      - als.pl10000.top-HTTP-2082_2
+      - als.pl10000.top-HTTPS-443_1
+      - als.pl10000.top-HTTPS-443_2
+      - als.pl10000.top-HTTPS-443_3
+      - als.pl10000.top-HTTPS-8443_1
+      - als.pl10000.top-HTTPS-8443_2
+      - als.pl10000.top-HTTPS-8443_3
+      - als.pl10000.top-HTTPS-2053_1
+      - als.pl10000.top-HTTPS-2053_2
+      - als.pl10000.top-HTTPS-2053_3
+      - als.pl10000.top-HTTPS-2096_1
+      - als.pl10000.top-HTTPS-2096_2
+      - als.pl10000.top-HTTPS-2096_3
+      - als.pl10000.top-HTTPS-2087_1
+      - als.pl10000.top-HTTPS-2087_2
+      - als.pl10000.top-HTTPS-2087_3
+      - als.pl10000.top-HTTPS-2083_1
+      - als.pl10000.top-HTTPS-2083_2
+      - als.pl10000.top-HTTPS-2083_3
+      - als.pl10000.top-HTTPS-2083_4
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
       - 🇨🇦_CA_加拿大
       - 新加坡/阿里云
@@ -119,12 +272,64 @@ proxy-groups:
       - 英国
       - 荷兰
       - 新加坡AI
+      - oo.gx10000.us.kg
+      - tv.gx10000.us.kg
+      - qb.gx10000.us.kg
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 官方优选域名
+      - 优选官方线路
+      - HK_1
+      - HK_2
+      - HK_3
+      - HK_4
+      - HK_5
+      - HK_6
+      - HK_7
+      - HK_8
+      - 广东省佛山市 移动
+      - 美国 CloudFlare节点
+      - ok.pl10000.org
+      - als.pl10000.top
+      - als.pl10000.top-HTTP-80_1
+      - als.pl10000.top-HTTP-80_2
+      - als.pl10000.top-HTTP-80_3
+      - als.pl10000.top-HTTP-8080_1
+      - als.pl10000.top-HTTP-8080_2
+      - als.pl10000.top-HTTP-8880_1
+      - als.pl10000.top-HTTP-8880_2
+      - als.pl10000.top-HTTP-8880_3
+      - als.pl10000.top-HTTP-2052
+      - als.pl10000.top-HTTP-2086_1
+      - als.pl10000.top-HTTP-2086_2
+      - als.pl10000.top-HTTP-2095_1
+      - als.pl10000.top-HTTP-2095_2
+      - als.pl10000.top-HTTP-2095_3
+      - als.pl10000.top-HTTP-2082_1
+      - als.pl10000.top-HTTP-2082_2
+      - als.pl10000.top-HTTPS-443_1
+      - als.pl10000.top-HTTPS-443_2
+      - als.pl10000.top-HTTPS-443_3
+      - als.pl10000.top-HTTPS-8443_1
+      - als.pl10000.top-HTTPS-8443_2
+      - als.pl10000.top-HTTPS-8443_3
+      - als.pl10000.top-HTTPS-2053_1
+      - als.pl10000.top-HTTPS-2053_2
+      - als.pl10000.top-HTTPS-2053_3
+      - als.pl10000.top-HTTPS-2096_1
+      - als.pl10000.top-HTTPS-2096_2
+      - als.pl10000.top-HTTPS-2096_3
+      - als.pl10000.top-HTTPS-2087_1
+      - als.pl10000.top-HTTPS-2087_2
+      - als.pl10000.top-HTTPS-2087_3
+      - als.pl10000.top-HTTPS-2083_1
+      - als.pl10000.top-HTTPS-2083_2
+      - als.pl10000.top-HTTPS-2083_3
+      - als.pl10000.top-HTTPS-2083_4
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
       - 🇨🇦_CA_加拿大
       - 新加坡/阿里云
@@ -132,11 +337,63 @@ proxy-groups:
       - 英国
       - 荷兰
       - 新加坡AI
+      - oo.gx10000.us.kg
+      - tv.gx10000.us.kg
+      - qb.gx10000.us.kg
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 官方优选域名
+      - 优选官方线路
+      - HK_1
+      - HK_2
+      - HK_3
+      - HK_4
+      - HK_5
+      - HK_6
+      - HK_7
+      - HK_8
+      - 广东省佛山市 移动
+      - 美国 CloudFlare节点
+      - ok.pl10000.org
+      - als.pl10000.top
+      - als.pl10000.top-HTTP-80_1
+      - als.pl10000.top-HTTP-80_2
+      - als.pl10000.top-HTTP-80_3
+      - als.pl10000.top-HTTP-8080_1
+      - als.pl10000.top-HTTP-8080_2
+      - als.pl10000.top-HTTP-8880_1
+      - als.pl10000.top-HTTP-8880_2
+      - als.pl10000.top-HTTP-8880_3
+      - als.pl10000.top-HTTP-2052
+      - als.pl10000.top-HTTP-2086_1
+      - als.pl10000.top-HTTP-2086_2
+      - als.pl10000.top-HTTP-2095_1
+      - als.pl10000.top-HTTP-2095_2
+      - als.pl10000.top-HTTP-2095_3
+      - als.pl10000.top-HTTP-2082_1
+      - als.pl10000.top-HTTP-2082_2
+      - als.pl10000.top-HTTPS-443_1
+      - als.pl10000.top-HTTPS-443_2
+      - als.pl10000.top-HTTPS-443_3
+      - als.pl10000.top-HTTPS-8443_1
+      - als.pl10000.top-HTTPS-8443_2
+      - als.pl10000.top-HTTPS-8443_3
+      - als.pl10000.top-HTTPS-2053_1
+      - als.pl10000.top-HTTPS-2053_2
+      - als.pl10000.top-HTTPS-2053_3
+      - als.pl10000.top-HTTPS-2096_1
+      - als.pl10000.top-HTTPS-2096_2
+      - als.pl10000.top-HTTPS-2096_3
+      - als.pl10000.top-HTTPS-2087_1
+      - als.pl10000.top-HTTPS-2087_2
+      - als.pl10000.top-HTTPS-2087_3
+      - als.pl10000.top-HTTPS-2083_1
+      - als.pl10000.top-HTTPS-2083_2
+      - als.pl10000.top-HTTPS-2083_3
+      - als.pl10000.top-HTTPS-2083_4
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
       - 🇨🇦_CA_加拿大
       - 新加坡/阿里云
@@ -144,11 +401,63 @@ proxy-groups:
       - 英国
       - 荷兰
       - 新加坡AI
+      - oo.gx10000.us.kg
+      - tv.gx10000.us.kg
+      - qb.gx10000.us.kg
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - 官方优选域名
+      - 优选官方线路
+      - HK_1
+      - HK_2
+      - HK_3
+      - HK_4
+      - HK_5
+      - HK_6
+      - HK_7
+      - HK_8
+      - 广东省佛山市 移动
+      - 美国 CloudFlare节点
+      - ok.pl10000.org
+      - als.pl10000.top
+      - als.pl10000.top-HTTP-80_1
+      - als.pl10000.top-HTTP-80_2
+      - als.pl10000.top-HTTP-80_3
+      - als.pl10000.top-HTTP-8080_1
+      - als.pl10000.top-HTTP-8080_2
+      - als.pl10000.top-HTTP-8880_1
+      - als.pl10000.top-HTTP-8880_2
+      - als.pl10000.top-HTTP-8880_3
+      - als.pl10000.top-HTTP-2052
+      - als.pl10000.top-HTTP-2086_1
+      - als.pl10000.top-HTTP-2086_2
+      - als.pl10000.top-HTTP-2095_1
+      - als.pl10000.top-HTTP-2095_2
+      - als.pl10000.top-HTTP-2095_3
+      - als.pl10000.top-HTTP-2082_1
+      - als.pl10000.top-HTTP-2082_2
+      - als.pl10000.top-HTTPS-443_1
+      - als.pl10000.top-HTTPS-443_2
+      - als.pl10000.top-HTTPS-443_3
+      - als.pl10000.top-HTTPS-8443_1
+      - als.pl10000.top-HTTPS-8443_2
+      - als.pl10000.top-HTTPS-8443_3
+      - als.pl10000.top-HTTPS-2053_1
+      - als.pl10000.top-HTTPS-2053_2
+      - als.pl10000.top-HTTPS-2053_3
+      - als.pl10000.top-HTTPS-2096_1
+      - als.pl10000.top-HTTPS-2096_2
+      - als.pl10000.top-HTTPS-2096_3
+      - als.pl10000.top-HTTPS-2087_1
+      - als.pl10000.top-HTTPS-2087_2
+      - als.pl10000.top-HTTPS-2087_3
+      - als.pl10000.top-HTTPS-2083_1
+      - als.pl10000.top-HTTPS-2083_2
+      - als.pl10000.top-HTTPS-2083_3
+      - als.pl10000.top-HTTPS-2083_4
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
       - 🇨🇦_CA_加拿大
       - 新加坡/阿里云
@@ -156,11 +465,63 @@ proxy-groups:
       - 英国
       - 荷兰
       - 新加坡AI
+      - oo.gx10000.us.kg
+      - tv.gx10000.us.kg
+      - qb.gx10000.us.kg
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 官方优选域名
+      - 优选官方线路
+      - HK_1
+      - HK_2
+      - HK_3
+      - HK_4
+      - HK_5
+      - HK_6
+      - HK_7
+      - HK_8
+      - 广东省佛山市 移动
+      - 美国 CloudFlare节点
+      - ok.pl10000.org
+      - als.pl10000.top
+      - als.pl10000.top-HTTP-80_1
+      - als.pl10000.top-HTTP-80_2
+      - als.pl10000.top-HTTP-80_3
+      - als.pl10000.top-HTTP-8080_1
+      - als.pl10000.top-HTTP-8080_2
+      - als.pl10000.top-HTTP-8880_1
+      - als.pl10000.top-HTTP-8880_2
+      - als.pl10000.top-HTTP-8880_3
+      - als.pl10000.top-HTTP-2052
+      - als.pl10000.top-HTTP-2086_1
+      - als.pl10000.top-HTTP-2086_2
+      - als.pl10000.top-HTTP-2095_1
+      - als.pl10000.top-HTTP-2095_2
+      - als.pl10000.top-HTTP-2095_3
+      - als.pl10000.top-HTTP-2082_1
+      - als.pl10000.top-HTTP-2082_2
+      - als.pl10000.top-HTTPS-443_1
+      - als.pl10000.top-HTTPS-443_2
+      - als.pl10000.top-HTTPS-443_3
+      - als.pl10000.top-HTTPS-8443_1
+      - als.pl10000.top-HTTPS-8443_2
+      - als.pl10000.top-HTTPS-8443_3
+      - als.pl10000.top-HTTPS-2053_1
+      - als.pl10000.top-HTTPS-2053_2
+      - als.pl10000.top-HTTPS-2053_3
+      - als.pl10000.top-HTTPS-2096_1
+      - als.pl10000.top-HTTPS-2096_2
+      - als.pl10000.top-HTTPS-2096_3
+      - als.pl10000.top-HTTPS-2087_1
+      - als.pl10000.top-HTTPS-2087_2
+      - als.pl10000.top-HTTPS-2087_3
+      - als.pl10000.top-HTTPS-2083_1
+      - als.pl10000.top-HTTPS-2083_2
+      - als.pl10000.top-HTTPS-2083_3
+      - als.pl10000.top-HTTPS-2083_4
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
       - 🇨🇦_CA_加拿大
       - 新加坡/阿里云
@@ -168,6 +529,9 @@ proxy-groups:
       - 英国
       - 荷兰
       - 新加坡AI
+      - oo.gx10000.us.kg
+      - tv.gx10000.us.kg
+      - qb.gx10000.us.kg
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -190,6 +554,55 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 官方优选域名
+      - 优选官方线路
+      - HK_1
+      - HK_2
+      - HK_3
+      - HK_4
+      - HK_5
+      - HK_6
+      - HK_7
+      - HK_8
+      - 广东省佛山市 移动
+      - 美国 CloudFlare节点
+      - ok.pl10000.org
+      - als.pl10000.top
+      - als.pl10000.top-HTTP-80_1
+      - als.pl10000.top-HTTP-80_2
+      - als.pl10000.top-HTTP-80_3
+      - als.pl10000.top-HTTP-8080_1
+      - als.pl10000.top-HTTP-8080_2
+      - als.pl10000.top-HTTP-8880_1
+      - als.pl10000.top-HTTP-8880_2
+      - als.pl10000.top-HTTP-8880_3
+      - als.pl10000.top-HTTP-2052
+      - als.pl10000.top-HTTP-2086_1
+      - als.pl10000.top-HTTP-2086_2
+      - als.pl10000.top-HTTP-2095_1
+      - als.pl10000.top-HTTP-2095_2
+      - als.pl10000.top-HTTP-2095_3
+      - als.pl10000.top-HTTP-2082_1
+      - als.pl10000.top-HTTP-2082_2
+      - als.pl10000.top-HTTPS-443_1
+      - als.pl10000.top-HTTPS-443_2
+      - als.pl10000.top-HTTPS-443_3
+      - als.pl10000.top-HTTPS-8443_1
+      - als.pl10000.top-HTTPS-8443_2
+      - als.pl10000.top-HTTPS-8443_3
+      - als.pl10000.top-HTTPS-2053_1
+      - als.pl10000.top-HTTPS-2053_2
+      - als.pl10000.top-HTTPS-2053_3
+      - als.pl10000.top-HTTPS-2096_1
+      - als.pl10000.top-HTTPS-2096_2
+      - als.pl10000.top-HTTPS-2096_3
+      - als.pl10000.top-HTTPS-2087_1
+      - als.pl10000.top-HTTPS-2087_2
+      - als.pl10000.top-HTTPS-2087_3
+      - als.pl10000.top-HTTPS-2083_1
+      - als.pl10000.top-HTTPS-2083_2
+      - als.pl10000.top-HTTPS-2083_3
+      - als.pl10000.top-HTTPS-2083_4
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
       - 🇨🇦_CA_加拿大
       - 新加坡/阿里云
@@ -197,6 +610,9 @@ proxy-groups:
       - 英国
       - 荷兰
       - 新加坡AI
+      - oo.gx10000.us.kg
+      - tv.gx10000.us.kg
+      - qb.gx10000.us.kg
 
 rules:
 # 本地/局域网地址
