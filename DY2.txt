@@ -1,57 +1,4 @@
 由于一些原因该接口地址暂停更新
-🌍测试频道,#genre#
-QQ65267199,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-国冡地理野生,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
-民视新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-纬来电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
-东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
-凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
-环宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
-壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
-TVBS HD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
-中视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
-
-
-
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-澳门卫星,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB星河,http://r.jdshipin.com/sXuuD
-TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB亚洲武侠,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-环球电视,http://live.cgtn.com/500/prog_index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳门莲花,http://php.jdshipin.com:8880/amlh.php
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-TVB星河,http://r.jdshipin.com/sXuuD
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
-TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -7903,3 +7850,8 @@ CRI HIT FM (广州),http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 金陵之声,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221227940/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
 成都文化休闲广播·radio946,http://live.cooltv.top/tv/cdgb.php?id=433-20
 苏州都市音乐广播,http://live.cooltv.top/tv/szradio.php?id=szdsyygb
+🌍重要通知事项,#genre#
+直播源地址后续更换,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+不另行通知劳驾添加,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+微信BC80000008,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
