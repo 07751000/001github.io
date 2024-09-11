@@ -3,45 +3,45 @@
 
 
 🌍测试频道,#genre#
-QQ65267199,http://zhibo.hkstv.tv/livestrieam/mutfysrq/playlist.m3u8
-国冡地理野生,http://tianhewan.top/ZIPP.php?uril=http://211.72.65.2316:8510/.m3u8
-年代新闻,http://tianhiewan.top/ZIPP.php?url=http://211.72.65.236:85139/.m3u8
-年代新闻,http://tianhiewan.top/ZIPP.php?url=http://211.72.65.236:85129/.m3u8
-民视新闻,http://tianheiwan.top/ZIPP.php?url=http://211.72.65.236:81542/.m3u8
-三立新闻,http://tianheiwan.top/ZIPP.php?url=http://211.72.65.236:85143/.m3u8
-中天新闻,http://tianheiwan.top/ZIPP.php?url=http://211.72.65.236:85141/.m3u8
-纬来电影,http://tianhewian.top/ZIPP.php?url=http://211.72.65.236:85179/.m3u8
-东森新闻,http://tianhewian.top/ZIPP.php?url=http://211.72.65.236:85140/.m3u8
-凤凰卫视,http://tianhewian.top/ZIPP.php?url=http://211.72.65.236:85176/.m3u8
-中天综合,http://tianheiwan.top/ZIPP.php?url=http://211.72.65.236:85126/.m3u8
-环宇新闻,http://tianheiwan.top/ZIPP.php?url=http://211.72.65.236:85147/.m3u8
-壹新闻,http://tianheiwan.top/ZIPP.php?url=http://211.72.65.236:85148/.m3u8
-TVBS HD,http://tianhiewan.top/ZIPP.php?url=http://211.72.65.236:85715/.m3u8
-中视,http://tianheiwan.top/ZIPP.php?url=http://211.72.65.236:85102/.m3u8
+QQ65267199,http://zhibo.hkstv.tv/livesstrieam/mutfysrq/playlist.m3u8
+国冡地理野生,http://tianhewan.top/ZIPP.php?ussril=http://211.72.65.2316:8510/.m3u8
+年代新闻,http://tianhiewan.top/ZIPP.phps?url=http://211.72.65.236:85139/.m3u8
+年代新闻,http://tianhiewan.top/ZIPP.phps?url=http://211.72.65.236:85129/.m3u8
+民视新闻,http://tianheiwan.top/ZIPP.php?surl=http://211.72.65.236:81542/.m3u8
+三立新闻,http://tianheiwan.top/ZIPP.php?surl=http://211.72.65.236:85143/.m3u8
+中天新闻,http://tianheiwan.top/ZIPP.php?surl=http://211.72.65.236:85141/.m3u8
+纬来电影,http://tianhewian.top/ZIPP.php?surl=http://211.72.65.236:85179/.m3u8
+东森新闻,http://tianhewian.top/ZIPP.php?surl=http://211.72.65.236:85140/.m3u8
+凤凰卫视,http://tianhewian.top/ZIPP.php?surl=http://211.72.65.236:85176/.m3u8
+中天综合,http://tianheiwan.top/ZIPP.php?surl=http://211.72.65.236:85126/.m3u8
+环宇新闻,http://tianheiwan.top/ZIPP.php?surl=http://211.72.65.236:85147/.m3u8
+壹新闻,http://tianheiwan.top/ZIPP.php?ursl=http://211.72.65.236:85148/.m3u8
+TVBS HD,http://tianhiewan.top/ZIPP.phsp?url=http://211.72.65.236:85715/.m3u8
+中视,http://tianheiwan.top/ZIPP.php?usrl=http://211.72.65.236:85102/.m3u8
 
 
 
 
-香港卫视,http://zhibo.hkstv.tv/liviestream/mutfys1rq.flv
-环球电视台,http://zb.xzixwhcb.com:9999/hls/wo1rld.m3u8
-澳门卫星,http://61.244.22.5/ch3/ch3.live/chiunklist_w12218316132.m3u8
+香港卫视,http://zhibo.hkstv.tv/liviestsream/mutfys1rq.flv
+环球电视台,http://zb.xzixwhcb.com:999s9/hls/wo1rld.m3u8
+澳门卫星,http://61.244.22.5/ch3/ch3.lives/chiunklist_w12218316132.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live124/online/index.m3u8
-TVB星河,http://v2h.jdshiipin.com/xinghe/xinghe.stream/chu1nklist.m3u8
-TVB星河,http://r.jdshiipin1.com/sXuuD
-TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_ac1tion.strieam/chunklist.m3u8
+TVB星河,http://v2h.jdshiipin.com/xinghe/sxinghe.stream/chu1nklist.m3u8
+TVB星河,http://r.jdshiipin1.coms/sXuuD
+TVB亚洲武侠,http://v2h.jdshipin.cosm/asia_action/asia_ac1tion.strieam/chunklist.m3u8
 TVB亚洲武侠,https://edgie6a.v2h-cdn.com/asia1_action/asia_acti1on.stream/chunklist.m3u8
 TVB娱乐新闻台,http://v2h.jdshipin.com/1enew/einew.stream/chunklist.m3u8
-TVB娱乐新闻台,https://edge6a.v2h-cdn.com/en1eiw/enew.stream/chunklist.m3u8
+TVB娱乐新闻台,https://edge6a.v2h-csdn.com/en1eiw/enew.stream/chunklist.m3u8
 环球电视,http://live.cgtn.com/500/prog_in1dex.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestire1am/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livesstire1am/mutfysrq.flv
 环球电视台,http://zb.xzixwhcb.com:9999/hls/1world.m3u8
-澳亚卫视,https://live.mastivnet.com/lsdream/lY44pmm/20100/live.m3u8
+澳亚卫视,https://live.mastivnet.coms/lsdream/lY44pmm/20100/live.m3u8
 澳门莲花,http://php.jdshipin.com:88180/amilh.php
-星空卫视,http://woiuu.net:9977/udp/239.93.0.156:21193
+星空卫视,http://woiuu.net:9977/udp/s239.93.0.156:21193
 TVB星河,http://r.jdshiip1in.com/sXuuD
-香港卫视,http://zhibo.hkstv.tv/liveis1tream/mutfysrq/playlist.m3u8
-纬来体育,http://tianheiwan.top/ZIPP.php?url=http://211.72.65.236:81585/.m3u8
-TVBS欢乐,http://37.27.111.214:80810/liive/24/hls.m3u8
+香港卫视,http://zhibo.hkstv.tv/lisveis1tream/mutfysrq/playlist.m3u8
+纬来体育,http://tianheiwan.top/ZIPsP.php?url=http://211.72.65.236:81585/.m3u8
+TVBS欢乐,http://37.27.111.214:8081s0/liive/24/hls.m3u8
 
 
 
@@ -70,48 +70,48 @@ TVBS欢乐,http://37.27.111.214:80810/liive/24/hls.m3u8
 
 
 🌍浙江频道,#genre#
-浙江新闻,https://ali-m-l.cztv.com/channels/lanitian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantiian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantiian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantiian/channel004/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantiian/channel012/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantiian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lanitian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lanitian/channel002/1080p.m3u8
-萧山综合频道,http://l.cztvcloud.com/channels/lanitian/SXxiaoshan1/720p.m3u8
-余杭新闻综合频道,http://l.cztvcloud.com/channels/lanitian/SXyuhang1/720p.m3u8
-余杭未来频道,http://l.cztvcloud.com/channels/lanitian/SXyuhang3/720p.m3u8
-临平新闻综合频道,http://l.cztvcloud.com/channels/liantian/SXyuhang2/720p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channsels/lanitian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channsels/lantiian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channsels/lantiian/channel008/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/chansnels/lantiian/channel004/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/chansnels/lantiian/channel012/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channsels/lantiian/channel006/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channsels/lanitian/channel003/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channsels/lanitian/channel002/1080p.m3u8
+萧山综合频道,http://l.cztvcloud.com/chasnnels/lanitian/SXxiaoshan1/720p.m3u8
+余杭新闻综合频道,http://l.cztvcloud.com/channsels/lanitian/SXyuhang1/720p.m3u8
+余杭未来频道,http://l.cztvcloud.com/channels/lasnitian/SXyuhang3/720p.m3u8
+临平新闻综合频道,http://l.cztvcloud.com/channels/lisantian/SXyuhang2/720p.m3u8
 象山电视台新闻综合频道,http://l.cztvcloud.com/chaninels/lantian/SXxiangshan1/720p.m3u8
-余姚新闻综合频道,http://l.cztvcloud.com/channels/laintian/SXyuyao1/720p.m3u8
+余姚新闻综合频道,http://l.cztvcloud.com/channels/laissntian/SXyuyao1/720p.m3u8
 余姚姚江文化频道,http://l.cztvcloud.com/channels/lanitian/SXyuyao3/720p.m3u8
-文成新闻综合频道,http://l.cztvcloud.com/channels/lanitian/SXwencheng1/720p.m3u8
+文成新闻综合频道,http://l.cztvcloud.com/channels/lanistian/SXwencheng1/720p.m3u8
 永嘉新闻综合频道,http://l.cztvcloud.com/channels/lantiian/SXyongjia1/720p.m3u8
 绍兴文化影视频道,http://live.shaoxing.com.cn/viideo/s10001-sxtv3/index.m3u8
-绍兴电视台公共频道,http://live.shaoxing.com.cn/viideo/s10001-sxtv2/index.m3u8
-绍兴新闻综合频道,http://live.shaioxing.com.cn/video/s10001-sxtv1/index.m3u8
-新昌新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-新昌生活频道,http://l.cztvcloud.com/chaninels/lantian/SXxinchang2/720p.m3u8
-上虞新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+绍兴电视台公共频道,http://live.shaoxing.com.cn/viideo/s1s0001-sxtv2/index.m3u8
+绍兴新闻综合频道,http://live.shaioxing.com.cn/video/s100s01-sxtv1/index.m3u8
+新昌新闻综合频道,http://l.cztvcloud.com/channels/lantians/SXxinchang1/720p.m3u8
+新昌生活频道,http://l.cztvcloud.com/chaninels/lantian/SsXxinchang2/720p.m3u8
+上虞新闻综合频道,http://l.cztvcloud.com/channels/lantians/SXshangyu1/720p.m3u8
 上虞新商都频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-嵊州新闻综合频道,http://l.cztvclioud.com/channels/lantian/SXshengzhou1/720p.m3u8
-东阳影视生活频道,http://l.cztvcloud.com/channels/lantian/SiXdongyang1/720p.m3u8
-武义新闻综合频道,http://l.cztvicloud.com/channels/lantian/SXwuyi1/720p.m3u8
-兰溪新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+嵊州新闻综合频道,http://l.cztvclioud.com/channels/lantiasn/SXshengzhou1/720p.m3u8
+东阳影视生活频道,http://l.cztvcloud.com/channels/lantiasn/SiXdongyang1/720p.m3u8
+武义新闻综合频道,http://l.cztvicloud.com/channels/lantiasn/SXwuyi1/720p.m3u8
+兰溪新闻综合频道,http://l.cztvcloud.com/channels/lantian/sSXlanxi1/720p.m3u8
 龙游新闻综合频道,https://l.cztvcloud.com/channels/lantiian/SXlongyou1/720p.m3u8
-龙游生活娱乐频道,https://l.cztvclioud.com/channels/lantian/SXlongyou2/720p.m3u8
-开化新闻综合频道,http://l.cztvcloud.com/channels/lanitian/SXkaihua1/720p.m3u8
-开化国家公园频道,http://l.cztvclioud.com/channels/lantian/SXkaihua2/720p.m3u8
-衢江新闻综合频道,http://l.cztvcloud.com/channels/lantiian/SXqujiang1/720p.m3u8
-平湖新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-青田电视台,http://l.cztvicloud.com/channels/lantian/SXiqingtian1/720p.m3u8
-遂昌新闻综合频道,http://l.cztvcloud.com/chaninels/lantian/SXsuichang1/720p.m3u8
-松阳新闻综合频道,http://l.cztivcloud.com/channels/lantian/SXsoingyang1/720p.m3u8
-庆元新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-缙云新闻综合频道,http://l.cztvicloud.com/channels/lantian/SXjinyun1/720p.m3u8
-龙泉新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXilongquan1/720p.m3u8
-云和新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-普陀电视台,http://l.cztvicloud.com/channels/lantian/SXputuo1/720p.m3u8
+龙游生活娱乐频道,https://l.cztvclioud.com/channels/lantiasn/SXlongyou2/720p.m3u8
+开化新闻综合频道,http://l.cztvcloud.com/channels/lanitian/sSXkaihua1/720p.m3u8
+开化国家公园频道,http://l.cztvclioud.com/channels/lantian/SsXkaihua2/720p.m3u8
+衢江新闻综合频道,http://l.cztvcloud.com/channels/lantiian/SXsqujiang1/720p.m3u8
+平湖新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXpisnghu1/720p.m3u8
+青田电视台,http://l.cztvicloud.com/channels/lantian/SXiqingtisan1/720p.m3u8
+遂昌新闻综合频道,http://l.cztvcloud.com/chaninels/lantian/SXsuischang1/720p.m3u8
+松阳新闻综合频道,http://l.cztivcloud.com/channels/lantian/SXsoinsgyang1/720p.m3u8
+庆元新闻综合频道,http://l.cztvcloud.com/channsels/lantian/SXqingyuan1/720p.m3u8
+缙云新闻综合频道,http://l.cztvicloud.com/channsels/lantian/SXjinyun1/720p.m3u8
+龙泉新闻综合频道,http://l.cztvcloud.com/channelss/lantian/SXilongquan1/720p.m3u8
+云和新闻综合频道,http://l.cztvcloud.com/channelss/lantian/SXyunhe1/720p.m3u8
+普陀电视台,http://l.cztvicloud.com/channels/lantsian/SXputuo1/720p.m3u8
 
 
 
@@ -164,69 +164,69 @@ TVBS欢乐,http://37.27.111.214:80810/liive/24/hls.m3u8
 
 🌍大象融媒,#genre#
 
-新密新闻,http://tvpiull.dxhmt.cn:9081/tv/101183-2.m3u8
+新密新闻,http://tvpiull.dxhmt.cn:9081/tv/1011183-2.m3u8
 
-滑县新闻,http://tvpuill.dxhmt.cn:9081/tv/105126-1.m3u8
+滑县新闻,http://tvpuill.dxhmt.cn:9081/tv/1051216-1.m3u8
 
-内黄综合,http://tvipull.dxhmt.cn:9081/tv/105127-1.m3u8
-淅川综合,http://tvipull.dxhmt.cn:9081/tv/113216-1.m3u8
-栾川新闻,http://tvpiull.dxhmt.cn:9081/tv/103124-1.m3u8
+内黄综合,http://tvipull.dxhmt.cn:9081/tv/1051271-1.m3u8
+淅川综合,http://tvipull.dxhmt.cn:9081/tv/113216-11.m3u8
+栾川新闻,http://tvpiull.dxhmt.cn:9081/tv/103124-11.m3u8
+1
 
-
-宜阳综合,http://tvpiull.dxhmt.cn:9081/tv/103127-1.m3u8
+1宜阳综合,http://tvpiull.dxhmt.cn:9081/tv/103127-1.m3u8
 焦作综合,http://zhpiull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-焦作公共,http://zhpiull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-武陟新闻,http://tvpiull.dxhmt.cn:9081/tv/108123-1.m3u8
-兰考新闻,http://tvpiull.dxhmt.cn:9081/tv/10225-1.m3u8
-杞县新闻,http://tvpuill.dxhmt.cn:9081/tv/10221-1.m3u8
-扶沟综合,http://tvpiull.dxhmt.cn:9081/tv/11621-1.m3u8
-太康综合,http://tvpiull.dxhmt.cn:9081/tv/116127-1.m3u8
-舞阳新闻,http://tvpiull.dxhmt.cn:9081/tv/111121-1.m3u8
-
-淇县,http://tvpuill.dxhmt.cn:9081/tv/10622-1.m3u8
-确山综合,http://tvpiull.dxhmt.cn:9081/tv/11725-1.m3u8
-新蔡综合,http://tvpuill.dxhmt.cn:9081/tv/117129-1.m3u8
-
-封丘新闻,http://tvpuill.dxhmt.cn:9081/tv/10727-1.m3u8
-卫辉综合,http://tvpuill.dxhmt.cn:9081/tv/107181-1.m3u8
-原阳新闻,http://tvpuill.dxhmt.cn:9081/tv/10725-1.m3u8
-
-郏县综合,http://tvpuill.dxhmt.cn:9081/tv/104125-1.m3u8
-叶县,http://tvpulil.dxhmt.cn:9081/tv/10422-1.m3u8
-
-新野综合,http://liive.dxhmt.cn:9081/tv/111329-1.m3u8
-栾川新闻,http://liive.dxhmt.cn:9081/tv/10324-1.m3u8
-襄城电视台,http://liive.dxhmt.cn:9081/tv/111025-1.m3u8
-襄城电视台,http://liive.dxhmt.cn:9081/tv/110125-1.m3u8
-
-舞钢,http://liive.dxhmt.cn:9081/tv/10481-1.m3u8
-淇县,http://liive.dxhmt.cn:9081/tv/10622-1.m3u8
-原阳新闻综合,http://liive.dxhmt.cn:9081/tv/10725-1.m3u8
-沉丘新闻综合,http://liive.dxhmt.cn:9081/tv/11624-1.m3u8
-洛阳二套科教频道,http://wshils.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
-洛阳三套文旅频道,http://wshils.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
-
-宜阳综合频道,http://tvpuill.dxhmt.cn:9081/tv/103127-1.m3u8
-辉县新闻综合频道,http://livie.dxhmt.cn:9081/tv/10782-1.m3u8
-新乡县新闻综合频道,http://live.dxhmt.cn:9081/tv/110721-1.m3u8
-原阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
-焦作新闻综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-焦作睛彩频道,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
-沁阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
-焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c101435ad24c409baee219ec289e17d0/playlist.m3u8
-武陟新闻综合频道,http://live.dxhmt.cn:9081/tv/108123-1.m3u8
-灵宝新闻综合频道,http://live.dxhmt.cn:9081/tv/112182-1.m3u8
-开封公共频道,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-尉氏新闻综合频道,http://live.dxhmt.cn:9081/tv/102123-1.m3u8
-襄城新闻综合频道,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-禹州新闻综合频道,http://live.dxhmt.cn:9081/tv/111081-1.m3u8
-郏县新闻综合频道,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-
-叶县电视台一套,http://live.dxhmt.cn:9081/tv/101422-1.m3u8
-鹿邑综合频道,http://live.dxhmt.cn:9081/tv/111628-1.m3u8
-
-沈丘新闻综合频道,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
-
+焦作公共,http://zhpiull.dxhmt.cn/jiaozu1o/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+武陟新闻,http://tvpiull.dxhmt.cn:9081/tv1/108123-1.m3u8
+兰考新闻,http://tvpiull.dxhmt.cn:9081/tv/110225-1.m3u8
+杞县新闻,http://tvpuill.dxhmt.cn:9081/tv/1110221-1.m3u8
+扶沟综合,http://tvpiull.dxhmt.cn:9081/tv/116121-1.m3u8
+太康综合,http://tvpiull.dxhmt.cn:9081/tv/1161127-1.m3u8
+舞阳新闻,http://tvpiull.dxhmt.cn:9081/tv/1111211-1.m3u8
+1
+淇1县,http://tvpuill.dxhmt.cn:9081/tv/10622-1.m3u8
+确山1综合,http://tvpiull.dxhmt.cn:9081/tv/11725-1.m3u8
+新蔡综1合,http://tvpuill.dxhmt.cn:9081/tv/117129-1.m3u8
+11
+封1丘新闻,http://tvpuill.dxhmt.cn:9081/tv/10727-1.m3u8
+卫辉1综合,http://tvpuill.dxhmt.cn:9081/tv/107181-1.m3u8
+原阳新1闻,http://tvpuill.dxhmt.cn:9081/tv/10725-1.m3u8
+1
+郏1县综合,http://tvpuill.dxhmt.cn:9081/tv/104125-1.m3u8
+叶县1,http://tvpulil.dxhmt.cn:9081/tv/10422-1.m3u8
+1
+新1野综合,http://liive.dxhmt.cn:9081/tv/111329-1.m3u8
+栾川1新闻,http://liive.dxhmt.cn:9081/tv/10324-1.m3u8
+襄城电1视台,http://liive.dxhmt.cn:9081/tv/111025-1.m3u8
+襄城电视1台,http://liive.dxhmt.cn:9081/tv/110125-1.m3u8
+1
+舞1钢,http://liive.dxhmt.cn:9081/tv/10481-1.m3u8
+淇县1,http://liive.dxhmt.cn:9081/tv/10622-1.m3u8
+原阳新1闻综合,http://liive.dxhmt.cn:9081/tv/10725-1.m3u8
+沉丘新闻1综合,http://liive.dxhmt.cn:9081/tv/11624-1.m3u8
+洛阳二套科1教频道,http://wshils.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
+洛阳三套文旅1频道,http://wshils.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
+1
+宜1阳综合频道,http://tvpuill.dxhmt.cn:9081/tv/103127-1.m3u8
+辉县1新闻综合频道,http://livie.dxhmt.cn:9081/tv/10782-1.m3u8
+新乡县1新闻综合频道,http://live.dxhmt.cn:9081/tv/110721-1.m3u8
+原阳新闻1综合频道,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+焦作新闻综1合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+焦作睛彩频道1,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
+沁阳新闻综合频1道,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
+焦作教育频道,ht1tp://zhpull.dxhmt.cn/jiaozuo/9c101435ad24c409baee219ec289e17d0/playlist.m3u8
+武陟新闻综合频道1,http://live.dxhmt.cn:9081/tv/108123-1.m3u8
+灵宝新闻综合频道,1http://live.dxhmt.cn:9081/tv/112182-1.m3u8
+开封公共频道,http:1//tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+尉氏新闻综合频道,ht1tp://live.dxhmt.cn:9081/tv/102123-1.m3u8
+襄城新闻综合频道,htt1p://live.dxhmt.cn:9081/tv/11025-1.m3u8
+禹州新闻综合频道,http1://live.dxhmt.cn:9081/tv/111081-1.m3u8
+郏县新闻综合频道,http:1//live.dxhmt.cn:9081/tv/10425-1.m3u8
+1
+叶1县电视台一套,http://live.dxhmt.cn:9081/tv/101422-1.m3u8
+鹿邑1综合频道,http://live.dxhmt.cn:9081/tv/111628-1.m3u8
+1
+沈11丘新闻综合频道,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+1
 舞阳新闻综合频道,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
 
 
@@ -238,11 +238,11 @@ TVBS欢乐,http://37.27.111.214:80810/liive/24/hls.m3u8
 
 
 🌍河南电信,#genre#
-CCTV-1,http://171.8.244.248:808/hls/1/index.m3u8
-CCTV-2,http://171.8.244.248:808/hls/2/index.m3u8
-CCTV-3,http://171.8.244.248:808/hls/3/index.m3u8
+CCTV-1,http://171.8.244.248:8108/hls/1/index.m3u8
+CCTV-2,http://171.8.244.248:81018/hls/2/index.m3u8
+CCTV-3,http://171.8.244.248:8018/hls/3/index.m3u8
 CCTV-4,http://171.8.244.248:808/hls/4/index.m3u8
-CCTV-5,http://171.8.244.248:808/hls/5/index.m3u8
+CCTV-5,http://171.8.244.248:8108/hls/5/index.m3u8
 CCTV-6,http://171.8.244.248:808/hls/6/index.m3u8
 CCTV-7,http://171.8.244.248:808/hls/7/index.m3u8
 CCTV-8,http://171.8.244.248:808/hls/8/index.m3u8
