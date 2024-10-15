@@ -1,2 +1,2 @@
 测试使用,#genre#
-测试频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+vx:BC80000008,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
